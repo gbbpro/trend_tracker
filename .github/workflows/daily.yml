@@ -2,12 +2,12 @@ name: Daily trend scan
 
 on:
   schedule:
-    - cron: "23 13 * * *"   # every day at 13:23 UTC (6:23 am Denver standard time, 7:23 am daylight time)
-  workflow_dispatch:         # adds a "Run workflow" button on the Actions tab
+    - cron: "23 13 * * *" # every day at 13:23 UTC (6:23 am Denver standard time, 7:23 am daylight time)
+  workflow_dispatch: # adds a "Run workflow" button on the Actions tab
 
 permissions:
-  contents: write            # lets the job commit the report and history back to the repo
-  pages: write               # publish the reports to GitHub Pages
+  contents: write # lets the job commit the report and history back to the repo
+  pages: write # publish the reports to GitHub Pages
   id-token: write
 
 concurrency:
