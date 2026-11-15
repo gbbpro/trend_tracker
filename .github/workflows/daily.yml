@@ -1,0 +1,47 @@
+name: Daily trend scan
+
+on:
+  schedule:
+    - cron: "23 13 * * *"   # every day at 13:23 UTC (6:23 am Denver standard time, 7:23 am daylight time)
+  workflow_dispatch:         # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write            # lets the job commit the report and history back to the repo
+
+concurrency:
+  group: daily-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run trendnamer
+        env:
+          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
+          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
+        run: |
+          DAY=$(date -u +%F)
+          mkdir -p reports snapshots
+          python trendnamer.py --out "reports/$DAY" --save-snapshot "snapshots/$DAY.json" | tee "reports/$DAY.txt"
+          cp "reports/$DAY.csv" reports/latest.csv
+          cp "reports/$DAY.html" reports/latest.html
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add history.json reports snapshots
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit."
+          else
+            git commit -m "Daily scan $(date -u +%F)"
+            git push
+          fi

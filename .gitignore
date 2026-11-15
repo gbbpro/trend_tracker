@@ -1,1 +1,6 @@
 .env
+__pycache__/
+*.pyc
+# local test runs; the daily job writes to reports/ instead
+trendnamer_report.*
+demoreport.html
