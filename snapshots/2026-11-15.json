@@ -2,63 +2,63 @@
  "date": "2026-11-15",
  "signals": [
   {
-   "text": "jets backup qb",
-   "source": "google_trends",
-   "weight": 1000,
-   "entity": true
-  },
-  {
-   "text": "kc current vs gotham",
-   "source": "google_trends",
-   "weight": 500,
-   "entity": true
-  },
-  {
-   "text": "kyle van noy",
-   "source": "google_trends",
-   "weight": 500,
-   "entity": true
-  },
-  {
-   "text": "alvin kamara",
+   "text": "cliff booth",
    "source": "google_trends",
    "weight": 2000,
    "entity": true
   },
   {
-   "text": "cade klubnik",
+   "text": "cliff booth movie",
+   "source": "google_trends",
+   "weight": 2000,
+   "entity": true
+  },
+  {
+   "text": "president donald trump",
+   "source": "google_trends",
+   "weight": 5000,
+   "entity": true
+  },
+  {
+   "text": "creighton vs iowa",
    "source": "google_trends",
    "weight": 500,
    "entity": true
   },
   {
-   "text": "spain fc",
+   "text": "mackenzie scott",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "pascal siakam",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "lewis hall",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "nwsl schedule",
    "source": "google_trends",
    "weight": 200,
    "entity": true
   },
   {
-   "text": "xavier worthy",
+   "text": "matt lafleur",
    "source": "google_trends",
-   "weight": 500,
+   "weight": 200,
    "entity": true
   },
   {
-   "text": "aaron jones",
+   "text": "caleb douglas",
    "source": "google_trends",
-   "weight": 2000,
-   "entity": true
-  },
-  {
-   "text": "travis hunter",
-   "source": "google_trends",
-   "weight": 2000,
-   "entity": true
-  },
-  {
-   "text": "jerry jeudy",
-   "source": "google_trends",
-   "weight": 500,
+   "weight": 200,
    "entity": true
   },
   {
@@ -1429,152 +1429,152 @@
   {
    "text": "SpaceX catches the Starship to end Flight 15",
    "source": "hackernews",
-   "weight": 1557
-  },
-  {
-   "text": "Lovable apps expose passport details and more than 200K private messages",
-   "source": "hackernews",
-   "weight": 960
+   "weight": 1578
   },
   {
    "text": "All AI-generated code should be Open Source",
    "source": "hackernews",
-   "weight": 818
+   "weight": 904
   },
   {
    "text": "Court denies motion to dismiss DRAM price fixing case",
    "source": "hackernews",
-   "weight": 434
+   "weight": 448
   },
   {
    "text": "A family tree of software job titles",
    "source": "hackernews",
-   "weight": 419
+   "weight": 423
   },
   {
    "text": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
    "source": "hackernews",
-   "weight": 340
+   "weight": 370
   },
   {
-   "text": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+   "text": "The MacBook Pro's OLED PWM problem",
    "source": "hackernews",
-   "weight": 294
+   "weight": 316
   },
   {
    "text": "How did Woz write the Apple 1 BASIC before building the computer?",
    "source": "hackernews",
-   "weight": 294
-  },
-  {
-   "text": "Why did some Apollo missions carry a grenade launcher?",
-   "source": "hackernews",
-   "weight": 183
+   "weight": 297
   },
   {
    "text": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
    "source": "hackernews",
-   "weight": 177
+   "weight": 197
+  },
+  {
+   "text": "Why did some Apollo missions carry a grenade launcher?",
+   "source": "hackernews",
+   "weight": 190
   },
   {
    "text": "Understanding Positional Embeddings in Modern LLMs",
    "source": "hackernews",
-   "weight": 148
+   "weight": 159
   },
   {
    "text": "Things That Turbo Pascal Is Smaller Than (2011)",
    "source": "hackernews",
-   "weight": 138
+   "weight": 150
   },
   {
    "text": "Emacs Is My Browser",
    "source": "hackernews",
-   "weight": 108
-  },
-  {
-   "text": "What thousands of conversations look like inside a language model",
-   "source": "hackernews",
-   "weight": 82
-  },
-  {
-   "text": "A NES emulator written in Odin",
-   "source": "hackernews",
-   "weight": 79
-  },
-  {
-   "text": "The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)",
-   "source": "hackernews",
-   "weight": 73
-  },
-  {
-   "text": "Handwritten 200-year-old dismissal notice found on roof tile",
-   "source": "hackernews",
-   "weight": 64
-  },
-  {
-   "text": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
-   "source": "hackernews",
-   "weight": 58
+   "weight": 123
   },
   {
    "text": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
    "source": "hackernews",
-   "weight": 50
+   "weight": 117
   },
   {
-   "text": "20 Years of Pyrolog",
+   "text": "What thousands of conversations look like inside a language model",
    "source": "hackernews",
-   "weight": 50
+   "weight": 91
   },
   {
-   "text": "How to read codes from (many) IR remote controls with as little code as possible",
+   "text": "A NES emulator written in Odin",
    "source": "hackernews",
-   "weight": 45
+   "weight": 84
   },
   {
-   "text": "Chasing an audio artifact on power loss",
+   "text": "Handwritten 200-year-old dismissal notice found on roof tile",
    "source": "hackernews",
-   "weight": 43
-  },
-  {
-   "text": "The Telephone Changed the World",
-   "source": "hackernews",
-   "weight": 41
+   "weight": 68
   },
   {
    "text": "A short explainer on how El Ni\u00f1o works [video]",
    "source": "hackernews",
-   "weight": 41
+   "weight": 65
+  },
+  {
+   "text": "Show HN: Carton Clock \u2013 A working pendulum clock made from empty drink cartons",
+   "source": "hackernews",
+   "weight": 63
   },
   {
    "text": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
    "source": "hackernews",
-   "weight": 35
+   "weight": 60
+  },
+  {
+   "text": "20 Years of Pyrolog",
+   "source": "hackernews",
+   "weight": 55
+  },
+  {
+   "text": "How to read codes from (many) IR remote controls with as little code as possible",
+   "source": "hackernews",
+   "weight": 48
+  },
+  {
+   "text": "Chasing an audio artifact on power loss",
+   "source": "hackernews",
+   "weight": 45
+  },
+  {
+   "text": "The Telephone Changed the World",
+   "source": "hackernews",
+   "weight": 43
   },
   {
    "text": "Notes on Mathematics for Engineers (1959) [pdf]",
    "source": "hackernews",
-   "weight": 29
+   "weight": 37
   },
   {
-   "text": "Show HN: db-branch \u2013 database branches in seconds for AI agents and CI, via ZFS",
+   "text": "Clice v1.0 Released: Welcome to Modern C++",
+   "source": "hackernews",
+   "weight": 27
+  },
+  {
+   "text": "Parents pay $75k for Alpha's AI school. Half of its students missed math target",
+   "source": "hackernews",
+   "weight": 25
+  },
+  {
+   "text": "Eclipse Mosquitto \u2013 An open source MQTT broker",
    "source": "hackernews",
    "weight": 23
   },
   {
    "text": "Eval Awareness vs. Eval Paranoia",
    "source": "hackernews",
-   "weight": 13
+   "weight": 22
   },
   {
-   "text": "Eclipse Mosquitto \u2013 An open source MQTT broker",
+   "text": "Bullet Dodged",
    "source": "hackernews",
-   "weight": 10
+   "weight": 11
   },
   {
-   "text": "Clice v1.0 Released: Welcome to Modern C++",
+   "text": "Do House members' stock trades beat the market? A test of 8,900 trades",
    "source": "hackernews",
-   "weight": 5
+   "weight": 6
   },
   {
    "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
@@ -1592,37 +1592,37 @@
    "weight": 98
   },
   {
-   "text": "Two aircraft collide at Miami International Airport",
+   "text": "Trump breaks silence on nationwide ground stop and demands more money from Congress",
    "source": "google_news",
    "weight": 97
   },
   {
-   "text": "US judge blocks Trump\u2019s plan to renovate historic DC golf course",
+   "text": "Two planes collide on taxiway at Miami airport one day after national grounding",
    "source": "google_news",
    "weight": 96
   },
   {
-   "text": "Trump's top officials retreat behind military gates as ex-FBI deputy points to what's fueling threats",
+   "text": "Federal judge blocks Trump from closing historic D.C. golf course, for now; Trump says admin will appeal",
    "source": "google_news",
    "weight": 95
   },
   {
-   "text": "Transportation secretary says he doesn\u2019t apologize for FAA\u2019s nationwide ground stop",
+   "text": "Thousands of US flights cancelled or delayed two days after grounding of planes nationwide",
    "source": "google_news",
    "weight": 94
   },
   {
-   "text": "Poll: Republicans have a MAGA dilemma after their midterm losses",
+   "text": "Sen.-elect Scott Colom says investing in the South can help Democrats win \u2018a durable majority\u2019",
    "source": "google_news",
    "weight": 93
   },
   {
-   "text": "Iran targets US military base in Bahrain with drone attack",
+   "text": "Poll: Republicans have a MAGA dilemma after their midterm losses",
    "source": "google_news",
    "weight": 92
   },
   {
-   "text": "New Orleans port sues owners of tanker involved in Mississippi crash",
+   "text": "Breaking News: Six individuals remain hospitalized as Mississippi river boat crash investigation continues",
    "source": "google_news",
    "weight": 91
   },
@@ -1647,22 +1647,22 @@
    "weight": 87
   },
   {
-   "text": "\u2018Jensen Huang lost his mind\u2019: how AI\u2019s smartest man fell for the world\u2019s oldest trick",
+   "text": "Bessent Says Nvidia Needs \u2018Dramatic Shakeup\u2019 With Huang Out",
    "source": "google_news",
    "weight": 86
   },
   {
-   "text": "Bessent Says Nvidia Needs \u2018Dramatic Shakeup\u2019 With Huang Out",
+   "text": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
    "source": "google_news",
    "weight": 85
   },
   {
-   "text": "Anthropic\u2019s IPO lands as the embattled AI trade looks for a much-needed bright spot",
+   "text": "Jensen Huang discusses comeback as Nvidia CEO with allies",
    "source": "google_news",
    "weight": 84
   },
   {
-   "text": "Will Nvidia earnings steady the AI sell-off?",
+   "text": "South Korea's top scorer in tax accountancy exam admits cheating",
    "source": "google_news",
    "weight": 83
   },
@@ -1672,12 +1672,12 @@
    "weight": 82
   },
   {
-   "text": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
+   "text": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
    "source": "google_news",
    "weight": 81
   },
   {
-   "text": "Apple Bets on Siri AI Apps as the Main Draw for Its Smart Glasses",
+   "text": "Apple Black Friday Starts Early: Save on Apple Watch, MacBook Air, and More",
    "source": "google_news",
    "weight": 80
   },
@@ -1692,42 +1692,42 @@
    "weight": 78
   },
   {
-   "text": "Can You Feel It in the Air Tonight? 11 Best Moments From 2026 Rock & Roll Hall of Fame Induction Ceremony",
+   "text": "The Rock Hall of Fame's best surprises, from Phil Collins to Aerosmith",
    "source": "google_news",
    "weight": 77
   },
   {
-   "text": "Phoebe Bridgers Glows On SNL",
+   "text": "Gypsy Rose Says Leaked Prison Calls Were Turning Point Before Ken Urker's Death",
    "source": "google_news",
    "weight": 76
   },
   {
-   "text": "Michael J. Fox\u2019s Rarely-Seen Daughters Tower Over Him During Glam Red Carpet With Wife Tracy Pollan",
+   "text": "Phoebe Bridgers Glows On SNL",
    "source": "google_news",
    "weight": 75
   },
   {
-   "text": "Patriots' Drake Maye, Lions' Aidan Hutchinson both injured on same play in Munich",
+   "text": "Aidan Hutchinson injures knee after sack celebration, set for tests on return to Detroit",
    "source": "google_news",
    "weight": 74
   },
   {
-   "text": "Arch Manning on Texas eliminating LSU from CFP race: 'We talked about the chance to end someone else's dream'",
+   "text": "Week 10 NFL scores, live updates: Travis Kelce returns after injury scare; Aidan Hutchinson feared to have suffered season-ending knee injury in Munich",
    "source": "google_news",
    "weight": 73
   },
   {
-   "text": "Gerry Dulac\u2019s 2026 NFL predictions: Week 10 - Pittsburgh Post-Gazette",
+   "text": "Arch Manning on Texas eliminating LSU from CFP race: 'We talked about the chance to end someone else's dream'",
    "source": "google_news",
    "weight": 72
   },
   {
-   "text": "Dana White admits he was wrong about Josh Hokit after UFC 334: 'Stock went up with me'",
+   "text": "Ciryl Gane survives early onslaught, edges Josh Hokit in UFC 334 main event",
    "source": "google_news",
    "weight": 71
   },
   {
-   "text": "What's next for SpaceX's Starship after epic Flight 15 chopsticks catch?",
+   "text": "SpaceX completes first-ever spaceship capture",
    "source": "google_news",
    "weight": 70
   },
@@ -1737,12 +1737,12 @@
    "weight": 69
   },
   {
-   "text": "NASA's Voyager 1 mission forever changed our view of Jupiter (photos)",
+   "text": "European survey reveals 900m galaxies \u2013 and possibly secrets of \u2018dark universe\u2019 | Astronomy",
    "source": "google_news",
    "weight": 68
   },
   {
-   "text": "The Leonid meteor shower is peaking soon. Here\u2019s how to view it.",
+   "text": "NASA's Voyager 1 mission forever changed our view of Jupiter (photos)",
    "source": "google_news",
    "weight": 67
   },
@@ -1752,12 +1752,12 @@
    "weight": 66
   },
   {
-   "text": "A simple supplement could help your immune system fight cancer and viral infections",
+   "text": "Africa CDC says Ebola outbreak still out of control six months since it was declared",
    "source": "google_news",
    "weight": 65
   },
   {
-   "text": "Ebola outbreak remains out of control in Congo 6 months into response - ABC News",
+   "text": "A simple supplement could help your immune system fight cancer and viral infections",
    "source": "google_news",
    "weight": 64
   },
@@ -1772,12 +1772,12 @@
    "weight": 50
   },
   {
-   "text": "Epstein files release",
+   "text": "Russell Brand trial",
    "source": "bluesky",
    "weight": 49
   },
   {
-   "text": "Trump blames Biden for FAA ground stop",
+   "text": "All-time favorite moments in music",
    "source": "bluesky",
    "weight": 48
   },
@@ -1787,32 +1787,32 @@
    "weight": 47
   },
   {
-   "text": "All-time favorite moments in music",
+   "text": "Trump blames Biden for FAA ground stop",
    "source": "bluesky",
    "weight": 46
   },
   {
-   "text": "All-time favorite movie scenes",
+   "text": "Transportation Secretary Sean Duffy",
    "source": "bluesky",
    "weight": 45
   },
   {
-   "text": "SpaceX catches Starship upper stage",
+   "text": "Pope Leo rides Peruvian helicopter",
    "source": "bluesky",
    "weight": 44
   },
   {
-   "text": "Aidan Hutchinson possibly hurt celebrating sack",
+   "text": "Italy Meta photo access case",
    "source": "bluesky",
    "weight": 43
   },
   {
-   "text": "Investigation into Brooklyn collapse widens",
+   "text": "Bird photography",
    "source": "bluesky",
    "weight": 42
   },
   {
-   "text": "Microsoft resolves global outage",
+   "text": "Investigation into Brooklyn collapse widens",
    "source": "bluesky",
    "weight": 41
   },
@@ -1822,17 +1822,17 @@
    "weight": 40
   },
   {
-   "text": "Calls to replace Schumer and Jeffries",
+   "text": "Van Hollen runs for Senate leader",
    "source": "bluesky",
    "weight": 39
   },
   {
-   "text": "ICE detentions separate families",
+   "text": "Calls to replace Schumer and Jeffries",
    "source": "bluesky",
    "weight": 38
   },
   {
-   "text": "Transportation Secretary Sean Duffy",
+   "text": "All-time favorite movie scenes",
    "source": "bluesky",
    "weight": 37
   },
@@ -1842,554 +1842,554 @@
    "weight": 36
   },
   {
-   "text": "Alan Milburn on youth unemployment",
+   "text": "Iran drones target Bahrain base",
    "source": "bluesky",
    "weight": 35
   },
   {
-   "text": "Midterm election aftermath for democracy",
+   "text": "Alan Milburn on youth unemployment",
    "source": "bluesky",
    "weight": 34
   },
   {
-   "text": "Van Hollen runs for Senate leader",
+   "text": "US loses measles elimination status",
    "source": "bluesky",
    "weight": 33
   },
   {
-   "text": "Israel's war in Gaza",
+   "text": "Midterm election aftermath for democracy",
    "source": "bluesky",
    "weight": 32
   },
   {
-   "text": "Russell Brand trial",
+   "text": "Alaska Senate race vote count",
    "source": "bluesky",
    "weight": 31
   },
   {
-   "text": "Senate weighs BAAJA permitting bill",
+   "text": "Trump's \"Trash Island\" golf post",
    "source": "bluesky",
    "weight": 30
   },
   {
-   "text": "Lutnick chip export controls scandal",
+   "text": "Data center ballot measures",
    "source": "bluesky",
    "weight": 29
   },
   {
-   "text": "Hegseth's \"men with swords\" post",
+   "text": "Florida city cancels St. Patrick's Day parade",
    "source": "bluesky",
    "weight": 28
   },
   {
-   "text": "Data center ballot measures",
+   "text": "Senate weighs BAAJA permitting bill",
    "source": "bluesky",
    "weight": 27
   },
   {
-   "text": "Calls for Medicare for All",
+   "text": "Israel's war in Gaza",
    "source": "bluesky",
    "weight": 26
   },
   {
    "text": "I\u2019m no hunter but I know when your faithful companion brings you a trophy leaf, you get a picture with it",
    "source": "reddit/popular",
-   "weight": 72165
+   "weight": 72645
   },
   {
    "text": "My dog gets into this position every single night with the curtain on his head.",
    "source": "reddit/popular",
-   "weight": 52855
+   "weight": 53356
   },
   {
    "text": "W",
    "source": "reddit/popular",
-   "weight": 39859
+   "weight": 40659
   },
   {
    "text": "amazon drone delivery",
    "source": "reddit/popular",
-   "weight": 37629
+   "weight": 37863
   },
   {
    "text": "Her grandparents told her to come downstairs for a moment... and waiting for her downstairs was her first car",
    "source": "reddit/popular",
-   "weight": 36065
-  },
-  {
-   "text": "Buster gets busted",
-   "source": "reddit/popular",
-   "weight": 33837
+   "weight": 36356
   },
   {
    "text": "A masterclass in how to respond when people are clapping during your Birthday",
    "source": "reddit/popular",
-   "weight": 32850
-  },
-  {
-   "text": "I would have given them more 24 hours, 3 days is way more for an AI startup",
-   "source": "reddit/popular",
-   "weight": 30356
-  },
-  {
-   "text": "'Duffy Lied': Air Traffic Controllers Refute Transportation Secretary's Ground Stop Explanation",
-   "source": "reddit/popular",
-   "weight": 29710
+   "weight": 35603
   },
   {
    "text": "[OC] Dog drawing by me",
    "source": "reddit/popular",
-   "weight": 31314
+   "weight": 35172
+  },
+  {
+   "text": "I would have given them more 24 hours, 3 days is way more for an AI startup",
+   "source": "reddit/popular",
+   "weight": 30504
+  },
+  {
+   "text": "'Duffy Lied': Air Traffic Controllers Refute Transportation Secretary's Ground Stop Explanation",
+   "source": "reddit/popular",
+   "weight": 29961
   },
   {
    "text": "Girl doing live stream and the cat decides to read the chat.",
    "source": "reddit/popular",
-   "weight": 27851
+   "weight": 28030
   },
   {
    "text": "Starship 42 successfully CAUGHT by the Mechazilla chopsticks after a day in orbit \u2014 becoming the first time in history an orbital rocket has ever been fully recovered",
    "source": "reddit/popular",
-   "weight": 27304
-  },
-  {
-   "text": "Johnson says \u2018we don\u2019t really need any investigation\u2019 on FAA ground stop",
-   "source": "reddit/popular",
-   "weight": 26496
-  },
-  {
-   "text": "The B in B1 stands for Barbie",
-   "source": "reddit/popular",
-   "weight": 26656
+   "weight": 27532
   },
   {
    "text": "History Made with First Starship Tower Catch!",
    "source": "reddit/popular",
-   "weight": 26682
-  },
-  {
-   "text": "Couch cover needed",
-   "source": "reddit/popular",
-   "weight": 26432
+   "weight": 27438
   },
   {
    "text": "Yet you can be in the Epstein files and your name stays protected.",
    "source": "reddit/popular",
-   "weight": 26362
+   "weight": 27476
   },
   {
-   "text": "Bernie is a real one",
+   "text": "The B in B1 stands for Barbie",
    "source": "reddit/popular",
-   "weight": 25419
+   "weight": 27035
   },
   {
-   "text": "She\u2019s an expert",
+   "text": "Couch cover needed",
    "source": "reddit/popular",
-   "weight": 25414
+   "weight": 26968
   },
   {
-   "text": "A man rescues a squirrel that got tangled in a net.",
+   "text": "Johnson says \u2018we don\u2019t really need any investigation\u2019 on FAA ground stop",
    "source": "reddit/popular",
-   "weight": 25265
+   "weight": 26602
   },
   {
    "text": "This is why big cats can\u2019t be pets",
    "source": "reddit/popular",
-   "weight": 25513
+   "weight": 25985
+  },
+  {
+   "text": "She\u2019s an expert",
+   "source": "reddit/popular",
+   "weight": 25641
   },
   {
    "text": "Found under 16 year old son's bed.",
    "source": "reddit/popular",
-   "weight": 24830
-  },
-  {
-   "text": "Movies you want to be digitally altered.",
-   "source": "reddit/popular",
-   "weight": 23943
-  },
-  {
-   "text": "\u2018Duffy Lied\u2019: Air traffic controllers refute Trump Transportation Secretary\u2019s ground stop explanation. \u201cI\u2019ve spoken with 60 air traffic controllers tonight about what Sean Duffy said at the White House today,\u201d said one journalist. \u201cNone of them are buying what he said.\u201d",
-   "source": "reddit/popular",
-   "weight": 22063
+   "weight": 25277
   },
   {
    "text": "Meirl",
    "source": "reddit/popular",
-   "weight": 22189
+   "weight": 22643
   },
   {
-   "text": "Bro picked her up like a bag of groceries and had the whole crowd chanting his name",
+   "text": "\u2018Duffy Lied\u2019: Air traffic controllers refute Trump Transportation Secretary\u2019s ground stop explanation. \u201cI\u2019ve spoken with 60 air traffic controllers tonight about what Sean Duffy said at the White House today,\u201d said one journalist. \u201cNone of them are buying what he said.\u201d",
    "source": "reddit/popular",
-   "weight": 21601
-  },
-  {
-   "text": "Can\u2019t watch Disney in my own house because I\u2019ve told Disney I live here too many times",
-   "source": "reddit/popular",
-   "weight": 19334
-  },
-  {
-   "text": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937.",
-   "source": "reddit/popular",
-   "weight": 18881
-  },
-  {
-   "text": "Just the thought of it",
-   "source": "reddit/popular",
-   "weight": 19781
-  },
-  {
-   "text": "TIL during the siege of Leningrad, while hundreds of thousands died of starvation, the first seed bank (containing rice, flour, nuts, fruits, vegetables, and 200,000 seeds and plants) was right below the city. The scientists guarding it ate none of it; nine dying of starvation.",
-   "source": "reddit/popular",
-   "weight": 18523
+   "weight": 22150
   },
   {
    "text": "I've rented a hotel room for the week so nobdoy can bother me",
    "source": "reddit/popular",
-   "weight": 19530
+   "weight": 21680
   },
   {
-   "text": "hosted a cat crawl in my neighborhood today and over 450 ppl came!",
+   "text": "Just the thought of it",
    "source": "reddit/popular",
-   "weight": 16801
+   "weight": 21212
   },
   {
    "text": "The absolute audacity to look away from a cobra mid-fight",
    "source": "reddit/popular",
-   "weight": 18627
+   "weight": 20953
   },
   {
-   "text": "In Mexico, a family abandoned their adult son with a disability beside a bag of clean clothes. Not a note. Not a goodbye. Just fresh laundry and a life left behind.",
+   "text": "TIL The United States Tomb of the Unknown Soldier has been continuously guarded 24 hours a day, 7 days a week, without interruption since July 2, 1937.",
    "source": "reddit/popular",
-   "weight": 16819
+   "weight": 19236
   },
   {
-   "text": "Scientists built an electric comb that regrew nearly 98% of lost hair in balding mice in just 28 days, beating minoxidil (about 70%) and finasteride (about 50%). Its teeth send gentle electric pulses into the skin and push two gene therapies deep into hair follicles to restart growth.",
+   "text": "TIL during the siege of Leningrad, while hundreds of thousands died of starvation, the first seed bank (containing rice, flour, nuts, fruits, vegetables, and 200,000 seeds and plants) was right below the city. The scientists guarding it ate none of it; nine dying of starvation.",
    "source": "reddit/popular",
-   "weight": 16327
-  },
-  {
-   "text": "Turns out the \"shortage\" was NVDA funding the startups buying NVDA chips. I'm the regard who called it organic demand",
-   "source": "reddit/popular",
-   "weight": 16169
-  },
-  {
-   "text": "Sweet Puppy insists his blind friend gets the treat first.... Do we deserve them \u2764\ufe0f",
-   "source": "reddit/popular",
-   "weight": 16707
-  },
-  {
-   "text": "Reminiscing on Butter Day.",
-   "source": "reddit/popular",
-   "weight": 15869
-  },
-  {
-   "text": "\ud83d\udc08",
-   "source": "reddit/popular",
-   "weight": 15839
-  },
-  {
-   "text": "These memes of cat/dog people grown up",
-   "source": "reddit/popular",
-   "weight": 15769
-  },
-  {
-   "text": "\ud83e\udddb\ud83c\udffbvampire cats\ud83e\udd87",
-   "source": "reddit/popular",
-   "weight": 16059
-  },
-  {
-   "text": "Was just tryna chat about reading habits and books\u2026 getting real tired of dating apps\u2026",
-   "source": "reddit/popular",
-   "weight": 15688
+   "weight": 18951
   },
   {
    "text": "So\u2026 are you a cat person or a dog person?",
    "source": "reddit/popular",
-   "weight": 16573
+   "weight": 18996
   },
   {
-   "text": "In 2019, 44-year-old photographer Victoria Schafer was killed by a falling log at Hocking Hills State Park. Investigators soon discovered two teenagers pushed the 74-pound branch off the cliff above.",
+   "text": "Sweet Puppy insists his blind friend gets the treat first.... Do we deserve them \u2764\ufe0f",
    "source": "reddit/popular",
-   "weight": 14635
+   "weight": 17611
   },
   {
-   "text": "\ud83d\udd25 Purple toad sightin \ud83d\udc9c",
+   "text": "In Mexico, a family abandoned their adult son with a disability beside a bag of clean clothes. Not a note. Not a goodbye. Just fresh laundry and a life left behind.",
    "source": "reddit/popular",
-   "weight": 14534
+   "weight": 17204
   },
   {
-   "text": "UPS cargo plane collides with passenger jet at Miami International Airport",
+   "text": "hosted a cat crawl in my neighborhood today and over 450 ppl came!",
    "source": "reddit/popular",
-   "weight": 14473
+   "weight": 16932
+  },
+  {
+   "text": "\ud83e\udddb\ud83c\udffbvampire cats\ud83e\udd87",
+   "source": "reddit/popular",
+   "weight": 16994
+  },
+  {
+   "text": "Scientists built an electric comb that regrew nearly 98% of lost hair in balding mice in just 28 days, beating minoxidil (about 70%) and finasteride (about 50%). Its teeth send gentle electric pulses into the skin and push two gene therapies deep into hair follicles to restart growth.",
+   "source": "reddit/popular",
+   "weight": 16512
+  },
+  {
+   "text": "Was just tryna chat about reading habits and books\u2026 getting real tired of dating apps\u2026",
+   "source": "reddit/popular",
+   "weight": 16407
+  },
+  {
+   "text": "Reminiscing on Butter Day.",
+   "source": "reddit/popular",
+   "weight": 16066
+  },
+  {
+   "text": "These memes of cat/dog people grown up",
+   "source": "reddit/popular",
+   "weight": 15965
   },
   {
    "text": "Trump blames Biden for nationwide grounding of flights, in first address since crisis",
    "source": "reddit/popular",
-   "weight": 15279
-  },
-  {
-   "text": "Greatest Culture SHOCK ever (read)",
-   "source": "reddit/popular",
-   "weight": 14274
+   "weight": 16390
   },
   {
    "text": "In 2014, a Texas plumber who traded in his truck at a dealership found out the decals had never been removed when it ended up in the hands of j1hadists in Syria",
    "source": "reddit/popular",
-   "weight": 14716
-  },
-  {
-   "text": "Water for mama pigeon.",
-   "source": "reddit/popular",
-   "weight": 13851
-  },
-  {
-   "text": "AOC says she won\u2019t go on Jesse Watters Fox News Show because he accused her of wanting to sleep with Stephen Miller \ud83d\ude2c\ud83d\ude2c\ud83d\ude2c",
-   "source": "reddit/popular",
-   "weight": 13303
+   "weight": 15797
   },
   {
    "text": "Kirsten Dunst appretiaction post",
    "source": "reddit/popular",
-   "weight": 14359
+   "weight": 15836
   },
   {
-   "text": "UFC fighter Mike Perry requests Halo theme song for his entrance, ends up walking to Beyonc\u00e9\u2019s Halo after a mix-up",
+   "text": "In 2019, 44-year-old photographer Victoria Schafer was killed by a falling log at Hocking Hills State Park. Investigators soon discovered two teenagers pushed the 74-pound branch off the cliff above.",
    "source": "reddit/popular",
-   "weight": 12772
+   "weight": 14814
   },
   {
-   "text": "John Fetterman threatens to quit Democratic Party if next Senate leader is critical of Israel",
+   "text": "UPS cargo plane collides with passenger jet at Miami International Airport",
    "source": "reddit/popular",
-   "weight": 12640
+   "weight": 14728
   },
   {
-   "text": "Once a cheater always a cheater just ban him already",
+   "text": "\ud83d\udd25 Purple toad sightin \ud83d\udc9c",
    "source": "reddit/popular",
-   "weight": 12702
+   "weight": 14608
   },
   {
-   "text": "mama cat took in squirrel babies and treats them her own.",
+   "text": "Greatest Culture SHOCK ever (read)",
    "source": "reddit/popular",
-   "weight": 13001
-  },
-  {
-   "text": "Paid for \u201cpremium assembly\u201d at x-kom. The cooler came with the protective film still on",
-   "source": "reddit/popular",
-   "weight": 12239
-  },
-  {
-   "text": "Goth nightclub, y'all",
-   "source": "reddit/popular",
-   "weight": 12331
-  },
-  {
-   "text": "28 Years in prison.",
-   "source": "reddit/popular",
-   "weight": 12920
+   "weight": 14777
   },
   {
    "text": "Pirated THE ODYSSEY and it ended up being whatever this is..",
    "source": "reddit/popular",
-   "weight": 13465
+   "weight": 14943
   },
   {
-   "text": "The audacity to hit 100%",
+   "text": "Water for mama pigeon.",
    "source": "reddit/popular",
-   "weight": 13020
-  },
-  {
-   "text": "YG8 tungsten carbide plate pressing",
-   "source": "reddit/popular",
-   "weight": 12013
-  },
-  {
-   "text": "Found out I\u2019m going to die in a year.",
-   "source": "reddit/popular",
-   "weight": 11932
-  },
-  {
-   "text": "meirl",
-   "source": "reddit/popular",
-   "weight": 11692
-  },
-  {
-   "text": "meirl",
-   "source": "reddit/popular",
-   "weight": 11658
-  },
-  {
-   "text": "I always appreciated that Tarfful and Chewie immediately locked in and were like \"let's get him out of here,\" despite having absolutely zero context for why Yoda just did a 360\u00b0 backflip and decapitated his own troops.",
-   "source": "reddit/popular",
-   "weight": 11529
-  },
-  {
-   "text": "Republicans now insisting that we don\u2019t need to know why American air traffic collapsed yesterday and you should stop mentioning it",
-   "source": "reddit/popular",
-   "weight": 11406
+   "weight": 13962
   },
   {
    "text": "The Airport Experience",
    "source": "reddit/popular",
-   "weight": 12863
+   "weight": 14689
   },
   {
-   "text": "Just a girl and her crabs \ud83e\udd80\u2728",
+   "text": "The audacity to hit 100%",
    "source": "reddit/popular",
-   "weight": 11380
+   "weight": 14211
   },
   {
-   "text": "TIL Hitler sent his official photographer to secretly photograph Stalin earlobes to determine his ancestry",
+   "text": "mama cat took in squirrel babies and treats them her own.",
    "source": "reddit/popular",
-   "weight": 11289
+   "weight": 14088
   },
   {
-   "text": "Imagine trying to finish your spaghetti while being terrified \ud83d\ude02",
+   "text": "28 Years in prison.",
    "source": "reddit/popular",
-   "weight": 11318
+   "weight": 14263
   },
   {
-   "text": "Some Possible Endings for \"The Boy from Venus\"",
+   "text": "AOC says she won\u2019t go on Jesse Watters Fox News Show because he accused her of wanting to sleep with Stephen Miller \ud83d\ude2c\ud83d\ude2c\ud83d\ude2c",
    "source": "reddit/popular",
-   "weight": 11166
+   "weight": 13655
   },
   {
-   "text": "Make America Healthy Again!",
+   "text": "UFC fighter Mike Perry requests Halo theme song for his entrance, ends up walking to Beyonc\u00e9\u2019s Halo after a mix-up",
    "source": "reddit/popular",
-   "weight": 10803
+   "weight": 12947
   },
   {
-   "text": "I became the loser I promised I would never be",
+   "text": "Once a cheater always a cheater just ban him already",
    "source": "reddit/popular",
-   "weight": 10926
+   "weight": 12927
   },
   {
-   "text": "sweet ice tea",
+   "text": "Goth nightclub, y'all",
    "source": "reddit/popular",
-   "weight": 10909
+   "weight": 12590
   },
   {
-   "text": "Russia demands Britain stop shielding the rest of Europe with its nuclear deterrent as a price for peace in Ukraine \u2014 Telegraph",
+   "text": "Found out I\u2019m going to die in a year.",
    "source": "reddit/popular",
-   "weight": 10691
+   "weight": 12127
   },
   {
-   "text": "What do we think about \u201cRetroville\u201d",
+   "text": "meirl",
    "source": "reddit/popular",
-   "weight": 10712
-  },
-  {
-   "text": "2021 I lost my leg. Today I\u2019m able to walk again due to modern technology \u2764\ufe0f",
-   "source": "reddit/popular",
-   "weight": 10671
-  },
-  {
-   "text": "Versions of this James Bond poker scene",
-   "source": "reddit/popular",
-   "weight": 10829
-  },
-  {
-   "text": "WCGW changing lanes in front of a monstrously lifted truck",
-   "source": "reddit/popular",
-   "weight": 11091
-  },
-  {
-   "text": "I have beaten Black Myth Wukong years ago and I am STILL salty about it.",
-   "source": "reddit/popular",
-   "weight": 11044
-  },
-  {
-   "text": "I broke up with my perfect boyfriend over a cruise",
-   "source": "reddit/popular",
-   "weight": 10494
-  },
-  {
-   "text": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
-   "source": "reddit/popular",
-   "weight": 10320
-  },
-  {
-   "text": "She shares how she makes cocoa butter from cacao pods from scratch.",
-   "source": "reddit/popular",
-   "weight": 10820
-  },
-  {
-   "text": "They lost their only partner",
-   "source": "reddit/popular",
-   "weight": 10800
-  },
-  {
-   "text": "\"Damn, this guy in this old photo is a smokeshow, I wonder-- MOTHERFUCKER THAT'S WHO!?!?\"",
-   "source": "reddit/popular",
-   "weight": 10285
-  },
-  {
-   "text": "Lady next to me on a long flight",
-   "source": "reddit/popular",
-   "weight": 10052
-  },
-  {
-   "text": "My friend rescued a tiny kitten from someone\u2019s car engine at work!",
-   "source": "reddit/popular",
-   "weight": 10254
-  },
-  {
-   "text": "How tf did they manage to make this shot look like it's straight out of PES 2010\ud83d\ude2d\ud83d\ude2d",
-   "source": "reddit/popular",
-   "weight": 9929
-  },
-  {
-   "text": "i love it when people make evil versions of strangers",
-   "source": "reddit/popular",
-   "weight": 10196
-  },
-  {
-   "text": "Reciprocated Love",
-   "source": "reddit/popular",
-   "weight": 10006
-  },
-  {
-   "text": "Rocket being caught as it lands",
-   "source": "reddit/popular",
-   "weight": 9867
-  },
-  {
-   "text": "Mafia member with chopper tattoo.",
-   "source": "reddit/popular",
-   "weight": 9858
-  },
-  {
-   "text": "[OC] Wife left a drawing for me on our front door",
-   "source": "reddit/popular",
-   "weight": 9876
-  },
-  {
-   "text": "i am a backstepping god",
-   "source": "reddit/popular",
-   "weight": 9860
+   "weight": 11783
   },
   {
    "text": "I think my girlfriend is convinced I'm cheating, What do I do?",
    "source": "reddit/popular",
-   "weight": 10931
+   "weight": 12417
   },
   {
-   "text": "Choreplay",
+   "text": "I always appreciated that Tarfful and Chewie immediately locked in and were like \"let's get him out of here,\" despite having absolutely zero context for why Yoda just did a 360\u00b0 backflip and decapitated his own troops.",
    "source": "reddit/popular",
-   "weight": 9789
+   "weight": 11631
+  },
+  {
+   "text": "Imagine trying to finish your spaghetti while being terrified \ud83d\ude02",
+   "source": "reddit/popular",
+   "weight": 11684
+  },
+  {
+   "text": "Republicans now insisting that we don\u2019t need to know why American air traffic collapsed yesterday and you should stop mentioning it",
+   "source": "reddit/popular",
+   "weight": 11538
+  },
+  {
+   "text": "Just a girl and her crabs \ud83e\udd80\u2728",
+   "source": "reddit/popular",
+   "weight": 11550
+  },
+  {
+   "text": "WCGW changing lanes in front of a monstrously lifted truck",
+   "source": "reddit/popular",
+   "weight": 11780
+  },
+  {
+   "text": "I have beaten Black Myth Wukong years ago and I am STILL salty about it.",
+   "source": "reddit/popular",
+   "weight": 11709
+  },
+  {
+   "text": "TIL Hitler sent his official photographer to secretly photograph Stalin earlobes to determine his ancestry",
+   "source": "reddit/popular",
+   "weight": 11437
+  },
+  {
+   "text": "Some Possible Endings for \"The Boy from Venus\"",
+   "source": "reddit/popular",
+   "weight": 11316
+  },
+  {
+   "text": "They lost their only partner",
+   "source": "reddit/popular",
+   "weight": 11552
+  },
+  {
+   "text": "She shares how she makes cocoa butter from cacao pods from scratch.",
+   "source": "reddit/popular",
+   "weight": 11432
+  },
+  {
+   "text": "I became the loser I promised I would never be",
+   "source": "reddit/popular",
+   "weight": 11264
+  },
+  {
+   "text": "sweet ice tea",
+   "source": "reddit/popular",
+   "weight": 11235
+  },
+  {
+   "text": "Versions of this James Bond poker scene",
+   "source": "reddit/popular",
+   "weight": 11201
+  },
+  {
+   "text": "Make America Healthy Again!",
+   "source": "reddit/popular",
+   "weight": 10961
+  },
+  {
+   "text": "What do we think about \u201cRetroville\u201d",
+   "source": "reddit/popular",
+   "weight": 10890
+  },
+  {
+   "text": "2021 I lost my leg. Today I\u2019m able to walk again due to modern technology \u2764\ufe0f",
+   "source": "reddit/popular",
+   "weight": 10842
   },
   {
    "text": "Ask yourself why that is",
    "source": "reddit/popular",
-   "weight": 10318
+   "weight": 11255
+  },
+  {
+   "text": "Russia demands Britain stop shielding the rest of Europe with its nuclear deterrent as a price for peace in Ukraine \u2014 Telegraph",
+   "source": "reddit/popular",
+   "weight": 10775
+  },
+  {
+   "text": "Don't worry, it's for your own safety",
+   "source": "reddit/popular",
+   "weight": 10970
+  },
+  {
+   "text": "i love it when people make evil versions of strangers",
+   "source": "reddit/popular",
+   "weight": 10639
+  },
+  {
+   "text": "\"Damn, this guy in this old photo is a smokeshow, I wonder-- MOTHERFUCKER THAT'S WHO!?!?\"",
+   "source": "reddit/popular",
+   "weight": 10508
+  },
+  {
+   "text": "My friend rescued a tiny kitten from someone\u2019s car engine at work!",
+   "source": "reddit/popular",
+   "weight": 10517
+  },
+  {
+   "text": "Gen.G vs. Bilibili Gaming / World Championship 2026 Knockout Stage - Grand Final / Post-Match Discussion",
+   "source": "reddit/popular",
+   "weight": 10341
+  },
+  {
+   "text": "I just wanted the world to know this little one existed",
+   "source": "reddit/popular",
+   "weight": 10870
+  },
+  {
+   "text": "Lady next to me on a long flight",
+   "source": "reddit/popular",
+   "weight": 10161
+  },
+  {
+   "text": "Reciprocated Love",
+   "source": "reddit/popular",
+   "weight": 10235
+  },
+  {
+   "text": "God don't like ugly",
+   "source": "reddit/popular",
+   "weight": 10646
+  },
+  {
+   "text": "How tf did they manage to make this shot look like it's straight out of PES 2010\ud83d\ude2d\ud83d\ude2d",
+   "source": "reddit/popular",
+   "weight": 9998
+  },
+  {
+   "text": "[OC] Wife left a drawing for me on our front door",
+   "source": "reddit/popular",
+   "weight": 10041
+  },
+  {
+   "text": "i am a backstepping god",
+   "source": "reddit/popular",
+   "weight": 10038
+  },
+  {
+   "text": "Mafia member with chopper tattoo.",
+   "source": "reddit/popular",
+   "weight": 9974
+  },
+  {
+   "text": "Rocket being caught as it lands",
+   "source": "reddit/popular",
+   "weight": 9939
+  },
+  {
+   "text": "Choreplay",
+   "source": "reddit/popular",
+   "weight": 9992
+  },
+  {
+   "text": "Check behind the mirror when you\u2019re moving in",
+   "source": "reddit/popular",
+   "weight": 10149
   },
   {
    "text": "Professor's feedback on my assignment looks like this. It's English, apparently. She refuses to type out any of her comments. We have to go to her during office hours and have her read everything to us.",
    "source": "reddit/popular",
-   "weight": 9449
+   "weight": 9613
+  },
+  {
+   "text": "My uncle with some friends. Italy,1983.",
+   "source": "reddit/popular",
+   "weight": 9588
+  },
+  {
+   "text": "Hello, 911, FOX \"news\" is unresponsive and not breathing...",
+   "source": "reddit/popular",
+   "weight": 9850
+  },
+  {
+   "text": "to protect her hair extensions.",
+   "source": "reddit/popular",
+   "weight": 9526
+  },
+  {
+   "text": "We got an orange last month and named him Ernie.",
+   "source": "reddit/popular",
+   "weight": 9447
+  },
+  {
+   "text": "We deserved the meteor.",
+   "source": "reddit/popular",
+   "weight": 9497
   },
   {
    "text": "Macron says limiting Ukraine aid would pave way to 'another war'",
    "source": "reddit/popular",
-   "weight": 9273
+   "weight": 9301
+  },
+  {
+   "text": "of a snake",
+   "source": "reddit/popular",
+   "weight": 9330
+  },
+  {
+   "text": "I was today years old when I learned we could do this!!! \ud83d\ude33",
+   "source": "reddit/popular",
+   "weight": 9398
+  },
+  {
+   "text": "Title",
+   "source": "reddit/popular",
+   "weight": 9162
+  },
+  {
+   "text": "Trump blames Biden for nationwide grounding of flights, in first address since crisis",
+   "source": "reddit/popular",
+   "weight": 9499
   }
  ]
 }
