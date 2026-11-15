@@ -1,0 +1,13 @@
+rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
+1,groundstop.ai,available?,6.71,ground stop,breaking out,74.53,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
+2,flight15.ai,available?,1.54,flight 15,breaking out,28.26,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,hackernews,wikipedia",Starship flight 15
+3,birdphotography.ai,available?,0.31,bird photography,new to tracker,1.0,low,generic phrase,82.7,82.7,bluesky,Bird photography
+4,sonic2006turns20.com,available?,0.18,sonic 2006 turns 20,new to tracker,1.0,low,generic phrase,11.81,11.81,bluesky,Sonic 2006 turns 20
+5,sonic2006turns20.ai,available?,0.14,sonic 2006 turns 20,new to tracker,1.0,low,generic phrase,82.7,82.7,bluesky,Sonic 2006 turns 20
+6,groundstop.com,taken,8.39,ground stop,breaking out,74.53,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
+7,groundstop.co,unknown (no RDAP for .co),5.45,ground stop,breaking out,74.53,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
+8,flight15.com,taken,1.92,flight 15,breaking out,28.26,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,hackernews,wikipedia",Starship flight 15
+9,flight15.co,unknown (no RDAP for .co),1.25,flight 15,breaking out,28.26,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,hackernews,wikipedia",Starship flight 15
+10,birdphotography.com,taken,0.39,bird photography,new to tracker,1.0,low,generic phrase,11.81,11.81,bluesky,Bird photography
+11,birdphotography.co,unknown (no RDAP for .co),0.25,bird photography,new to tracker,1.0,low,generic phrase,15.76,31.2,bluesky,Bird photography
+12,sonic2006turns20.co,unknown (no RDAP for .co),0.12,sonic 2006 turns 20,new to tracker,1.0,low,generic phrase,15.76,31.2,bluesky,Sonic 2006 turns 20
