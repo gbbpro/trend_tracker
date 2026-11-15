@@ -1,7 +1,7 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
-1,groundstop.ai,available?,5.9,ground stop,breaking out,65.7,medium,sometimes appears as a proper noun,71.4,71.4,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
-2,flight15.ai,available?,1.02,flight 15,breaking out,19.02,medium,sometimes appears as a proper noun,71.4,71.4,"hackernews,wikipedia",Starship flight 15
-3,groundstop.com,taken,7.38,ground stop,breaking out,65.7,medium,sometimes appears as a proper noun,11.08,11.08,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
-4,groundstop.co,unknown (no RDAP for .co),4.8,ground stop,breaking out,65.7,medium,sometimes appears as a proper noun,25.0,27.0,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
-5,flight15.com,taken,1.27,flight 15,breaking out,19.02,medium,sometimes appears as a proper noun,11.08,11.08,"hackernews,wikipedia",Starship flight 15
-6,flight15.co,unknown (no RDAP for .co),0.82,flight 15,breaking out,19.02,medium,sometimes appears as a proper noun,25.0,27.0,"hackernews,wikipedia",Starship flight 15
+1,groundstop.ai,available?,4.99,ground stop,breaking out,55.7,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
+2,flight15.ai,available?,1.54,flight 15,breaking out,28.26,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,hackernews,wikipedia",Starship flight 15
+3,groundstop.com,taken,6.24,ground stop,breaking out,55.7,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
+4,groundstop.co,unknown (no RDAP for .co),4.05,ground stop,breaking out,55.7,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,google_news,reddit/popular,wikipedia",2026 FAA ground stop
+5,flight15.com,taken,1.92,flight 15,breaking out,28.26,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,hackernews,wikipedia",Starship flight 15
+6,flight15.co,unknown (no RDAP for .co),1.25,flight 15,breaking out,28.26,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,hackernews,wikipedia",Starship flight 15
