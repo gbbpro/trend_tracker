@@ -26,6 +26,8 @@ Run it daily (cron, Task Scheduler). Each run adds to `history.json`, so the too
 - `snapshots/YYYY-MM-DD.json`: the raw signals, so the filters can be re-tuned against past days
 - `history.json`: phrase scores over time, which drives rising/fading
 
+Reports are published to **https://gbbpro.github.io/trend_tracker/** (needs Settings → Pages → Source: *GitHub Actions*).
+
 To run it now: **Actions** tab → **Daily trend scan** → **Run workflow**.
 
 Reddit needs two repository secrets: **Settings → Secrets and variables → Actions → New repository secret**, named `REDDIT_CLIENT_ID` and `REDDIT_CLIENT_SECRET`. Without them the Reddit source is skipped and the rest still run.
