@@ -1,0 +1,6 @@
+ 1. mamdanidisbands.com      available?   new to tracker risk=medium mamdani disbands
+ 2. mamdanidisbands.ai       available?   new to tracker risk=medium mamdani disbands
+ 3. birdphotography.ai       available?   steady         risk=low    bird photography
+ 4. birdphotography.com      taken        steady         risk=low    bird photography
+ 5. mamdanidisbands.co       unknown (no RDAP for .co) new to tracker risk=medium mamdani disbands
+ 6. birdphotography.co       unknown (no RDAP for .co) steady         risk=low    bird photography
