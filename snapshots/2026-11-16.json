@@ -2,63 +2,63 @@
  "date": "2026-11-16",
  "signals": [
   {
-   "text": "microsoft outlook global outage causes",
+   "text": "tyrus wheat",
    "source": "google_trends",
-   "weight": 2000,
+   "weight": 10000,
    "entity": true
   },
   {
-   "text": "brad gerstner",
+   "text": "pickleball",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "camilo rodriguez costa rica",
+   "source": "google_trends",
+   "weight": 200,
+   "entity": true
+  },
+  {
+   "text": "mary ellen mollie mccullough update",
+   "source": "google_trends",
+   "weight": 200,
+   "entity": true
+  },
+  {
+   "text": "franchising",
+   "source": "google_trends",
+   "weight": 1000,
+   "entity": true
+  },
+  {
+   "text": "taylor sheridan landman season 3",
    "source": "google_trends",
    "weight": 5000,
    "entity": true
   },
   {
-   "text": "supreme court",
+   "text": "cboe volatility index",
    "source": "google_trends",
    "weight": 500,
    "entity": true
   },
   {
-   "text": "gypsy rose",
+   "text": "dorit kemsley",
    "source": "google_trends",
-   "weight": 1000,
+   "weight": 200,
    "entity": true
   },
   {
-   "text": "sam elliott",
+   "text": "united airlines",
    "source": "google_trends",
-   "weight": 500,
+   "weight": 50000,
    "entity": true
   },
   {
-   "text": "lord morrow",
+   "text": "waterspout",
    "source": "google_trends",
    "weight": 2000,
-   "entity": true
-  },
-  {
-   "text": "2028 ford mustang cobra r",
-   "source": "google_trends",
-   "weight": 1000,
-   "entity": true
-  },
-  {
-   "text": "bradley whitford",
-   "source": "google_trends",
-   "weight": 1000,
-   "entity": true
-  },
-  {
-   "text": "survivor",
-   "source": "google_trends",
-   "weight": 1000,
-   "entity": true
-  },
-  {
-   "text": "black rifle coffee",
-   "source": "google_trends",
-   "weight": 1000,
    "entity": true
   },
   {
@@ -1420,969 +1420,779 @@
    "entity": true
   },
   {
-   "text": "Qwen4-Max",
+   "text": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
    "source": "hackernews",
-   "weight": 793
+   "weight": 779
   },
   {
-   "text": "How to make almost anything",
+   "text": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
    "source": "hackernews",
-   "weight": 686
+   "weight": 657
   },
   {
-   "text": "Universal XSS in uBlock Origin from website-driven element picker",
+   "text": "Software is breaking down at a systemic level",
    "source": "hackernews",
-   "weight": 555
-  },
-  {
-   "text": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cDeals\u201d Offered No Savings",
-   "source": "hackernews",
-   "weight": 476
-  },
-  {
-   "text": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-   "source": "hackernews",
-   "weight": 441
-  },
-  {
-   "text": "Handwriting, as a Font",
-   "source": "hackernews",
-   "weight": 420
-  },
-  {
-   "text": "What's Next for Nvidia?",
-   "source": "hackernews",
-   "weight": 411
-  },
-  {
-   "text": "Old Bitly links are being hijacked",
-   "source": "hackernews",
-   "weight": 360
-  },
-  {
-   "text": "Crows make decisions faster than we can",
-   "source": "hackernews",
-   "weight": 295
-  },
-  {
-   "text": "A short explainer on how El Ni\u00f1o works [video]",
-   "source": "hackernews",
-   "weight": 291
-  },
-  {
-   "text": "What is w2rt6byl5nf1opmc-a.com?",
-   "source": "hackernews",
-   "weight": 276
-  },
-  {
-   "text": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-   "source": "hackernews",
-   "weight": 224
-  },
-  {
-   "text": "WebGL Flight Simulator with seed generated terrain",
-   "source": "hackernews",
-   "weight": 221
+   "weight": 305
   },
   {
    "text": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
    "source": "hackernews",
-   "weight": 220
+   "weight": 285
   },
   {
-   "text": "Interpreting claims that a theorem is correct because it was checked in Lean",
+   "text": "Jiff 1.0: A datetime library for Rust",
    "source": "hackernews",
-   "weight": 213
+   "weight": 270
   },
   {
-   "text": "Preserving 30 years of Salon journalism",
+   "text": "Frame \u2013 31.5\" color ePaper display",
    "source": "hackernews",
-   "weight": 201
+   "weight": 242
   },
   {
-   "text": "Researchers track whole body movement with just a smartwatch",
+   "text": "Nvidia was in trouble before the Jensen Huang mess",
    "source": "hackernews",
-   "weight": 159
+   "weight": 234
   },
   {
-   "text": "Coffeehouses and the Rise of Science [pdf]",
+   "text": "Carnegie Mellon is putting computer science courses on YouTube for free",
    "source": "hackernews",
-   "weight": 150
+   "weight": 227
   },
   {
-   "text": "Nvidia Was in Trouble Before the Jensen Huang Mess",
+   "text": "Grazing sheep in fields with solar arrays",
    "source": "hackernews",
-   "weight": 119
+   "weight": 182
   },
   {
-   "text": "Do we still have to denormalize? Have your schema and search it too",
+   "text": "Microsoft blames monster email outage on software defect introduced in July fix",
+   "source": "hackernews",
+   "weight": 169
+  },
+  {
+   "text": "BugMeNot Has Closed",
+   "source": "hackernews",
+   "weight": 142
+  },
+  {
+   "text": "Rust changed me as a developer",
    "source": "hackernews",
    "weight": 113
   },
   {
-   "text": "OOS \u2013 an open operating system for the Rigol Scopes",
+   "text": "Squircles",
    "source": "hackernews",
-   "weight": 83
+   "weight": 91
   },
   {
-   "text": "Winudf \u2013 DVD / BluRay driver for DOS, Windows 1.x \u2013 3x / 95 / 98 / ME",
+   "text": "Aristotle Expands into Rust",
    "source": "hackernews",
-   "weight": 66
+   "weight": 86
   },
   {
-   "text": "The Lasting Influence of John Berger",
+   "text": "Jolt \u2013 Clojure that speaks C",
    "source": "hackernews",
-   "weight": 55
+   "weight": 82
   },
   {
-   "text": "The Active Directory Era Is Finally Over",
+   "text": "OpenAI: Strengthening the fight against online child sexual abuse",
    "source": "hackernews",
-   "weight": 46
+   "weight": 79
   },
   {
-   "text": "Show HN: ThingStudio, Node-RED style programming for microcontrollers",
+   "text": "Michael Mann's 'Heat' Copyright Fight Turns on a Deal with Himself",
+   "source": "hackernews",
+   "weight": 70
+  },
+  {
+   "text": "United Airlines Widespread System Outage",
+   "source": "hackernews",
+   "weight": 69
+  },
+  {
+   "text": "My Quest to push native Three.js quality match AAA Game Engines",
+   "source": "hackernews",
+   "weight": 59
+  },
+  {
+   "text": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
+   "source": "hackernews",
+   "weight": 56
+  },
+  {
+   "text": "Optimizely Compromised",
+   "source": "hackernews",
+   "weight": 51
+  },
+  {
+   "text": "How to Intercept HTTP/3 Traffic: QUIC and Qpack",
+   "source": "hackernews",
+   "weight": 44
+  },
+  {
+   "text": "Spamhaus new email sender requirements in November",
+   "source": "hackernews",
+   "weight": 39
+  },
+  {
+   "text": "OpenCode Browse",
+   "source": "hackernews",
+   "weight": 37
+  },
+  {
+   "text": "How to Break into Security, Ptacek Edition",
+   "source": "hackernews",
+   "weight": 37
+  },
+  {
+   "text": "Chemistry Is Geometry",
+   "source": "hackernews",
+   "weight": 35
+  },
+  {
+   "text": "United Airlines has a widespread system outage",
    "source": "hackernews",
    "weight": 32
   },
   {
-   "text": "Generative AI Usage in the Games Industry",
+   "text": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
    "source": "hackernews",
-   "weight": 23
+   "weight": 21
   },
   {
-   "text": "The Opportunivore's Dilemma",
+   "text": "The origins of the placenta",
    "source": "hackernews",
-   "weight": 12
+   "weight": 19
   },
   {
-   "text": "Smallest possible nopert polyhedra: the Septopert",
+   "text": "Eight years of running DocSpring on Convox",
    "source": "hackernews",
-   "weight": 12
+   "weight": 6
   },
   {
-   "text": "Nature-Based Sanitation. Cihuatl\u00e1n: A Large-Scale Artificial Wetland",
-   "source": "hackernews",
-   "weight": 8
-  },
-  {
-   "text": "Sheep grazing in solar fields offers farmers economic, ecological gains",
-   "source": "hackernews",
-   "weight": 4
-  },
-  {
-   "text": "US woman Lindsay Clancy to face retrial next year for deaths of her three children",
-   "source": "google_news",
-   "weight": 100
-  },
-  {
-   "text": "Trump heads to Asia to meet with Xi and Putin amid Nvidia fallout",
-   "source": "google_news",
-   "weight": 99
-  },
-  {
-   "text": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
-   "source": "google_news",
-   "weight": 98
-  },
-  {
-   "text": "Schumer vs. Van Hollen\u2014The Race Everyone Finds Awkward",
-   "source": "google_news",
-   "weight": 97
-  },
-  {
-   "text": "Supreme Court rejects Trump over academic funding cuts related to DEI",
-   "source": "google_news",
-   "weight": 96
-  },
-  {
-   "text": "After one last Sunday, a beloved D.C. golf course is closed. For now.",
-   "source": "google_news",
-   "weight": 95
-  },
-  {
-   "text": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions \u2013 live",
-   "source": "google_news",
-   "weight": 94
-  },
-  {
-   "text": "International Students Are Turning Away From U.S. Universities",
-   "source": "google_news",
-   "weight": 93
-  },
-  {
-   "text": "Mamdani, Tisch disband NYPD's Strategic Response Group",
-   "source": "google_news",
-   "weight": 92
-  },
-  {
-   "text": "U.S. attorney warns Sen. Elizabeth Warren against investigating Trump associates",
-   "source": "google_news",
-   "weight": 91
-  },
-  {
-   "text": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-   "source": "google_news",
-   "weight": 90
-  },
-  {
-   "text": "Southeast Asian leaders kick-start summit, with South China Sea and energy on agenda",
-   "source": "google_news",
-   "weight": 89
-  },
-  {
-   "text": "Women's criminal records wiped for abortion offences",
-   "source": "google_news",
-   "weight": 88
-  },
-  {
-   "text": "Germany, EU states open talks on Rwanda deportation scheme",
-   "source": "google_news",
-   "weight": 87
-  },
-  {
-   "text": "Monday air travel faces key test after FAA ground stop as possible cause emerges",
-   "source": "google_news",
-   "weight": 86
-  },
-  {
-   "text": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
-   "source": "google_news",
-   "weight": 85
-  },
-  {
-   "text": "Warren Buffett to Donate $5.4 Billion of Berkshire Hathaway Stock to Family Foundations",
-   "source": "google_news",
-   "weight": 84
-  },
-  {
-   "text": "Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap",
-   "source": "google_news",
-   "weight": 83
-  },
-  {
-   "text": "Sony 27-Inch Gaming Monitor With DualSense Charging Hook Review: A Piece Of PC History",
-   "source": "google_news",
-   "weight": 82
-  },
-  {
-   "text": "All tech eyes on Grand Theft Auto VI release Thursday",
-   "source": "google_news",
-   "weight": 81
-  },
-  {
-   "text": "Apple and OpenEvidence launch experimental health chat app",
-   "source": "google_news",
-   "weight": 80
-  },
-  {
-   "text": "Google pushes privacy angle as Gemini-powered smartglasses debut starting at $395",
-   "source": "google_news",
-   "weight": 79
-  },
-  {
-   "text": "James Bond live updates: Robert Pattinson named as new 007",
-   "source": "google_news",
-   "weight": 78
-  },
-  {
-   "text": "Raye, Rosal\u00eda and Ella Langley Top a Women-Led 2027 Grammys Field",
-   "source": "google_news",
-   "weight": 77
-  },
-  {
-   "text": "Gypsy Rose Blanchard\u2019s partner Ken Urker\u2019s cause of death revealed",
-   "source": "google_news",
-   "weight": 76
-  },
-  {
-   "text": "Jennifer Lopez pokes fun at her 4-time divorc\u00e9e status as she shares thoughts on fifth marriage",
-   "source": "google_news",
-   "weight": 75
-  },
-  {
-   "text": "Lions star Aidan Hutchinson reportedly sustains torn ACL while celebrating sack of Drake Maye",
-   "source": "google_news",
-   "weight": 74
-  },
-  {
-   "text": "Judging overreactions to NFL Week 10: Playoff spin for Vikings, Pats, Browns, more",
-   "source": "google_news",
-   "weight": 73
-  },
-  {
-   "text": "How Chargers' Harbaugh, Ravens' Minter can revive seasons",
-   "source": "google_news",
-   "weight": 72
-  },
-  {
-   "text": "Josh Hokit\u2019s teammate makes bizarre hospital revelation after UFC 334",
-   "source": "google_news",
-   "weight": 71
-  },
-  {
-   "text": "SpaceX's Starship feat should remind investors that the company at its 'core' is a rocket builder",
-   "source": "google_news",
-   "weight": 70
-  },
-  {
-   "text": "See the Leonid meteors this week \u2014 \u2018the shower that started it all\u2019",
-   "source": "google_news",
-   "weight": 69
-  },
-  {
-   "text": "NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space",
-   "source": "google_news",
-   "weight": 68
-  },
-  {
-   "text": "James Webb telescope finds ice older than the star it orbits",
-   "source": "google_news",
-   "weight": 67
-  },
-  {
-   "text": "What to know about measles outbreaks as the US faces losing its elimination status",
-   "source": "google_news",
-   "weight": 66
-  },
-  {
-   "text": "This Common Daytime Habit May Be Linked To A Higher Dementia Risk, Study Finds",
-   "source": "google_news",
-   "weight": 65
-  },
-  {
-   "text": "Africa CDC says Ebola outbreak in DR Congo \u2018still not under control\u2019",
-   "source": "google_news",
-   "weight": 64
-  },
-  {
-   "text": "Prostate cancer testing now urged for men in their 50s and 60s \u2013 a lead author of the new screening guidelines explains why",
-   "source": "google_news",
-   "weight": 63
-  },
-  {
-   "text": "Michigan relatives college funding quote",
+   "text": "United Airlines reports system outage",
    "source": "bluesky",
    "weight": 50
   },
   {
-   "text": "Wolqotd Lodestone outfit prompt",
+   "text": "Pick a new Bond from phone photos",
    "source": "bluesky",
    "weight": 49
   },
   {
-   "text": "Senate weighs BAAJA permitting bill",
+   "text": "Ukrainian drones hit Crimean Bridge",
    "source": "bluesky",
    "weight": 48
   },
   {
-   "text": "Next James Bond film's setting",
+   "text": "Burnham says Brexit hasn't worked",
    "source": "bluesky",
    "weight": 47
   },
   {
-   "text": "Grammy nominations announced",
+   "text": "Microsoft blames outage on bug",
    "source": "bluesky",
    "weight": 46
   },
   {
-   "text": "Jensen Huang resigns as Nvidia CEO",
+   "text": "Robert Pattinson named new James Bond",
    "source": "bluesky",
    "weight": 45
   },
   {
-   "text": "Tariff refunds fund executive bonuses",
+   "text": "Outages reported at US banks",
    "source": "bluesky",
    "weight": 44
   },
   {
-   "text": "Bird photography",
+   "text": "Tariff refunds fund executive bonuses",
    "source": "bluesky",
    "weight": 43
   },
   {
-   "text": "Xbox turns 25",
+   "text": "Data center emissions rival Denmark",
    "source": "bluesky",
    "weight": 42
   },
   {
-   "text": "Toilet box flushes 7 billiard balls",
+   "text": "Christmas Carol film's box office claim",
    "source": "bluesky",
    "weight": 41
   },
   {
-   "text": "FAA contract and Duffy's son-in-law",
+   "text": "Michigan relatives college funding quote",
    "source": "bluesky",
    "weight": 40
   },
   {
-   "text": "Trump's remark to Black reporter",
+   "text": "Democrats push to investigate Trump",
    "source": "bluesky",
    "weight": 39
   },
   {
-   "text": "Calls to replace Schumer and Jeffries",
+   "text": "Van Hollen runs for Senate leader",
    "source": "bluesky",
    "weight": 38
   },
   {
-   "text": "Four female artists music taste",
+   "text": "Trump's remark to Black reporter",
    "source": "bluesky",
    "weight": 37
   },
   {
-   "text": "Trump defends White House projects",
+   "text": "Midterm election aftermath for democracy",
    "source": "bluesky",
    "weight": 36
   },
   {
-   "text": "Trump's Nvidia stock stake",
+   "text": "Dere type personality test results",
    "source": "bluesky",
    "weight": 35
   },
   {
-   "text": "Trump, Xi and Putin to meet",
+   "text": "US loses measles elimination status",
    "source": "bluesky",
    "weight": 34
   },
   {
-   "text": "Buttigieg's student debt comments",
+   "text": "Senate weighs BAAJA permitting bill",
    "source": "bluesky",
    "weight": 33
   },
   {
-   "text": "Christmas Carol film's box office claim",
+   "text": "Wolqotd Lodestone outfit prompt",
    "source": "bluesky",
    "weight": 32
   },
   {
-   "text": "Burnham says Brexit hasn't worked",
+   "text": "Forensic expert doubts Epstein suicide ruling",
    "source": "bluesky",
    "weight": 31
   },
   {
-   "text": "Ukraine reports daily Russian losses",
+   "text": "Trump's Nvidia stock stake",
    "source": "bluesky",
    "weight": 30
   },
   {
-   "text": "Russell Brand issues statement",
+   "text": "Trump, Xi and Putin to meet",
    "source": "bluesky",
    "weight": 29
   },
   {
-   "text": "Midterm election aftermath for democracy",
+   "text": "Alaska Senate race vote count",
    "source": "bluesky",
    "weight": 28
   },
   {
-   "text": "US loses measles elimination status",
+   "text": "Mark Carney wins Democracy Medal",
    "source": "bluesky",
    "weight": 27
   },
   {
-   "text": "Mamdani disbands NYPD protest unit",
+   "text": "Tesla Cybercab requires monthly subscription",
    "source": "bluesky",
    "weight": 26
   },
   {
    "text": "That's genuinely wild",
    "source": "reddit/popular",
-   "weight": 55294
-  },
-  {
-   "text": "Battery change? That will be $1500 please.",
-   "source": "reddit/popular",
-   "weight": 51736
-  },
-  {
-   "text": "no kisses unless it's from mommy",
-   "source": "reddit/popular",
-   "weight": 38582
-  },
-  {
-   "text": "[oc] I went to a steakhouse alone and this random cat joined my table",
-   "source": "reddit/popular",
-   "weight": 34066
+   "weight": 69119
   },
   {
    "text": "Impeccable logic.",
    "source": "reddit/popular",
-   "weight": 39059
+   "weight": 61152
   },
   {
-   "text": "Lula said Brazil \u201clearned an extraordinary lesson\u201d after U.S. President Donald Trump imposed massive tariffs: \u201cInstead of crying or begging the American government to have pity on Brazil, we decided to look for other partners to sell to and buy from\"",
+   "text": "no kisses unless it's from mommy",
    "source": "reddit/popular",
-   "weight": 32114
-  },
-  {
-   "text": "Palestinian surgeon Dr. Rizk Abu Shaaira from acclaimed documentary &amp; Oscar contender \u2018American Doctor\u2019 killed in Israeli airstrike on Gaza",
-   "source": "reddit/popular",
-   "weight": 31675
-  },
-  {
-   "text": "Bro's time management needs to be studied",
-   "source": "reddit/popular",
-   "weight": 31921
-  },
-  {
-   "text": "Is there anything he can\u2019t do?",
-   "source": "reddit/popular",
-   "weight": 28957
-  },
-  {
-   "text": "Figured out where the weird noise in wife\u2019s car was coming from",
-   "source": "reddit/popular",
-   "weight": 28526
-  },
-  {
-   "text": "True",
-   "source": "reddit/popular",
-   "weight": 27507
-  },
-  {
-   "text": "Pros are seriously some of the most obtuse people on the planet.",
-   "source": "reddit/popular",
-   "weight": 26825
-  },
-  {
-   "text": "Unexpected audience",
-   "source": "reddit/popular",
-   "weight": 26536
-  },
-  {
-   "text": "I have a dental malformation, and that is what my smile looks like",
-   "source": "reddit/popular",
-   "weight": 26034
-  },
-  {
-   "text": "Hope it costs them more then having employees",
-   "source": "reddit/popular",
-   "weight": 25469
-  },
-  {
-   "text": "Lori spent 41 years of her life with him.",
-   "source": "reddit/popular",
-   "weight": 22941
-  },
-  {
-   "text": "A Kagu on the brink of extinction finds its own kind",
-   "source": "reddit/popular",
-   "weight": 22421
-  },
-  {
-   "text": "Meirl",
-   "source": "reddit/popular",
-   "weight": 23648
-  },
-  {
-   "text": "of a tonsil stone\u2026",
-   "source": "reddit/popular",
-   "weight": 22014
+   "weight": 43881
   },
   {
    "text": "Robert Pattinson to Play James Bond in Denis Villeneuve's 007 Movie",
    "source": "reddit/popular",
-   "weight": 24251
+   "weight": 35203
   },
   {
-   "text": "That's the whole point.",
+   "text": "Bro's time management needs to be studied",
    "source": "reddit/popular",
-   "weight": 21094
+   "weight": 34273
   },
   {
-   "text": "I wonder what else is 20 years away from disappearing",
+   "text": "Figured out where the weird noise in wife\u2019s car was coming from",
    "source": "reddit/popular",
-   "weight": 20795
-  },
-  {
-   "text": "Reddit's traffic is down 13%, partly thanks to AI Overviews",
-   "source": "reddit/popular",
-   "weight": 19623
-  },
-  {
-   "text": "Tell me you\u2019re a pro without saying anything",
-   "source": "reddit/popular",
-   "weight": 19267
-  },
-  {
-   "text": "I hope this absolutely destroys the AI involved in hiring market. It\u2019s done nothing good.",
-   "source": "reddit/popular",
-   "weight": 18937
-  },
-  {
-   "text": "Been using this terrible \u201clotion\u201d for a long time, turns out it\u2019s terrible because it\u2019s body wash",
-   "source": "reddit/popular",
-   "weight": 19597
-  },
-  {
-   "text": "Painfully accurate SNL skit about the unequal caregiving role women play in their families:",
-   "source": "reddit/popular",
-   "weight": 18419
-  },
-  {
-   "text": "Oh how the turntables",
-   "source": "reddit/popular",
-   "weight": 18705
-  },
-  {
-   "text": "The Five-Headed Cat",
-   "source": "reddit/popular",
-   "weight": 17695
-  },
-  {
-   "text": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-   "source": "reddit/popular",
-   "weight": 17445
+   "weight": 30951
   },
   {
    "text": "Robert Pattinson has been cast as the next James Bond.",
    "source": "reddit/popular",
-   "weight": 20207
+   "weight": 30785
   },
   {
-   "text": "Bringing that ol school back",
+   "text": "Meirl",
    "source": "reddit/popular",
-   "weight": 16942
+   "weight": 30102
   },
   {
-   "text": "me_irl",
+   "text": "I have a dental malformation, and that is what my smile looks like",
    "source": "reddit/popular",
-   "weight": 17270
+   "weight": 29061
   },
   {
-   "text": "Petah, why is this supposed to be funny?",
+   "text": "Lori spent 41 years of her life with him.",
    "source": "reddit/popular",
-   "weight": 16251
+   "weight": 26431
   },
   {
-   "text": "How is it fiscally conservative to put Fox News hosts in charge of massive government agencies and watch them burn through tens of billions in American tax dollars while shutting down travel and choking off the global oil supply? WTF are we doing?",
+   "text": "Been using this terrible \u201clotion\u201d for a long time, turns out it\u2019s terrible because it\u2019s body wash",
    "source": "reddit/popular",
-   "weight": 16133
+   "weight": 26550
   },
   {
-   "text": "A much less common symptom than TV would have me believe",
+   "text": "I wonder what else is 20 years away from disappearing",
    "source": "reddit/popular",
-   "weight": 15599
+   "weight": 25513
   },
   {
-   "text": "Mamdani declines to back fellow New Yorker Schumer as Senate majority leader",
+   "text": "Uno reverse",
    "source": "reddit/popular",
-   "weight": 15505
-  },
-  {
-   "text": "Eyelid twitch, 3 weeks and counting.",
-   "source": "reddit/popular",
-   "weight": 15355
-  },
-  {
-   "text": "The Legend of Zelda: Majora's Mask - Official Promotional Art (2000)",
-   "source": "reddit/popular",
-   "weight": 15119
+   "weight": 24881
   },
   {
    "text": "Mamdani disbands controversial NYPD Strategic Response Group unit",
    "source": "reddit/popular",
-   "weight": 16381
+   "weight": 22578
   },
   {
-   "text": "Half cotton, half flannel sheets that my neighbour made for us",
+   "text": "me_irl",
    "source": "reddit/popular",
-   "weight": 14646
+   "weight": 21938
   },
   {
-   "text": "To teach how to be in good stead with the Jewish Community",
+   "text": "Every time she said \u201cmy car broke down\u201d my brain glitched",
    "source": "reddit/popular",
-   "weight": 14649
-  },
-  {
-   "text": "'Just F**king Leave': Critics Trash John Fetterman After He Threatens To Quit Dems",
-   "source": "reddit/popular",
-   "weight": 15172
-  },
-  {
-   "text": "Who needs TV when you have an aquarium? \ud83d\udc31",
-   "source": "reddit/popular",
-   "weight": 14280
-  },
-  {
-   "text": "Fisherman follows the cat he gave fish.",
-   "source": "reddit/popular",
-   "weight": 15260
-  },
-  {
-   "text": "The Horror of It All.",
-   "source": "reddit/popular",
-   "weight": 13956
-  },
-  {
-   "text": "Zillow needs a comment section?",
-   "source": "reddit/popular",
-   "weight": 14039
-  },
-  {
-   "text": "Mamdani declines to back Schumer leadership bid amid Van Hollen challenge",
-   "source": "reddit/popular",
-   "weight": 13852
-  },
-  {
-   "text": "My Starfield cosplay, in a group photo with every other Starfield cosplayer at the con. Maybe I should have done Fallout.",
-   "source": "reddit/popular",
-   "weight": 13476
-  },
-  {
-   "text": "This girl has been dancing to the same song every year on halloween for 13 years.",
-   "source": "reddit/popular",
-   "weight": 14430
-  },
-  {
-   "text": "I haven\u2019t gotten a single order from the people I considered my friends.",
-   "source": "reddit/popular",
-   "weight": 13376
-  },
-  {
-   "text": "Athletes are crazy",
-   "source": "reddit/popular",
-   "weight": 12796
-  },
-  {
-   "text": "After Kevin O'Leary states that anyone can become wealthy through hard work, a security guard working 80 hours a week responds that 55% of his income goes toward rent and that he has applied to hundreds of jobs without success, asking how much harder he needs to work.",
-   "source": "reddit/popular",
-   "weight": 12786
-  },
-  {
-   "text": "The turning point... I hope! \ud83d\udc99",
-   "source": "reddit/popular",
-   "weight": 12568
-  },
-  {
-   "text": "meirl",
-   "source": "reddit/popular",
-   "weight": 12386
-  },
-  {
-   "text": "They need to combine their powers to defeat the Straight Flush",
-   "source": "reddit/popular",
-   "weight": 12389
-  },
-  {
-   "text": "A police officer noticed itsjaytwyne alone in a parking lot at 3 AM while going through a mental health crisis and pulled over to check on him",
-   "source": "reddit/popular",
-   "weight": 12369
-  },
-  {
-   "text": "my college dorm room during a rainstorm",
-   "source": "reddit/popular",
-   "weight": 12498
-  },
-  {
-   "text": "My partner flippantly said \u201cnice butthole cake\u201d when he saw what I made. Now I\u2019m too embarrassed to take it as a gift for a party! Does it actually look like a sphincter?!?\ud83d\ude2d",
-   "source": "reddit/popular",
-   "weight": 11845
+   "weight": 22694
   },
   {
    "text": "Robert Pattinson is James Bond",
    "source": "reddit/popular",
-   "weight": 13768
+   "weight": 20858
   },
   {
-   "text": "U.S. debt now equals the whole economy \u2014 and tax cuts since 2001 added over $10 trillion",
+   "text": "Mushka, my rescued cat from Ukraine.",
    "source": "reddit/popular",
-   "weight": 11866
+   "weight": 21743
   },
   {
-   "text": "got bathed by mom and dad\ud83d\ude3b",
+   "text": "Fisherman follows the cat he gave fish.",
    "source": "reddit/popular",
-   "weight": 11990
+   "weight": 20374
   },
   {
-   "text": "In 1985, Michael Jackson bought the Lennon\u2013McCartney song catalog for $47.5m then used it in many commercials which saddened McCartney. Jackson reportedly expressed exasperation at his attitude, stating \"If he didn't want to invest $47.5m in his own songs, then he shouldn't come crying to me now.\"",
+   "text": "How is it fiscally conservative to put Fox News hosts in charge of massive government agencies and watch them burn through tens of billions in American tax dollars while shutting down travel and choking off the global oil supply? WTF are we doing?",
    "source": "reddit/popular",
-   "weight": 11850
+   "weight": 19418
   },
   {
-   "text": "Nvidia ordered to explain $12bn supply of AI chips to China.",
+   "text": "meirl",
    "source": "reddit/popular",
-   "weight": 12224
+   "weight": 22410
   },
   {
-   "text": "Jensen choosing his assistant after returning to Nvidia",
+   "text": "Bringing that ol school back",
    "source": "reddit/popular",
-   "weight": 11760
+   "weight": 19130
   },
   {
-   "text": "I'm surprised she could spell \"Diversity\"",
+   "text": "'Just F**king Leave': Critics Trash John Fetterman After He Threatens To Quit Dems",
    "source": "reddit/popular",
-   "weight": 11690
-  },
-  {
-   "text": "Who's your favorite character that dropped one of the hardest lines ever spoken?",
-   "source": "reddit/popular",
-   "weight": 11678
-  },
-  {
-   "text": "Shit is real",
-   "source": "reddit/popular",
-   "weight": 11517
-  },
-  {
-   "text": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
-   "source": "reddit/popular",
-   "weight": 12138
+   "weight": 19036
   },
   {
    "text": "Robert Pattinson Is The New James Bond",
    "source": "reddit/popular",
-   "weight": 12973
+   "weight": 18860
   },
   {
-   "text": "Satisfying Geometry",
+   "text": "Petah, why is this supposed to be funny?",
    "source": "reddit/popular",
-   "weight": 11947
+   "weight": 17993
   },
   {
-   "text": "The Old Fox and the History Lesson",
+   "text": "TIL that Shark Tank contestants were once required to give the show\u2019s production company either 5% equity or 2% of their business\u2019 profits for as long as it existed, even if no Shark invested. Mark Cuban threatened to quit over the clause, which was abolished retroactively in 2013",
    "source": "reddit/popular",
-   "weight": 11301
-  },
-  {
-   "text": "He just blames Biden and Obama!",
-   "source": "reddit/popular",
-   "weight": 12078
-  },
-  {
-   "text": "Ppl getting creative with twitter's new photo thing",
-   "source": "reddit/popular",
-   "weight": 11111
-  },
-  {
-   "text": "Republicans living in neighborhoods dominated by Democrats experience worse mental health than those residing in heavily Republican areas. Democrats, on the other hand, report similar levels of anxiety, depression, and loneliness regardless of the political makeup of their communities.",
-   "source": "reddit/popular",
-   "weight": 11090
-  },
-  {
-   "text": "Mamdani being credited for stuff he has nothing to do with",
-   "source": "reddit/popular",
-   "weight": 11064
-  },
-  {
-   "text": "When people edit colour blind tests to be all one colour.",
-   "source": "reddit/popular",
-   "weight": 11861
-  },
-  {
-   "text": "Realistic 1 bedroom apartment in New York City.",
-   "source": "reddit/popular",
-   "weight": 10820
+   "weight": 20371
   },
   {
    "text": "The \"Alaskan Avenger\" Smiling at his Brother after Receiving 23 Years in Prison for Hunting Down registered Sex Offenders and Attacking Them with a Hammer",
    "source": "reddit/popular",
-   "weight": 11324
+   "weight": 18006
   },
   {
-   "text": "My vape cartridge came with a little cowboy hat to cover the mouthpiece.",
+   "text": "The Legend of Zelda: Majora's Mask - Official Promotional Art (2000)",
    "source": "reddit/popular",
-   "weight": 10547
+   "weight": 16491
   },
   {
-   "text": "Daughter got 9 mystery dumpling squishies for her birthday and every single one was blue.",
+   "text": "Mamdani declines to back fellow New Yorker Schumer as Senate majority leader",
    "source": "reddit/popular",
-   "weight": 10488
+   "weight": 16345
   },
   {
-   "text": "Madi, my first ever kitten at 39 year old and im over the moon :}",
+   "text": "Microsoft Reveals How a Hidden Windows Bug Took Down Microsoft 365 Services Worldwide",
    "source": "reddit/popular",
-   "weight": 10294
-  },
-  {
-   "text": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-   "source": "reddit/popular",
-   "weight": 10222
-  },
-  {
-   "text": "Petah, why don't you have to meet her parents?",
-   "source": "reddit/popular",
-   "weight": 10323
-  },
-  {
-   "text": "The surface of Mars (NASA images)",
-   "source": "reddit/popular",
-   "weight": 10664
-  },
-  {
-   "text": "My mom made these after I showed her the game",
-   "source": "reddit/popular",
-   "weight": 10083
+   "weight": 16285
   },
   {
    "text": "When gut bacteria run out of fiber, they can start eating the protective mucus lining of the gut instead, producing potentially harmful compounds, a study in mice found. Eating fiber and hard-to-digest plant proteins steers gut bacteria toward making beneficial compounds.",
    "source": "reddit/popular",
-   "weight": 10769
+   "weight": 16397
   },
   {
-   "text": "SNL and their very realistic skit \u201cSister\u201d, featuring John Mulaney",
+   "text": "I haven\u2019t gotten a single order from the people I considered my friends.",
    "source": "reddit/popular",
-   "weight": 10254
+   "weight": 16063
   },
   {
-   "text": "Child marriage, tell us more",
+   "text": "Chris Van Hollen says he's nearing votes to become Senate majority leader",
    "source": "reddit/popular",
-   "weight": 10181
+   "weight": 16629
   },
   {
-   "text": "Looks incredible, isn't that great vs. Looks basic, is completely OP.",
+   "text": "When people edit colour blind tests to be all one colour.",
    "source": "reddit/popular",
-   "weight": 9414
+   "weight": 15971
   },
   {
-   "text": "British Prime Minister Andy Burnham says Brexit \u2018has not worked\u2019 and he will sign new deal with EU and secure agreements that he says could raise GDP by about \u00a317bn, including on food and farming, emissions trading and a youth mobility scheme",
+   "text": "[OC] The Last Goodbye",
    "source": "reddit/popular",
-   "weight": 9664
-  },
-  {
-   "text": "No one's winning",
-   "source": "reddit/popular",
-   "weight": 9212
-  },
-  {
-   "text": "[oc] I went to a steakhouse alone and this random cat joined my table",
-   "source": "reddit/popular",
-   "weight": 9259
-  },
-  {
-   "text": "Fantastic form",
-   "source": "reddit/popular",
-   "weight": 9206
-  },
-  {
-   "text": "Wrong Generation",
-   "source": "reddit/popular",
-   "weight": 9498
+   "weight": 16523
   },
   {
    "text": "After Kevin O'Leary states that anyone can become wealthy through hard work, a security guard working 80 hours a week responds that 55% of his income goes toward rent and that he has applied to hundreds of jobs without success, asking how much harder he needs to work.",
    "source": "reddit/popular",
-   "weight": 10309
+   "weight": 15822
   },
   {
-   "text": "Uramaki",
+   "text": "He just blames Biden and Obama!",
    "source": "reddit/popular",
-   "weight": 9364
+   "weight": 15385
+  },
+  {
+   "text": "Zillow needs a comment section?",
+   "source": "reddit/popular",
+   "weight": 15137
+  },
+  {
+   "text": "The bathroom at work",
+   "source": "reddit/popular",
+   "weight": 15596
+  },
+  {
+   "text": "Nvidia ordered to explain $12bn supply of AI chips to China.",
+   "source": "reddit/popular",
+   "weight": 14978
+  },
+  {
+   "text": "my college dorm room during a rainstorm",
+   "source": "reddit/popular",
+   "weight": 14981
+  },
+  {
+   "text": "After Kevin O'Leary states that anyone can become wealthy through hard work, a security guard working 80 hours a week responds that 55% of his income goes toward rent and that he has applied to hundreds of jobs without success, asking how much harder he needs to work.",
+   "source": "reddit/popular",
+   "weight": 14418
+  },
+  {
+   "text": "My curiously straight banana",
+   "source": "reddit/popular",
+   "weight": 15485
+  },
+  {
+   "text": "TIL that the famous painting \"Saturn Devouring His Son\" was not painted on a canvas. Goya painted it secretely, straight into the walls of his house while in isolation and in declining mental health. It was only discovered when he left in exile. It originally featured an erect penis.",
+   "source": "reddit/popular",
+   "weight": 15496
+  },
+  {
+   "text": "In 1985, Michael Jackson bought the Lennon\u2013McCartney song catalog for $47.5m then used it in many commercials which saddened McCartney. Jackson reportedly expressed exasperation at his attitude, stating \"If he didn't want to invest $47.5m in his own songs, then he shouldn't come crying to me now.\"",
+   "source": "reddit/popular",
+   "weight": 13656
+  },
+  {
+   "text": "Meirl",
+   "source": "reddit/popular",
+   "weight": 14029
+  },
+  {
+   "text": "The surface of Mars (NASA images)",
+   "source": "reddit/popular",
+   "weight": 13672
   },
   {
    "text": "[Delusion/Twist Trope] Movies that make the audience think the movie ends on a happy note, but not before showing a small glimpse that the ending isn't all that it seems",
    "source": "reddit/popular",
-   "weight": 9703
+   "weight": 13863
   },
   {
-   "text": "Uncle ji chill \ud83d\ude2d",
+   "text": "got bathed by mom and dad\ud83d\ude3b",
    "source": "reddit/popular",
-   "weight": 9143
+   "weight": 13428
+  },
+  {
+   "text": "SNL and their very realistic skit \u201cSister\u201d, featuring John Mulaney",
+   "source": "reddit/popular",
+   "weight": 13578
+  },
+  {
+   "text": "Judge says Kim Davis gave materially false answers about assets",
+   "source": "reddit/popular",
+   "weight": 13787
+  },
+  {
+   "text": "The turning point... I hope! \ud83d\udc99",
+   "source": "reddit/popular",
+   "weight": 12937
+  },
+  {
+   "text": "Chris Van Hollen says he's nearing votes to become Senate majority leader",
+   "source": "reddit/popular",
+   "weight": 13681
+  },
+  {
+   "text": "The best part is him holding a physical copy when the PS5 Pro doesn't even come with a disc drive",
+   "source": "reddit/popular",
+   "weight": 13649
+  },
+  {
+   "text": "Who's your favorite character that dropped one of the hardest lines ever spoken?",
+   "source": "reddit/popular",
+   "weight": 13049
+  },
+  {
+   "text": "U.S. debt now equals the whole economy \u2014 and tax cuts since 2001 added over $10 trillion",
+   "source": "reddit/popular",
+   "weight": 12899
+  },
+  {
+   "text": "The Old Fox and the History Lesson",
+   "source": "reddit/popular",
+   "weight": 12798
+  },
+  {
+   "text": "Jensen choosing his assistant after returning to Nvidia",
+   "source": "reddit/popular",
+   "weight": 12693
+  },
+  {
+   "text": "Child marriage, tell us more",
+   "source": "reddit/popular",
+   "weight": 12970
+  },
+  {
+   "text": "British Prime Minister Andy Burnham says Brexit \u2018has not worked\u2019 and he will sign new deal with EU and secure agreements that he says could raise GDP by about \u00a317bn, including on food and farming, emissions trading and a youth mobility scheme",
+   "source": "reddit/popular",
+   "weight": 12386
+  },
+  {
+   "text": "Shit is real",
+   "source": "reddit/popular",
+   "weight": 12167
+  },
+  {
+   "text": "Realistic 1 bedroom apartment in New York City.",
+   "source": "reddit/popular",
+   "weight": 12235
+  },
+  {
+   "text": "Robert Pattinson is the officially Bond!",
+   "source": "reddit/popular",
+   "weight": 12811
+  },
+  {
+   "text": "After Kevin O'Leary states that anyone can become wealthy through hard work, a security guard working 80 hours a week responds that 55% of his income goes toward rent and that he has applied to hundreds of jobs without success, asking how much harder he needs to work.",
+   "source": "reddit/popular",
+   "weight": 12762
+  },
+  {
+   "text": "TIL that during the premiere of Ode to Joy, an almost deaf Ludwig van Beethoven had to be turned around by a singer to receive the audience\u2019s applause as he was several bars behind and still conducting the orchestra",
+   "source": "reddit/popular",
+   "weight": 12427
+  },
+  {
+   "text": "Please take one",
+   "source": "reddit/popular",
+   "weight": 12508
+  },
+  {
+   "text": "Cosplays that are so accurate it feels like they just ripped the character out of the media they\u2019re from",
+   "source": "reddit/popular",
+   "weight": 13953
+  },
+  {
+   "text": "Scammer gets what he deserves",
+   "source": "reddit/popular",
+   "weight": 12575
+  },
+  {
+   "text": "Petah, why don't you have to meet her parents?",
+   "source": "reddit/popular",
+   "weight": 11930
+  },
+  {
+   "text": "me_irl",
+   "source": "reddit/popular",
+   "weight": 12864
+  },
+  {
+   "text": "Mamdani being credited for stuff he has nothing to do with",
+   "source": "reddit/popular",
+   "weight": 11734
+  },
+  {
+   "text": "Ppl getting creative with twitter's new photo thing",
+   "source": "reddit/popular",
+   "weight": 11657
+  },
+  {
+   "text": "Republicans living in neighborhoods dominated by Democrats experience worse mental health than those residing in heavily Republican areas. Democrats, on the other hand, report similar levels of anxiety, depression, and loneliness regardless of the political makeup of their communities.",
+   "source": "reddit/popular",
+   "weight": 11661
+  },
+  {
+   "text": "Dragon battle comic [OC]",
+   "source": "reddit/popular",
+   "weight": 11619
+  },
+  {
+   "text": "Daughter got 9 mystery dumpling squishies for her birthday and every single one was blue.",
+   "source": "reddit/popular",
+   "weight": 11306
+  },
+  {
+   "text": "Uramaki",
+   "source": "reddit/popular",
+   "weight": 11566
+  },
+  {
+   "text": "My vape cartridge came with a little cowboy hat to cover the mouthpiece.",
+   "source": "reddit/popular",
+   "weight": 11127
+  },
+  {
+   "text": "Madi, my first ever kitten at 39 year old and im over the moon :}",
+   "source": "reddit/popular",
+   "weight": 11031
+  },
+  {
+   "text": "This street art hits different.",
+   "source": "reddit/popular",
+   "weight": 13922
+  },
+  {
+   "text": "Ladies and gentlemen, your next James Bond",
+   "source": "reddit/popular",
+   "weight": 11818
+  },
+  {
+   "text": "Character replies to false information that makes them reveal their disguise",
+   "source": "reddit/popular",
+   "weight": 11569
+  },
+  {
+   "text": "Wrong Generation",
+   "source": "reddit/popular",
+   "weight": 10808
+  },
+  {
+   "text": "\ud83d\udd25A mama bear leaving her cubs with a human while she goes hunting",
+   "source": "reddit/popular",
+   "weight": 11038
+  },
+  {
+   "text": "RIP THE BATMAN PART 2\ud83d\udc80",
+   "source": "reddit/popular",
+   "weight": 10954
+  },
+  {
+   "text": "The Republicans remove all doubt they are the party that opposes democracy and favors billionaires over the American people",
+   "source": "reddit/popular",
+   "weight": 11175
   },
   {
    "text": "Cake Boss",
    "source": "reddit/popular",
-   "weight": 9033
+   "weight": 10442
+  },
+  {
+   "text": "Looks incredible, isn't that great vs. Looks basic, is completely OP.",
+   "source": "reddit/popular",
+   "weight": 10251
+  },
+  {
+   "text": "Rollover crash on my way to work [oc]",
+   "source": "reddit/popular",
+   "weight": 10820
+  },
+  {
+   "text": "Robert Pattinson has been cast as the next James Bond",
+   "source": "reddit/popular",
+   "weight": 10850
+  },
+  {
+   "text": "Uncle ji chill \ud83d\ude2d",
+   "source": "reddit/popular",
+   "weight": 10123
+  },
+  {
+   "text": "There's news that reaches all the way to Ostania!",
+   "source": "reddit/popular",
+   "weight": 10165
+  },
+  {
+   "text": "Fine, here's your cat girl",
+   "source": "reddit/popular",
+   "weight": 10778
+  },
+  {
+   "text": "Eisenkot says Netanyahu can\u2019t remain Israel PM amid alleged vote meddling",
+   "source": "reddit/popular",
+   "weight": 9799
+  },
+  {
+   "text": "Failed Michigan GOP candidate Mike Rogers is being sued by Arab American leaders for his defamatory ads",
+   "source": "reddit/popular",
+   "weight": 10083
+  },
+  {
+   "text": "What is the flat thing and why is it there?",
+   "source": "reddit/popular",
+   "weight": 10477
+  },
+  {
+   "text": "I miss my Nokia 3310",
+   "source": "reddit/popular",
+   "weight": 9978
+  },
+  {
+   "text": "Meirl",
+   "source": "reddit/popular",
+   "weight": 9917
+  },
+  {
+   "text": "My partner accidently left for work without saving his game... and I have never lifted a PS5 controller in my life. How can I save this for him without messing up?",
+   "source": "reddit/popular",
+   "weight": 9973
+  },
+  {
+   "text": "Mocking inventions (ridiculous or otherwise)",
+   "source": "reddit/popular",
+   "weight": 10127
+  },
+  {
+   "text": "Made a no-mold pomegranate candle. What do you think?",
+   "source": "reddit/popular",
+   "weight": 9662
   }
  ]
 }

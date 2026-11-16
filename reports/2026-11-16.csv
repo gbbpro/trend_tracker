@@ -1,7 +1,1 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
-1,mamdanidisbands.com,available?,0.41,mamdani disbands,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Mamdani disbands NYPD protest unit
-2,mamdanidisbands.ai,available?,0.33,mamdani disbands,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Mamdani disbands NYPD protest unit
-3,birdphotography.ai,available?,0.31,bird photography,steady,1.01,low,generic phrase,82.7,82.7,bluesky,Bird photography
-4,birdphotography.com,taken,0.39,bird photography,steady,1.01,low,generic phrase,11.81,11.81,bluesky,Bird photography
-5,mamdanidisbands.co,unknown (no RDAP for .co),0.27,mamdani disbands,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Mamdani disbands NYPD protest unit
-6,birdphotography.co,unknown (no RDAP for .co),0.25,bird photography,steady,1.01,low,generic phrase,15.76,31.2,bluesky,Bird photography
