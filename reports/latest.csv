@@ -1,1 +1,22 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
+1,sourcessay.ai,available?,1.8,sources say,new to tracker,1.0,low,generic phrase,82.7,82.7,reddit/popular,"NSA's classified internal network is down, sources say"
+2,networkgoes.com,available?,1.46,network goes,new to tracker,1.0,low,generic phrase,11.81,11.81,"hackernews,reddit/popular",Highly classified US national security communications network goes down
+3,networkgoes.ai,available?,1.16,network goes,new to tracker,1.0,low,generic phrase,82.7,82.7,"hackernews,reddit/popular",Highly classified US national security communications network goes down
+4,majorwebsites.ai,available?,0.57,major websites,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Optimizely hack hits major websites
+5,internalnetwork.ai,available?,0.55,internal network,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,reddit/popular","National Security Agency’s Highly Classified Internal Network Went Down During Maintenance, Agency Says"
+6,highlyclassified.ai,available?,0.52,highly classified,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,hackernews,reddit/popular",Highly classified US national security communications network goes down
+7,sourcessay.com,taken,2.25,sources say,new to tracker,1.0,low,generic phrase,11.81,11.81,reddit/popular,"NSA's classified internal network is down, sources say"
+8,dirtybomb.com,taken,1.53,dirty bomb,new to tracker,1.0,low,generic phrase,11.81,11.81,"bluesky,reddit/popular",Washington dirty bomb threat intelligence
+9,sourcessay.co,taken,1.46,sources say,new to tracker,1.0,low,generic phrase,15.76,31.2,reddit/popular,"NSA's classified internal network is down, sources say"
+10,dirtybomb.ai,taken,1.22,dirty bomb,new to tracker,1.0,low,generic phrase,82.7,82.7,"bluesky,reddit/popular",Washington dirty bomb threat intelligence
+11,dirtybomb.co,unknown (no RDAP for .co),1.0,dirty bomb,new to tracker,1.0,low,generic phrase,15.76,31.2,"bluesky,reddit/popular",Washington dirty bomb threat intelligence
+12,networkgoes.co,unknown (no RDAP for .co),0.95,network goes,new to tracker,1.0,low,generic phrase,15.76,31.2,"hackernews,reddit/popular",Highly classified US national security communications network goes down
+13,majorwebsites.com,taken,0.71,major websites,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Optimizely hack hits major websites
+14,internalnetwork.com,taken,0.69,internal network,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,reddit/popular","National Security Agency’s Highly Classified Internal Network Went Down During Maintenance, Agency Says"
+15,nationalsecurity.com,taken,0.65,national security,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,hackernews,reddit/popular",Highly classified US national security communications network goes down
+16,highlyclassified.com,taken,0.65,highly classified,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,hackernews,reddit/popular",Highly classified US national security communications network goes down
+17,nationalsecurity.ai,taken,0.52,national security,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,hackernews,reddit/popular",Highly classified US national security communications network goes down
+18,majorwebsites.co,unknown (no RDAP for .co),0.46,major websites,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Optimizely hack hits major websites
+19,internalnetwork.co,unknown (no RDAP for .co),0.45,internal network,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,reddit/popular","National Security Agency’s Highly Classified Internal Network Went Down During Maintenance, Agency Says"
+20,nationalsecurity.co,taken,0.42,national security,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,hackernews,reddit/popular",Highly classified US national security communications network goes down
+21,highlyclassified.co,taken,0.42,highly classified,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,hackernews,reddit/popular",Highly classified US national security communications network goes down

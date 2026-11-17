@@ -1,0 +1,15 @@
+ 1. sourcessay.ai            available?   new to tracker risk=low    sources say
+ 2. networkgoes.com          available?   new to tracker risk=low    network goes
+ 3. networkgoes.ai           available?   new to tracker risk=low    network goes
+ 4. majorwebsites.ai         available?   new to tracker risk=medium major websites
+ 5. internalnetwork.ai       available?   new to tracker risk=medium internal network
+ 6. highlyclassified.ai      available?   new to tracker risk=medium highly classified
+ 7. sourcessay.com           taken        new to tracker risk=low    sources say
+ 8. dirtybomb.com            taken        new to tracker risk=low    dirty bomb
+ 9. sourcessay.co            taken        new to tracker risk=low    sources say
+10. dirtybomb.ai             taken        new to tracker risk=low    dirty bomb
+11. dirtybomb.co             unknown (no RDAP for .co) new to tracker risk=low    dirty bomb
+12. networkgoes.co           unknown (no RDAP for .co) new to tracker risk=low    network goes
+13. majorwebsites.com        taken        new to tracker risk=medium major websites
+14. internalnetwork.com      taken        new to tracker risk=medium internal network
+15. nationalsecurity.com     taken        new to tracker risk=medium national security
