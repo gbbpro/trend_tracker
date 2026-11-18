@@ -1,0 +1,9 @@
+ 1. bandnamebigger.com       available?   new to tracker risk=low    band name bigger
+ 2. bandnamebigger.ai        available?   new to tracker risk=low    band name bigger
+ 3. avengersdoomsday.ai      available?   rising         risk=medium avengers doomsday
+ 4. groundstop.ai            available?   fading         risk=medium ground stop
+ 5. avengersdoomsday.com     taken        rising         risk=medium avengers doomsday
+ 6. groundstop.com           taken        fading         risk=medium ground stop
+ 7. bandnamebigger.co        unknown (no RDAP for .co) new to tracker risk=low    band name bigger
+ 8. avengersdoomsday.co      unknown (no RDAP for .co) rising         risk=medium avengers doomsday
+ 9. groundstop.co            unknown (no RDAP for .co) fading         risk=medium ground stop
