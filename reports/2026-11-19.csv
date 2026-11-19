@@ -1,0 +1,4 @@
+rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
+1,courtrules.com,taken,0.97,court rules,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,google_news","Myanmar committed genocide against Rohingya minority, top UN court rules"
+2,courtrules.ai,taken,0.78,court rules,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,google_news","Myanmar committed genocide against Rohingya minority, top UN court rules"
+3,courtrules.co,unknown (no RDAP for .co),0.63,court rules,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,google_news","Myanmar committed genocide against Rohingya minority, top UN court rules"

@@ -1,10 +1,4 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
-1,bandnamebigger.com,available?,0.64,band name bigger,new to tracker,1.0,low,generic phrase,11.81,11.81,bluesky,Make a band name bigger
-2,bandnamebigger.ai,available?,0.51,band name bigger,new to tracker,1.0,low,generic phrase,82.7,82.7,bluesky,Make a band name bigger
-3,avengersdoomsday.ai,available?,0.48,avengers doomsday,rising,2.16,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,wikipedia",Avengers: Doomsday
-4,groundstop.ai,available?,0.48,ground stop,fading,0.42,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,reddit/popular","DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown"
-5,avengersdoomsday.com,taken,0.6,avengers doomsday,rising,2.16,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,wikipedia",Avengers: Doomsday
-6,groundstop.com,taken,0.6,ground stop,fading,0.42,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,reddit/popular","DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown"
-7,bandnamebigger.co,unknown (no RDAP for .co),0.42,band name bigger,new to tracker,1.0,low,generic phrase,15.76,31.2,bluesky,Make a band name bigger
-8,avengersdoomsday.co,unknown (no RDAP for .co),0.39,avengers doomsday,rising,2.16,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,wikipedia",Avengers: Doomsday
-9,groundstop.co,unknown (no RDAP for .co),0.39,ground stop,fading,0.42,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,reddit/popular","DOT Secretary Sean Duffy keeps blaming L3Harris after FAA ground stop, even as cause remains unknown"
+1,courtrules.com,taken,0.97,court rules,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,google_news","Myanmar committed genocide against Rohingya minority, top UN court rules"
+2,courtrules.ai,taken,0.78,court rules,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,google_news","Myanmar committed genocide against Rohingya minority, top UN court rules"
+3,courtrules.co,unknown (no RDAP for .co),0.63,court rules,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,google_news","Myanmar committed genocide against Rohingya minority, top UN court rules"
