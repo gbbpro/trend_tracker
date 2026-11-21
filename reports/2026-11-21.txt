@@ -1,0 +1,12 @@
+ 1. videogame.com            taken        breaking out   risk=medium video game
+ 2. voyager1.com             taken        breaking out   risk=medium voyager 1
+ 3. videogame.ai             taken        breaking out   risk=medium video game
+ 4. voyager1.ai              taken        breaking out   risk=medium voyager 1
+ 5. videogame.co             taken        breaking out   risk=medium video game
+ 6. voyager1.co              unknown (no RDAP for .co) breaking out   risk=medium voyager 1
+ 7. stockmarket.com          taken        new to tracker risk=medium stock market
+ 8. stockmarket.ai           taken        new to tracker risk=medium stock market
+ 9. stockmarket.co           taken        new to tracker risk=medium stock market
+10. pancreaticcancer.com     taken        new to tracker risk=low    pancreatic cancer
+11. pancreaticcancer.ai      taken        new to tracker risk=low    pancreatic cancer
+12. pancreaticcancer.co      unknown (no RDAP for .co) new to tracker risk=low    pancreatic cancer

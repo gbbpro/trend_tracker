@@ -1,34 +1,13 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
-1,leadersfume.com,available?,1.59,leaders fume,new to tracker,1.0,low,generic phrase,11.81,11.81,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-2,6release.com,available?,1.37,6 release,new to tracker,1.0,low,generic phrase,11.81,11.81,"google_news,reddit/popular","'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years"
-3,gopleaders.ai,available?,1.27,gop leaders,new to tracker,1.0,low,generic phrase,82.7,82.7,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-4,leadersfume.ai,available?,1.27,leaders fume,new to tracker,1.0,low,generic phrase,82.7,82.7,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-5,gopleadersfume.com,available?,1.22,gop leaders fume,new to tracker,1.0,low,generic phrase,11.81,11.81,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-6,6release.ai,available?,1.1,6 release,new to tracker,1.0,low,generic phrase,82.7,82.7,"google_news,reddit/popular","'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years"
-7,gopleadersfume.ai,available?,0.97,gop leaders fume,new to tracker,1.0,low,generic phrase,82.7,82.7,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-8,22million.ai,available?,0.96,22 million,new to tracker,1.0,low,generic phrase,82.7,82.7,"google_news,reddit/popular","Brazen train heist of Nikes and Crocs nets ring of bandits $22 million in cargo, officials say"
-9,resetdeal.com,available?,0.93,reset deal,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,google_news",Britain Announces Brexit Reset Deal at E.U. Summit: What to Know
-10,fumeaftermembers.com,available?,0.75,fume after members,new to tracker,1.0,low,generic phrase,11.81,11.81,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-11,resetdeal.ai,available?,0.74,reset deal,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,google_news",Britain Announces Brexit Reset Deal at E.U. Summit: What to Know
-12,fumeaftermembers.ai,available?,0.6,fume after members,new to tracker,1.0,low,generic phrase,82.7,82.7,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-13,playingsoccer.ai,available?,0.57,playing soccer,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Mamdani tears Achilles playing soccer
-14,sourcessay.ai,available?,0.46,sources say,fading,0.58,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,hackernews","Nvidia accounting under SEC investigation, sources say"
-15,voyager1.com,taken,1.69,voyager 1,breaking out,17.78,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,wikipedia",Voyager 1
-16,gopleaders.com,taken,1.59,gop leaders,new to tracker,1.0,low,generic phrase,11.81,11.81,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-17,voyager1.ai,taken,1.35,voyager 1,breaking out,17.78,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,wikipedia",Voyager 1
-18,22million.com,taken,1.2,22 million,new to tracker,1.0,low,generic phrase,11.81,11.81,"google_news,reddit/popular","Brazen train heist of Nikes and Crocs nets ring of bandits $22 million in cargo, officials say"
-19,voyager1.co,unknown (no RDAP for .co),1.1,voyager 1,breaking out,17.78,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,wikipedia",Voyager 1
-20,gopleaders.co,taken,1.03,gop leaders,new to tracker,1.0,low,generic phrase,15.76,31.2,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-21,leadersfume.co,unknown (no RDAP for .co),1.03,leaders fume,new to tracker,1.0,low,generic phrase,15.76,31.2,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-22,datacenter.com,taken,0.91,data center,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Data center ballot measures
-23,6release.co,unknown (no RDAP for .co),0.89,6 release,new to tracker,1.0,low,generic phrase,15.76,31.2,"google_news,reddit/popular","'GTA 6' release live updates: Reviews, memes and more as gamers explore and react to Leonida after 13 long years"
-24,gopleadersfume.co,unknown (no RDAP for .co),0.79,gop leaders fume,new to tracker,1.0,low,generic phrase,15.76,31.2,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-25,22million.co,unknown (no RDAP for .co),0.78,22 million,new to tracker,1.0,low,generic phrase,15.76,31.2,"google_news,reddit/popular","Brazen train heist of Nikes and Crocs nets ring of bandits $22 million in cargo, officials say"
-26,datacenter.ai,taken,0.73,data center,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Data center ballot measures
-27,playingsoccer.com,taken,0.72,playing soccer,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Mamdani tears Achilles playing soccer
-28,resetdeal.co,unknown (no RDAP for .co),0.6,reset deal,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,google_news",Britain Announces Brexit Reset Deal at E.U. Summit: What to Know
-29,datacenter.co,unknown (no RDAP for .co),0.59,data center,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Data center ballot measures
-30,sourcessay.com,taken,0.57,sources say,fading,0.58,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,hackernews","Nvidia accounting under SEC investigation, sources say"
-31,fumeaftermembers.co,unknown (no RDAP for .co),0.49,fume after members,new to tracker,1.0,low,generic phrase,15.76,31.2,"google_news,reddit/popular",GOP leaders fume after members who lost reelection are no-shows
-32,playingsoccer.co,unknown (no RDAP for .co),0.47,playing soccer,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Mamdani tears Achilles playing soccer
-33,sourcessay.co,taken,0.37,sources say,fading,0.58,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,hackernews","Nvidia accounting under SEC investigation, sources say"
+1,videogame.com,taken,1.91,video game,breaking out,17.77,medium,sometimes appears as a proper noun,11.81,11.81,"reddit/popular,wikipedia",Grand Theft Auto (video game)
+2,voyager1.com,taken,1.73,voyager 1,breaking out,18.17,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,wikipedia",Voyager 1
+3,videogame.ai,taken,1.53,video game,breaking out,17.77,medium,sometimes appears as a proper noun,82.7,82.7,"reddit/popular,wikipedia",Grand Theft Auto (video game)
+4,voyager1.ai,taken,1.38,voyager 1,breaking out,18.17,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,wikipedia",Voyager 1
+5,videogame.co,taken,1.24,video game,breaking out,17.77,medium,sometimes appears as a proper noun,15.76,31.2,"reddit/popular,wikipedia",Grand Theft Auto (video game)
+6,voyager1.co,unknown (no RDAP for .co),1.12,voyager 1,breaking out,18.17,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,wikipedia",Voyager 1
+7,stockmarket.com,taken,0.92,stock market,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,reddit/popular","Stock Market News From Nov. 20, 2026: S&P 500 Ends Week in Correction Territory"
+8,stockmarket.ai,taken,0.74,stock market,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,reddit/popular","Stock Market News From Nov. 20, 2026: S&P 500 Ends Week in Correction Territory"
+9,stockmarket.co,taken,0.6,stock market,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,reddit/popular","Stock Market News From Nov. 20, 2026: S&P 500 Ends Week in Correction Territory"
+10,pancreaticcancer.com,taken,0.44,pancreatic cancer,new to tracker,1.0,low,generic phrase,11.81,11.81,"google_news,hackernews",Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
+11,pancreaticcancer.ai,taken,0.35,pancreatic cancer,new to tracker,1.0,low,generic phrase,82.7,82.7,"google_news,hackernews",Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
+12,pancreaticcancer.co,unknown (no RDAP for .co),0.29,pancreatic cancer,new to tracker,1.0,low,generic phrase,15.76,31.2,"google_news,hackernews",Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'
