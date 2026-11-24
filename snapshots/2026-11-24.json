@@ -1,0 +1,1030 @@
+{
+ "date": "2026-11-24",
+ "signals": [
+  {
+   "text": "clippers vs rockets",
+   "source": "google_trends",
+   "weight": 2000,
+   "entity": true
+  },
+  {
+   "text": "joe burrow stats",
+   "source": "google_trends",
+   "weight": 2000,
+   "entity": true
+  },
+  {
+   "text": "immigration",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "sol ruca",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "santa clara basketball",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "seth rollins",
+   "source": "google_trends",
+   "weight": 200,
+   "entity": true
+  },
+  {
+   "text": "student loans news",
+   "source": "google_trends",
+   "weight": 1000,
+   "entity": true
+  },
+  {
+   "text": "jabari walker",
+   "source": "google_trends",
+   "weight": 2000,
+   "entity": true
+  },
+  {
+   "text": "zac taylor",
+   "source": "google_trends",
+   "weight": 1000,
+   "entity": true
+  },
+  {
+   "text": "russia news",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "Nvidia Reinstates Jensen Huang as CEO",
+   "source": "hackernews",
+   "weight": 2031
+  },
+  {
+   "text": "Ladybird is now in alpha",
+   "source": "hackernews",
+   "weight": 1378
+  },
+  {
+   "text": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+   "source": "hackernews",
+   "weight": 1086
+  },
+  {
+   "text": "GLM-5.4: Toward generalized coding with our first loop transformer",
+   "source": "hackernews",
+   "weight": 1041
+  },
+  {
+   "text": "Free alternative TV network built from the Internet Archive's forgotten videos",
+   "source": "hackernews",
+   "weight": 938
+  },
+  {
+   "text": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+   "source": "hackernews",
+   "weight": 823
+  },
+  {
+   "text": "Apple removed my open-source app from EU App Stores after 9 years",
+   "source": "hackernews",
+   "weight": 498
+  },
+  {
+   "text": "Kagi Mail (public beta)",
+   "source": "hackernews",
+   "weight": 346
+  },
+  {
+   "text": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
+   "source": "hackernews",
+   "weight": 291
+  },
+  {
+   "text": "Nospeaker \u2500 Make your MacBook's trackpad talk using its haptic motor",
+   "source": "hackernews",
+   "weight": 271
+  },
+  {
+   "text": "Win4wine \u2013 Run Windows Shell as the Linux Desktop on Wine",
+   "source": "hackernews",
+   "weight": 212
+  },
+  {
+   "text": "VP \u2260 VNP over Every Field",
+   "source": "hackernews",
+   "weight": 206
+  },
+  {
+   "text": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+   "source": "hackernews",
+   "weight": 168
+  },
+  {
+   "text": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+   "source": "hackernews",
+   "weight": 120
+  },
+  {
+   "text": "GPUI is getting its own repository",
+   "source": "hackernews",
+   "weight": 108
+  },
+  {
+   "text": "Huang's Return Is the Biggest National Security Scandal in U.S. History",
+   "source": "hackernews",
+   "weight": 100
+  },
+  {
+   "text": "C++26 is done (again): ISO C++ meeting trip report",
+   "source": "hackernews",
+   "weight": 99
+  },
+  {
+   "text": "Bored.com: Fun, interesting and cool websites to explore when bored",
+   "source": "hackernews",
+   "weight": 91
+  },
+  {
+   "text": "Levent Alp\u00f6ge comments on his Riemann Hypothesis proof",
+   "source": "hackernews",
+   "weight": 74
+  },
+  {
+   "text": "Derivative Flipping",
+   "source": "hackernews",
+   "weight": 73
+  },
+  {
+   "text": "The horse made the state",
+   "source": "hackernews",
+   "weight": 55
+  },
+  {
+   "text": "How should an LLM see a computer?",
+   "source": "hackernews",
+   "weight": 43
+  },
+  {
+   "text": "What does it mean to understand what we built?",
+   "source": "hackernews",
+   "weight": 34
+  },
+  {
+   "text": "Freeing the iPod Nano 5G",
+   "source": "hackernews",
+   "weight": 24
+  },
+  {
+   "text": "Show HN: Type-C \u2013 variants, options, generics and pattern matching for C",
+   "source": "hackernews",
+   "weight": 22
+  },
+  {
+   "text": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux",
+   "source": "hackernews",
+   "weight": 18
+  },
+  {
+   "text": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+   "source": "hackernews",
+   "weight": 14
+  },
+  {
+   "text": "Mutex poisoning is not for everyone",
+   "source": "hackernews",
+   "weight": 8
+  },
+  {
+   "text": "The Power of GraphQL, Without GraphQL",
+   "source": "hackernews",
+   "weight": 5
+  },
+  {
+   "text": "EasyPost (YC S13) Is Hiring",
+   "source": "hackernews",
+   "weight": 1
+  },
+  {
+   "text": "Trump told the Army to pause the detonation of 9,500 pounds of lead azide in Iowa. Here's what to know",
+   "source": "google_news",
+   "weight": 100
+  },
+  {
+   "text": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "source": "google_news",
+   "weight": 99
+  },
+  {
+   "text": "Thanksgiving travel forecast 2026: storms on both coasts",
+   "source": "google_news",
+   "weight": 98
+  },
+  {
+   "text": "Russia warns of 'preventive nuclear attack' as Medvedev claims Ukraine, NATO crossed line",
+   "source": "google_news",
+   "weight": 97
+  },
+  {
+   "text": "Trump targets Newsom and Democrats in Justice Department speech focused on violent crime",
+   "source": "google_news",
+   "weight": 96
+  },
+  {
+   "text": "California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations",
+   "source": "google_news",
+   "weight": 95
+  },
+  {
+   "text": "Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business",
+   "source": "google_news",
+   "weight": 94
+  },
+  {
+   "text": "Appeals court breathes new life into Trump\u2019s fight over hush money conviction",
+   "source": "google_news",
+   "weight": 93
+  },
+  {
+   "text": "Virginia School District Shaken by Sex Abuse Claims Closes for a Week",
+   "source": "google_news",
+   "weight": 92
+  },
+  {
+   "text": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+   "source": "google_news",
+   "weight": 91
+  },
+  {
+   "text": "Poland to get NATO early-warning aircraft after Russian missiles hit country",
+   "source": "google_news",
+   "weight": 90
+  },
+  {
+   "text": "My approach to EU is pragmatic, says Burnham",
+   "source": "google_news",
+   "weight": 89
+  },
+  {
+   "text": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+   "source": "google_news",
+   "weight": 88
+  },
+  {
+   "text": "Failure of Cop31 prompts calls for urgent reform of UN climate summits",
+   "source": "google_news",
+   "weight": 87
+  },
+  {
+   "text": "Thanksgiving travel could be messy with storms coming after a week filled with airline glitches",
+   "source": "google_news",
+   "weight": 86
+  },
+  {
+   "text": "Nvidia live: Nvidia gains nearly $1tn in value after Jensen Huang reinstated",
+   "source": "google_news",
+   "weight": 85
+  },
+  {
+   "text": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+   "source": "google_news",
+   "weight": 84
+  },
+  {
+   "text": "Anthropic stock falls as Monday's tech rally takes off",
+   "source": "google_news",
+   "weight": 83
+  },
+  {
+   "text": "'GTA 6' sales left every 2026 entertainment release in the dust. Here's how much.",
+   "source": "google_news",
+   "weight": 82
+  },
+  {
+   "text": "Black Friday deals live: great savings on wireless headphones, OLED TVs and more, handpicked by our experts - What Hi-Fi?",
+   "source": "google_news",
+   "weight": 81
+  },
+  {
+   "text": "No. 1 Apple Leaker Says MacBook Neo 2 and Complete iPad Refresh Coming in Spring",
+   "source": "google_news",
+   "weight": 80
+  },
+  {
+   "text": "GTA VI Hacker Sentenced to Seven Years, Released Same Day",
+   "source": "google_news",
+   "weight": 79
+  },
+  {
+   "text": "\u2018Blade Runner 2099\u2019 Rotten Tomatoes Critics\u2019 Score Is Below Both \u2018Blade Runner\u2019 Movies",
+   "source": "google_news",
+   "weight": 78
+  },
+  {
+   "text": "Steven Spielberg to Direct Western Movie Starring Cillian Murphy, Jessie Buckley; Paul Thomas Anderson to Write Script Based on \u2018The Heart in Winter\u2019",
+   "source": "google_news",
+   "weight": 77
+  },
+  {
+   "text": "\u2018Ted Lasso\u2019 Renewed For Season 5 By Apple TV",
+   "source": "google_news",
+   "weight": 76
+  },
+  {
+   "text": "Miley Cyrus wedding guest called out for breaking all-black dress code",
+   "source": "google_news",
+   "weight": 75
+  },
+  {
+   "text": "Florida State Hires Glenn Schumann as New Head Football Coach",
+   "source": "google_news",
+   "weight": 74
+  },
+  {
+   "text": "Mets owner Steve Cohen paid $450 million for Tarik Skubal. His fellow MLB owners want to stop him from doing it again",
+   "source": "google_news",
+   "weight": 73
+  },
+  {
+   "text": "NFL Week 11 Sunday aftermath: Brock Purdy too much for Vikings' defense; Giants score huge win",
+   "source": "google_news",
+   "weight": 72
+  },
+  {
+   "text": "College Football Playoff projections: Big Ten could get just 1 spot",
+   "source": "google_news",
+   "weight": 71
+  },
+  {
+   "text": "Software issues have even reached Mercury as BepiColombo probe arrives in uncertain state",
+   "source": "google_news",
+   "weight": 70
+  },
+  {
+   "text": "How and when to watch November\u2019s beaver moon",
+   "source": "google_news",
+   "weight": 69
+  },
+  {
+   "text": "Voyager 1 reaches a light-day from Earth in golden milestone",
+   "source": "google_news",
+   "weight": 68
+  },
+  {
+   "text": "Russia will launch a routine ISS supply mission tomorrow\u2014apparently, it\u2019s a big secret",
+   "source": "google_news",
+   "weight": 67
+  },
+  {
+   "text": "Measles Is a Growing Risk for Adults in the United States",
+   "source": "google_news",
+   "weight": 66
+  },
+  {
+   "text": "Reported flu cases surge across New York ahead of Thanksgiving",
+   "source": "google_news",
+   "weight": 65
+  },
+  {
+   "text": "Virginia reports first measles-linked death of 2026 in child younger than 5",
+   "source": "google_news",
+   "weight": 64
+  },
+  {
+   "text": "SD doctor, mom react to measles cases concerns",
+   "source": "google_news",
+   "weight": 63
+  },
+  {
+   "text": "Nvidia rehires Huang",
+   "source": "bluesky",
+   "weight": 50
+  },
+  {
+   "text": "SEC probes Nvidia accounting",
+   "source": "bluesky",
+   "weight": 49
+  },
+  {
+   "text": "LSU's future in the SEC",
+   "source": "bluesky",
+   "weight": 48
+  },
+  {
+   "text": "Weather forecasts include lead plume",
+   "source": "bluesky",
+   "weight": 47
+  },
+  {
+   "text": "ICE arrests at Seattle airport",
+   "source": "bluesky",
+   "weight": 46
+  },
+  {
+   "text": "Grand Theft Auto VI release",
+   "source": "bluesky",
+   "weight": 45
+  },
+  {
+   "text": "November full supermoon",
+   "source": "bluesky",
+   "weight": 44
+  },
+  {
+   "text": "Google plans personalized AI TV channel",
+   "source": "bluesky",
+   "weight": 43
+  },
+  {
+   "text": "Cyclops in Avengers: Doomsday footage",
+   "source": "bluesky",
+   "weight": 42
+  },
+  {
+   "text": "NFL Week 11 games",
+   "source": "bluesky",
+   "weight": 41
+  },
+  {
+   "text": "Van Hollen challenges Schumer",
+   "source": "bluesky",
+   "weight": 40
+  },
+  {
+   "text": "Ukraine claims Libya warship sinking",
+   "source": "bluesky",
+   "weight": 39
+  },
+  {
+   "text": "Washington girls' sports sex exam law",
+   "source": "bluesky",
+   "weight": 38
+  },
+  {
+   "text": "Leak reveals Russian war dead",
+   "source": "bluesky",
+   "weight": 37
+  },
+  {
+   "text": "Google adds AI across products",
+   "source": "bluesky",
+   "weight": 36
+  },
+  {
+   "text": "House Ethics report on Gomez",
+   "source": "bluesky",
+   "weight": 35
+  },
+  {
+   "text": "Unusually warm late November weather",
+   "source": "bluesky",
+   "weight": 34
+  },
+  {
+   "text": "Israel's military campaign in Gaza",
+   "source": "bluesky",
+   "weight": 33
+  },
+  {
+   "text": "Carney jokes at Press Gallery dinner",
+   "source": "bluesky",
+   "weight": 32
+  },
+  {
+   "text": "King tides threaten Bay Area flooding",
+   "source": "bluesky",
+   "weight": 31
+  },
+  {
+   "text": "Wave of software vulnerability disclosures",
+   "source": "bluesky",
+   "weight": 30
+  },
+  {
+   "text": "Sunrise on the Reaping's $225M debut",
+   "source": "bluesky",
+   "weight": 29
+  },
+  {
+   "text": "Women's World Cup host vote",
+   "source": "bluesky",
+   "weight": 28
+  },
+  {
+   "text": "Data center ballot measures",
+   "source": "bluesky",
+   "weight": 27
+  },
+  {
+   "text": "Push to remove Trump from office",
+   "source": "bluesky",
+   "weight": 26
+  },
+  {
+   "text": "literally no fucking comment",
+   "source": "reddit/popular",
+   "weight": 50189
+  },
+  {
+   "text": "JENSEN HUANG TELLS NVIDIA EMPLOYEES: \"I'M GOING TO BE A BETTER CEO THE SECOND TIME AROUND\"",
+   "source": "reddit/popular",
+   "weight": 45213
+  },
+  {
+   "text": "I'm basically feeding my husband and his 3 coworkers in construction",
+   "source": "reddit/popular",
+   "weight": 42019
+  },
+  {
+   "text": "TIL in 2019 DoorDash listed a pizzeria without permission and sold its $24 pizzas for $16, so the owner ordered his own pizzas and kept the $8 difference",
+   "source": "reddit/popular",
+   "weight": 39350
+  },
+  {
+   "text": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "source": "reddit/popular",
+   "weight": 36080
+  },
+  {
+   "text": "Violence",
+   "source": "reddit/popular",
+   "weight": 38394
+  },
+  {
+   "text": "A Cheetah and her little Cheetos",
+   "source": "reddit/popular",
+   "weight": 34856
+  },
+  {
+   "text": "Jensen's linkedin",
+   "source": "reddit/popular",
+   "weight": 34626
+  },
+  {
+   "text": "New Zealand school kids skipping school caught attending an international cricket game",
+   "source": "reddit/popular",
+   "weight": 33117
+  },
+  {
+   "text": "meirl",
+   "source": "reddit/popular",
+   "weight": 32570
+  },
+  {
+   "text": "Everyone Look at my Cat that Refused to Eat for 3 days then ate at the vet!",
+   "source": "reddit/popular",
+   "weight": 33011
+  },
+  {
+   "text": "The CEO Zuck-bot strikes again, could have funded 80 GTA's",
+   "source": "reddit/popular",
+   "weight": 30746
+  },
+  {
+   "text": "Jeremy Hemsley survived a power line accident on October 15, leaving dramatic changes to his skin",
+   "source": "reddit/popular",
+   "weight": 30229
+  },
+  {
+   "text": "After accepting her diploma, a middle school graduate in New Hampshire refused to shake hands with almost every teacher and administrator at her graduation ceremony because they had failed to do something about the bullying that kids deal with.",
+   "source": "reddit/popular",
+   "weight": 30966
+  },
+  {
+   "text": "Didn\u2019t expect that",
+   "source": "reddit/popular",
+   "weight": 27833
+  },
+  {
+   "text": "School kids skipping school caught attending the New Zealand vs India test match",
+   "source": "reddit/popular",
+   "weight": 26457
+  },
+  {
+   "text": "Nvidia reinstates Jensen Huang as CEO",
+   "source": "reddit/popular",
+   "weight": 26592
+  },
+  {
+   "text": "speech bubble retweets",
+   "source": "reddit/popular",
+   "weight": 24721
+  },
+  {
+   "text": "GTA VI player gets 30-day PSN suspension for sharing screenshot of in-game nudity with friend",
+   "source": "reddit/popular",
+   "weight": 24562
+  },
+  {
+   "text": "GTA VI's executable file out now.",
+   "source": "reddit/popular",
+   "weight": 23202
+  },
+  {
+   "text": "Got assassinated by a boat",
+   "source": "reddit/popular",
+   "weight": 22342
+  },
+  {
+   "text": "Wallet got stolen from my car",
+   "source": "reddit/popular",
+   "weight": 20608
+  },
+  {
+   "text": "Jensen reinstated as CEO of NVIDA.",
+   "source": "reddit/popular",
+   "weight": 20375
+  },
+  {
+   "text": "Daddy\u2019s Home",
+   "source": "reddit/popular",
+   "weight": 20275
+  },
+  {
+   "text": "Huang\u2019s Return Is the Biggest National Security Scandal in U.S. History",
+   "source": "reddit/popular",
+   "weight": 21617
+  },
+  {
+   "text": "The only known group photo of the original Grand Theft Auto (1997) development team.",
+   "source": "reddit/popular",
+   "weight": 19744
+  },
+  {
+   "text": "State It Plainly: Trump Is Committing Treason",
+   "source": "reddit/popular",
+   "weight": 19803
+  },
+  {
+   "text": "meirl",
+   "source": "reddit/popular",
+   "weight": 20868
+  },
+  {
+   "text": "One Target roll of birthday wrapping paper covers one Barbie dream house.",
+   "source": "reddit/popular",
+   "weight": 19049
+  },
+  {
+   "text": "No further questions",
+   "source": "reddit/popular",
+   "weight": 19008
+  },
+  {
+   "text": "This is fucking scary. WTF?????",
+   "source": "reddit/popular",
+   "weight": 18025
+  },
+  {
+   "text": "Man using different size firecrackers under a pot to increase the height.",
+   "source": "reddit/popular",
+   "weight": 17938
+  },
+  {
+   "text": "Hate this type of story structuring in single-player videogames",
+   "source": "reddit/popular",
+   "weight": 17937
+  },
+  {
+   "text": "In the upcoming 007 movie, Robert Pattinson has the chance to do the funniest thing ever.",
+   "source": "reddit/popular",
+   "weight": 17530
+  },
+  {
+   "text": "That man's happiness was wholesome...",
+   "source": "reddit/popular",
+   "weight": 17770
+  },
+  {
+   "text": "Norway \ud83c\uddf3\ud83c\uddf4The Northern Lights",
+   "source": "reddit/popular",
+   "weight": 17468
+  },
+  {
+   "text": "It's 100% real",
+   "source": "reddit/popular",
+   "weight": 16982
+  },
+  {
+   "text": "\ud83d\udce1\ud83d\udce1\ud83d\udce1",
+   "source": "reddit/popular",
+   "weight": 16793
+  },
+  {
+   "text": "Zelenskyy confirms Ukrainian naval drones sank Russian corvette Merkury off Libya \u2013",
+   "source": "reddit/popular",
+   "weight": 16354
+  },
+  {
+   "text": "Grandpa is such a sweetheart!",
+   "source": "reddit/popular",
+   "weight": 16966
+  },
+  {
+   "text": "And this is exactly why we don't have transparent glass stairs",
+   "source": "reddit/popular",
+   "weight": 16995
+  },
+  {
+   "text": "A massive deep-sea shark was filmed approaching a submarine during an expedition deep beneath the ocean's surface",
+   "source": "reddit/popular",
+   "weight": 16234
+  },
+  {
+   "text": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "source": "reddit/popular",
+   "weight": 15287
+  },
+  {
+   "text": "Strength of the heart [OC]",
+   "source": "reddit/popular",
+   "weight": 15280
+  },
+  {
+   "text": "Sorry I doubted you legend",
+   "source": "reddit/popular",
+   "weight": 15562
+  },
+  {
+   "text": "The correct response.",
+   "source": "reddit/popular",
+   "weight": 14901
+  },
+  {
+   "text": "I know they exclusively drink nitro-brews",
+   "source": "reddit/popular",
+   "weight": 14805
+  },
+  {
+   "text": "Truck Norris",
+   "source": "reddit/popular",
+   "weight": 14703
+  },
+  {
+   "text": "91892",
+   "source": "reddit/popular",
+   "weight": 14167
+  },
+  {
+   "text": "What is going on?",
+   "source": "reddit/popular",
+   "weight": 13979
+  },
+  {
+   "text": "Me_irl",
+   "source": "reddit/popular",
+   "weight": 14020
+  },
+  {
+   "text": "Avengers: Doomsday | Final Trailer",
+   "source": "reddit/popular",
+   "weight": 13742
+  },
+  {
+   "text": "A bit of perspective...",
+   "source": "reddit/popular",
+   "weight": 13572
+  },
+  {
+   "text": "meirl",
+   "source": "reddit/popular",
+   "weight": 16667
+  },
+  {
+   "text": "Found old pic of Melvin when he was a baby",
+   "source": "reddit/popular",
+   "weight": 17341
+  },
+  {
+   "text": "Oh, the irony",
+   "source": "reddit/popular",
+   "weight": 13109
+  },
+  {
+   "text": "My friend hosted Friendsgiving for 25 people. 14 RSVP\u2019d YES, 11 said MAYBE, and only FIVE showed up. What is wrong with people?!",
+   "source": "reddit/popular",
+   "weight": 14398
+  },
+  {
+   "text": "Kim Jong Un returned Trump\u2019s letter unopened and ignored his calls, report says",
+   "source": "reddit/popular",
+   "weight": 12955
+  },
+  {
+   "text": "Pokemon Adventure:The Previous Generation Chapter 170",
+   "source": "reddit/popular",
+   "weight": 12955
+  },
+  {
+   "text": "How will this game ever be topped",
+   "source": "reddit/popular",
+   "weight": 12839
+  },
+  {
+   "text": "We\u2019ve got a GTA 6 version now \ud83d\ude2d",
+   "source": "reddit/popular",
+   "weight": 12782
+  },
+  {
+   "text": "Radio of Max Verstappen and his new race engineer Tom Hart during the Las Vegas GP",
+   "source": "reddit/popular",
+   "weight": 12669
+  },
+  {
+   "text": "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+   "source": "reddit/popular",
+   "weight": 12560
+  },
+  {
+   "text": "My kind of woman.",
+   "source": "reddit/popular",
+   "weight": 12371
+  },
+  {
+   "text": "Leonida (GTA6 to PC) Progress",
+   "source": "reddit/popular",
+   "weight": 12252
+  },
+  {
+   "text": "There was no generative AI used to create GTA 6.",
+   "source": "reddit/popular",
+   "weight": 12662
+  },
+  {
+   "text": "Strength of the heart",
+   "source": "reddit/popular",
+   "weight": 12319
+  },
+  {
+   "text": "Which favorite character fell to this trope?",
+   "source": "reddit/popular",
+   "weight": 12491
+  },
+  {
+   "text": "Smooth",
+   "source": "reddit/popular",
+   "weight": 13524
+  },
+  {
+   "text": "This is INSANE! What a discovery!",
+   "source": "reddit/popular",
+   "weight": 12077
+  },
+  {
+   "text": "WSB HALL OF FAME",
+   "source": "reddit/popular",
+   "weight": 11791
+  },
+  {
+   "text": "I told my dad not to touch this bug because it has a painful bite and now he kills every one he sees",
+   "source": "reddit/popular",
+   "weight": 11562
+  },
+  {
+   "text": "Guy at the gym using the communal barbells as foot rests for his naked feet",
+   "source": "reddit/popular",
+   "weight": 11618
+  },
+  {
+   "text": "the most tired trope to ever exist, can we please just not do it",
+   "source": "reddit/popular",
+   "weight": 11416
+  },
+  {
+   "text": "\ud83d\udd25 A group of coatis played in reverse looks like tiny dinosaurs roaming through the ruins",
+   "source": "reddit/popular",
+   "weight": 11537
+  },
+  {
+   "text": "Socialism Is Bad Until You Need Surgery \ud83d\ude43",
+   "source": "reddit/popular",
+   "weight": 11515
+  },
+  {
+   "text": "Sydney Sweeney",
+   "source": "reddit/popular",
+   "weight": 11509
+  },
+  {
+   "text": "Entirely disproportionate responses",
+   "source": "reddit/popular",
+   "weight": 11271
+  },
+  {
+   "text": "BeSeen Machine",
+   "source": "reddit/popular",
+   "weight": 14435
+  },
+  {
+   "text": "Substance if it was actually good",
+   "source": "reddit/popular",
+   "weight": 11547
+  },
+  {
+   "text": "The Twitter post which contained the original uncanny mister incredible.",
+   "source": "reddit/popular",
+   "weight": 11512
+  },
+  {
+   "text": "Innovation",
+   "source": "reddit/popular",
+   "weight": 11247
+  },
+  {
+   "text": "Every year, more is taken and more falls to enshitification. Fun fact: to match your grandparents' cost of living, minimum wage would have to be $43 today.",
+   "source": "reddit/popular",
+   "weight": 11017
+  },
+  {
+   "text": "Character insults another character, who gets offended by the wrong part of the insult",
+   "source": "reddit/popular",
+   "weight": 10797
+  },
+  {
+   "text": "The Yeti wouldn't allow us to do so",
+   "source": "reddit/popular",
+   "weight": 11206
+  },
+  {
+   "text": "This submerged walkway",
+   "source": "reddit/popular",
+   "weight": 11286
+  },
+  {
+   "text": "Spotted on the D.C. Metro: Trump Staffer Accidentally Reveals Plan for Smithsonian Overhaul",
+   "source": "reddit/popular",
+   "weight": 10619
+  },
+  {
+   "text": "Casting directors clearly need a new vision",
+   "source": "reddit/popular",
+   "weight": 10399
+  },
+  {
+   "text": "it is the highest rated game of all time for a reason",
+   "source": "reddit/popular",
+   "weight": 11082
+  },
+  {
+   "text": "to pass",
+   "source": "reddit/popular",
+   "weight": 10632
+  },
+  {
+   "text": "What do I have to do to get into this friend group?",
+   "source": "reddit/popular",
+   "weight": 10162
+  },
+  {
+   "text": "Lela",
+   "source": "reddit/popular",
+   "weight": 10933
+  },
+  {
+   "text": "This is what I'm dealing with every day",
+   "source": "reddit/popular",
+   "weight": 10325
+  },
+  {
+   "text": "Hailee Steinfeld Announces Her Return as Kate Bishop in \u2018Avengers: Doomsday\u2019",
+   "source": "reddit/popular",
+   "weight": 9926
+  },
+  {
+   "text": "State It Plainly: Trump Is Committing Treason",
+   "source": "reddit/popular",
+   "weight": 10481
+  },
+  {
+   "text": "The way my sister dashed her boots made me think she\u2019s passed out on the floor.",
+   "source": "reddit/popular",
+   "weight": 10550
+  },
+  {
+   "text": "How did we not think about it before?",
+   "source": "reddit/popular",
+   "weight": 9971
+  },
+  {
+   "text": "Times Have Changed [OC]",
+   "source": "reddit/popular",
+   "weight": 11043
+  },
+  {
+   "text": "1 year post-op from weight loss surgery.",
+   "source": "reddit/popular",
+   "weight": 9878
+  },
+  {
+   "text": "Disturbing new report reveals the full extent of twisted relationship between Donald Trump and Jeffrey Epstein",
+   "source": "reddit/popular",
+   "weight": 11920
+  }
+ ]
+}

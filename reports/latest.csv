@@ -1,1 +1,4 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
+1,reinstatedasceo.com,available?,0.46,reinstated as ceo,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,reddit/popular",Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business
+2,reinstatedasceo.ai,available?,0.37,reinstated as ceo,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,reddit/popular",Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business
+3,reinstatedasceo.co,unknown (no RDAP for .co),0.3,reinstated as ceo,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,reddit/popular",Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business
