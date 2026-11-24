@@ -1,3 +1,12 @@
- 1. reinstatedasceo.com      available?   new to tracker risk=medium reinstated as ceo
- 2. reinstatedasceo.ai       available?   new to tracker risk=medium reinstated as ceo
- 3. reinstatedasceo.co       unknown (no RDAP for .co) new to tracker risk=medium reinstated as ceo
+ 1. tidalbansai.com          available?   new to tracker risk=medium tidal bans ai
+ 2. tidalbansai.ai           available?   new to tracker risk=medium tidal bans ai
+ 3. aigeneratedmusic.ai      available?   new to tracker risk=medium ai generated music
+ 4. aigenerated.com          taken        new to tracker risk=medium ai generated
+ 5. aigenerated.ai           taken        new to tracker risk=medium ai generated
+ 6. generatedmusic.com       taken        new to tracker risk=medium generated music
+ 7. aigenerated.co           taken        new to tracker risk=medium ai generated
+ 8. tidalbansai.co           unknown (no RDAP for .co) new to tracker risk=medium tidal bans ai
+ 9. generatedmusic.ai        taken        new to tracker risk=medium generated music
+10. generatedmusic.co        unknown (no RDAP for .co) new to tracker risk=medium generated music
+11. aigeneratedmusic.com     taken        new to tracker risk=medium ai generated music
+12. aigeneratedmusic.co      unknown (no RDAP for .co) new to tracker risk=medium ai generated music

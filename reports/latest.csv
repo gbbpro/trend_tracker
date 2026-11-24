@@ -1,4 +1,13 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
-1,reinstatedasceo.com,available?,0.46,reinstated as ceo,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,reddit/popular",Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business
-2,reinstatedasceo.ai,available?,0.37,reinstated as ceo,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,reddit/popular",Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business
-3,reinstatedasceo.co,unknown (no RDAP for .co),0.3,reinstated as ceo,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,reddit/popular",Live updates: Jensen Huang reinstated as CEO of Nvidia | CNN Business
+1,tidalbansai.com,available?,0.95,tidal bans ai,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Tidal bans AI-generated music
+2,tidalbansai.ai,available?,0.76,tidal bans ai,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Tidal bans AI-generated music
+3,aigeneratedmusic.ai,available?,0.36,ai generated music,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Tidal bans AI-generated music
+4,aigenerated.com,taken,0.95,ai generated,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Tidal bans AI-generated music
+5,aigenerated.ai,taken,0.76,ai generated,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Tidal bans AI-generated music
+6,generatedmusic.com,taken,0.73,generated music,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Tidal bans AI-generated music
+7,aigenerated.co,taken,0.62,ai generated,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Tidal bans AI-generated music
+8,tidalbansai.co,unknown (no RDAP for .co),0.62,tidal bans ai,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Tidal bans AI-generated music
+9,generatedmusic.ai,taken,0.58,generated music,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Tidal bans AI-generated music
+10,generatedmusic.co,unknown (no RDAP for .co),0.47,generated music,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Tidal bans AI-generated music
+11,aigeneratedmusic.com,taken,0.45,ai generated music,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Tidal bans AI-generated music
+12,aigeneratedmusic.co,unknown (no RDAP for .co),0.29,ai generated music,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Tidal bans AI-generated music
