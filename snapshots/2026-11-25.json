@@ -1,0 +1,2393 @@
+{
+ "date": "2026-11-25",
+ "signals": [
+  {
+   "text": "atl\u00e9tico-mg vs corinthians",
+   "source": "google_trends",
+   "weight": 1000,
+   "entity": true
+  },
+  {
+   "text": "jabari walker",
+   "source": "google_trends",
+   "weight": 1000,
+   "entity": true
+  },
+  {
+   "text": "unmanned combat aerial vehicle",
+   "source": "google_trends",
+   "weight": 200,
+   "entity": true
+  },
+  {
+   "text": "memphis basketball",
+   "source": "google_trends",
+   "weight": 1000,
+   "entity": true
+  },
+  {
+   "text": "byu vs providence prediction",
+   "source": "google_trends",
+   "weight": 200,
+   "entity": true
+  },
+  {
+   "text": "best thanksgiving movies",
+   "source": "google_trends",
+   "weight": 1000,
+   "entity": true
+  },
+  {
+   "text": "north dakota basketball",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "is lowes open on thanksgiving",
+   "source": "google_trends",
+   "weight": 500,
+   "entity": true
+  },
+  {
+   "text": "champions league table",
+   "source": "google_trends",
+   "weight": 200,
+   "entity": true
+  },
+  {
+   "text": "elly de la cruz",
+   "source": "google_trends",
+   "weight": 200,
+   "entity": true
+  },
+  {
+   "text": "Ramayana: Part 1",
+   "source": "wikipedia",
+   "weight": 305811,
+   "prior_weight": 452299,
+   "entity": true
+  },
+  {
+   "text": "Jensen Huang",
+   "source": "wikipedia",
+   "weight": 254240,
+   "prior_weight": 144823,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto VI",
+   "source": "wikipedia",
+   "weight": 198339,
+   "prior_weight": 153037,
+   "entity": true
+  },
+  {
+   "text": "The Hunger Games: Sunrise on the Reaping",
+   "source": "wikipedia",
+   "weight": 129863,
+   "prior_weight": 92631,
+   "entity": true
+  },
+  {
+   "text": "Deaths in 2026",
+   "source": "wikipedia",
+   "weight": 129741,
+   "prior_weight": 136111,
+   "entity": true
+  },
+  {
+   "text": "List of highest-grossing Indian films",
+   "source": "wikipedia",
+   "weight": 128464,
+   "prior_weight": 153338,
+   "entity": true
+  },
+  {
+   "text": "Avengers: Doomsday",
+   "source": "wikipedia",
+   "weight": 120242,
+   "prior_weight": 49748,
+   "entity": true
+  },
+  {
+   "text": "Riemann hypothesis",
+   "source": "wikipedia",
+   "weight": 102084,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "XXX: Return of Xander Cage",
+   "source": "wikipedia",
+   "weight": 101704,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Nvidia",
+   "source": "wikipedia",
+   "weight": 89488,
+   "prior_weight": 52812,
+   "entity": true
+  },
+  {
+   "text": "Soham murders",
+   "source": "wikipedia",
+   "weight": 87021,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": ".xxx",
+   "source": "wikipedia",
+   "weight": 83971,
+   "prior_weight": 144538,
+   "entity": true
+  },
+  {
+   "text": "The Body (TV series)",
+   "source": "wikipedia",
+   "weight": 83943,
+   "prior_weight": 127281,
+   "entity": true
+  },
+  {
+   "text": "Miley Cyrus",
+   "source": "wikipedia",
+   "weight": 81270,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Mariella Frostrup",
+   "source": "wikipedia",
+   "weight": 80552,
+   "prior_weight": 85178,
+   "entity": true
+  },
+  {
+   "text": "Elizabeth Holmes",
+   "source": "wikipedia",
+   "weight": 80252,
+   "prior_weight": 64085,
+   "entity": true
+  },
+  {
+   "text": "Anthony Russell (murderer)",
+   "source": "wikipedia",
+   "weight": 79697,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "XXX (2002 film)",
+   "source": "wikipedia",
+   "weight": 79165,
+   "prior_weight": 30444,
+   "entity": true
+  },
+  {
+   "text": "Ansel Adams",
+   "source": "wikipedia",
+   "weight": 77398,
+   "prior_weight": 74933,
+   "entity": true
+  },
+  {
+   "text": "Blood",
+   "source": "wikipedia",
+   "weight": 75798,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "You Can See Everything",
+   "source": "wikipedia",
+   "weight": 75535,
+   "prior_weight": 53963,
+   "entity": true
+  },
+  {
+   "text": "Survivor Series: WarGames (2026)",
+   "source": "wikipedia",
+   "weight": 67057,
+   "prior_weight": 54386,
+   "entity": true
+  },
+  {
+   "text": "O.M: Operation Mole",
+   "source": "wikipedia",
+   "weight": 66369,
+   "prior_weight": 22027,
+   "entity": true
+  },
+  {
+   "text": "Sam Bankman-Fried",
+   "source": "wikipedia",
+   "weight": 65539,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "XXX: State of the Union",
+   "source": "wikipedia",
+   "weight": 64938,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Tom Jackson (American football, born 1951)",
+   "source": "wikipedia",
+   "weight": 64851,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Killing of JonBen\u00e9t Ramsey",
+   "source": "wikipedia",
+   "weight": 64731,
+   "prior_weight": 9933,
+   "entity": true
+  },
+  {
+   "text": "XXX (film series)",
+   "source": "wikipedia",
+   "weight": 61796,
+   "prior_weight": 29688,
+   "entity": true
+  },
+  {
+   "text": "Eternal September",
+   "source": "wikipedia",
+   "weight": 61273,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Mckenna Grace",
+   "source": "wikipedia",
+   "weight": 60494,
+   "prior_weight": 39637,
+   "entity": true
+  },
+  {
+   "text": "Miss Universe 2026",
+   "source": "wikipedia",
+   "weight": 59793,
+   "prior_weight": 10230,
+   "entity": true
+  },
+  {
+   "text": "Joseph Zada",
+   "source": "wikipedia",
+   "weight": 59239,
+   "prior_weight": 30292,
+   "entity": true
+  },
+  {
+   "text": "XXX (soundtrack)",
+   "source": "wikipedia",
+   "weight": 57632,
+   "prior_weight": 34478,
+   "entity": true
+  },
+  {
+   "text": "Maxx Morando",
+   "source": "wikipedia",
+   "weight": 55624,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto",
+   "source": "wikipedia",
+   "weight": 55412,
+   "prior_weight": 40881,
+   "entity": true
+  },
+  {
+   "text": "ChatGPT",
+   "source": "wikipedia",
+   "weight": 53144,
+   "prior_weight": 50970,
+   "entity": true
+  },
+  {
+   "text": "Caroline Ellison",
+   "source": "wikipedia",
+   "weight": 52577,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Lead(II) azide",
+   "source": "wikipedia",
+   "weight": 51398,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Jayden Daniels",
+   "source": "wikipedia",
+   "weight": 50821,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Great white shark",
+   "source": "wikipedia",
+   "weight": 50665,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Robert Pattinson",
+   "source": "wikipedia",
+   "weight": 49048,
+   "prior_weight": 840972,
+   "entity": true
+  },
+  {
+   "text": "The Hunger Games: The Ballad of Songbirds & Snakes",
+   "source": "wikipedia",
+   "weight": 48939,
+   "prior_weight": 38771,
+   "entity": true
+  },
+  {
+   "text": "XXX (Kendrick Lamar song)",
+   "source": "wikipedia",
+   "weight": 48815,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Vaibhav Sooryavanshi",
+   "source": "wikipedia",
+   "weight": 48785,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Sunrise on the Reaping",
+   "source": "wikipedia",
+   "weight": 47829,
+   "prior_weight": 37293,
+   "entity": true
+  },
+  {
+   "text": "David Mamet",
+   "source": "wikipedia",
+   "weight": 46506,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "XNXX",
+   "source": "wikipedia",
+   "weight": 46451,
+   "prior_weight": 47280,
+   "entity": true
+  },
+  {
+   "text": "Focker-in-Law",
+   "source": "wikipedia",
+   "weight": 46153,
+   "prior_weight": 17714,
+   "entity": true
+  },
+  {
+   "text": "Jeff Bezos",
+   "source": "wikipedia",
+   "weight": 45214,
+   "prior_weight": 61162,
+   "entity": true
+  },
+  {
+   "text": "Glenn Schumann",
+   "source": "wikipedia",
+   "weight": 43795,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Parastoo Ahmadi",
+   "source": "wikipedia",
+   "weight": 43407,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Sara Boustany",
+   "source": "wikipedia",
+   "weight": 42875,
+   "prior_weight": 66243,
+   "entity": true
+  },
+  {
+   "text": "XXXX (beer)",
+   "source": "wikipedia",
+   "weight": 42480,
+   "prior_weight": 46665,
+   "entity": true
+  },
+  {
+   "text": "Steps (film)",
+   "source": "wikipedia",
+   "weight": 41115,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Levent Alp\u00f6ge",
+   "source": "wikipedia",
+   "weight": 40967,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Dig (2026 TV series)",
+   "source": "wikipedia",
+   "weight": 40693,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Zosia Mamet",
+   "source": "wikipedia",
+   "weight": 40635,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Rockstar Games",
+   "source": "wikipedia",
+   "weight": 40585,
+   "prior_weight": 29538,
+   "entity": true
+  },
+  {
+   "text": "The Odyssey (2026 film)",
+   "source": "wikipedia",
+   "weight": 39937,
+   "prior_weight": 71643,
+   "entity": true
+  },
+  {
+   "text": "Alice Huang (executive)",
+   "source": "wikipedia",
+   "weight": 39932,
+   "prior_weight": 45534,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto V",
+   "source": "wikipedia",
+   "weight": 38999,
+   "prior_weight": 36313,
+   "entity": true
+  },
+  {
+   "text": "Aneurin Donald",
+   "source": "wikipedia",
+   "weight": 38561,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Joe Burrow",
+   "source": "wikipedia",
+   "weight": 38527,
+   "prior_weight": 12712,
+   "entity": true
+  },
+  {
+   "text": "List of Marvel Cinematic Universe films",
+   "source": "wikipedia",
+   "weight": 38458,
+   "prior_weight": 25472,
+   "entity": true
+  },
+  {
+   "text": "Anna's Archive",
+   "source": "wikipedia",
+   "weight": 38073,
+   "prior_weight": 38320,
+   "entity": true
+  },
+  {
+   "text": "From (TV series)",
+   "source": "wikipedia",
+   "weight": 37198,
+   "prior_weight": 20615,
+   "entity": true
+  },
+  {
+   "text": "Death of John O'Keefe",
+   "source": "wikipedia",
+   "weight": 36356,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "The Hunger Games",
+   "source": "wikipedia",
+   "weight": 36294,
+   "prior_weight": 22078,
+   "entity": true
+  },
+  {
+   "text": "For sale: baby shoes, never worn",
+   "source": "wikipedia",
+   "weight": 36250,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "2025 Africa Cup of Nations",
+   "source": "wikipedia",
+   "weight": 35953,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Manni L. Perez",
+   "source": "wikipedia",
+   "weight": 35424,
+   "prior_weight": 31969,
+   "entity": true
+  },
+  {
+   "text": "John Madden",
+   "source": "wikipedia",
+   "weight": 35017,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Sex",
+   "source": "wikipedia",
+   "weight": 34983,
+   "prior_weight": 24517,
+   "entity": true
+  },
+  {
+   "text": "The Hunger Games (franchise)",
+   "source": "wikipedia",
+   "weight": 34828,
+   "prior_weight": 26091,
+   "entity": true
+  },
+  {
+   "text": "Aakasamlo Oka Tara",
+   "source": "wikipedia",
+   "weight": 34472,
+   "prior_weight": 10127,
+   "entity": true
+  },
+  {
+   "text": "Jimmy Gomez",
+   "source": "wikipedia",
+   "weight": 34327,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Hexed (2026 film)",
+   "source": "wikipedia",
+   "weight": 34110,
+   "prior_weight": 10733,
+   "entity": true
+  },
+  {
+   "text": "MobLand",
+   "source": "wikipedia",
+   "weight": 34052,
+   "prior_weight": 34699,
+   "entity": true
+  },
+  {
+   "text": "Molly Meldrum",
+   "source": "wikipedia",
+   "weight": 34033,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "XXX",
+   "source": "wikipedia",
+   "weight": 34030,
+   "prior_weight": 19248,
+   "entity": true
+  },
+  {
+   "text": "Billy Evans (businessman)",
+   "source": "wikipedia",
+   "weight": 33764,
+   "prior_weight": 22730,
+   "entity": true
+  },
+  {
+   "text": "The Lord of the Rings: The Rings of Power season 3",
+   "source": "wikipedia",
+   "weight": 33425,
+   "prior_weight": 35757,
+   "entity": true
+  },
+  {
+   "text": "Didy",
+   "source": "wikipedia",
+   "weight": 33245,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "The Lord of the Rings: The Rings of Power",
+   "source": "wikipedia",
+   "weight": 33222,
+   "prior_weight": 34615,
+   "entity": true
+  },
+  {
+   "text": "Sylvester Stallone",
+   "source": "wikipedia",
+   "weight": 32992,
+   "prior_weight": 28187,
+   "entity": true
+  },
+  {
+   "text": "Rob Lowe",
+   "source": "wikipedia",
+   "weight": 32671,
+   "prior_weight": 22602,
+   "entity": true
+  },
+  {
+   "text": "YouTube",
+   "source": "wikipedia",
+   "weight": 32090,
+   "prior_weight": 37165,
+   "entity": true
+  },
+  {
+   "text": "Jennifer Lawrence",
+   "source": "wikipedia",
+   "weight": 30885,
+   "prior_weight": 33359,
+   "entity": true
+  },
+  {
+   "text": "United States",
+   "source": "wikipedia",
+   "weight": 30549,
+   "prior_weight": 34747,
+   "entity": true
+  },
+  {
+   "text": "Kristina Bogic",
+   "source": "wikipedia",
+   "weight": 30090,
+   "prior_weight": 43488,
+   "entity": true
+  },
+  {
+   "text": "Dario Amodei",
+   "source": "wikipedia",
+   "weight": 29948,
+   "prior_weight": 19807,
+   "entity": true
+  },
+  {
+   "text": "2026 United States elections",
+   "source": "wikipedia",
+   "weight": 29764,
+   "prior_weight": 40867,
+   "entity": true
+  },
+  {
+   "text": "The Altruists",
+   "source": "wikipedia",
+   "weight": 29533,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Johnny Flynn",
+   "source": "wikipedia",
+   "weight": 29180,
+   "prior_weight": 29688,
+   "entity": true
+  },
+  {
+   "text": "Godzilla Minus Zero",
+   "source": "wikipedia",
+   "weight": 28286,
+   "prior_weight": 40985,
+   "entity": true
+  },
+  {
+   "text": "James Marsden",
+   "source": "wikipedia",
+   "weight": 28068,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Donald Trump",
+   "source": "wikipedia",
+   "weight": 28005,
+   "prior_weight": 33509,
+   "entity": true
+  },
+  {
+   "text": "2026 United States House of Representatives elections",
+   "source": "wikipedia",
+   "weight": 27912,
+   "prior_weight": 32017,
+   "entity": true
+  },
+  {
+   "text": "Empress Elisabeth of Austria",
+   "source": "wikipedia",
+   "weight": 27872,
+   "prior_weight": 48295,
+   "entity": true
+  },
+  {
+   "text": "List of best-selling video games",
+   "source": "wikipedia",
+   "weight": 27867,
+   "prior_weight": 16749,
+   "entity": true
+  },
+  {
+   "text": "Elizabeth Hurley",
+   "source": "wikipedia",
+   "weight": 27683,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Leighton Meester",
+   "source": "wikipedia",
+   "weight": 27402,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Liam Hemsworth",
+   "source": "wikipedia",
+   "weight": 27204,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Michelle Randolph",
+   "source": "wikipedia",
+   "weight": 26893,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "The Hunger Games (film)",
+   "source": "wikipedia",
+   "weight": 26759,
+   "prior_weight": 18498,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto IV",
+   "source": "wikipedia",
+   "weight": 26670,
+   "prior_weight": 14790,
+   "entity": true
+  },
+  {
+   "text": "Nathan Fielder",
+   "source": "wikipedia",
+   "weight": 26351,
+   "prior_weight": 20894,
+   "entity": true
+  },
+  {
+   "text": "Hunter Schafer",
+   "source": "wikipedia",
+   "weight": 26191,
+   "prior_weight": 43124,
+   "entity": true
+  },
+  {
+   "text": "Wi-Fi 7",
+   "source": "wikipedia",
+   "weight": 26140,
+   "prior_weight": 28818,
+   "entity": true
+  },
+  {
+   "text": "Ebenezer (2026 film)",
+   "source": "wikipedia",
+   "weight": 25905,
+   "prior_weight": 54833,
+   "entity": true
+  },
+  {
+   "text": "Jensen Huang scandal",
+   "source": "wikipedia",
+   "weight": 25799,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Scene (2026 film)",
+   "source": "wikipedia",
+   "weight": 25619,
+   "prior_weight": 51890,
+   "entity": true
+  },
+  {
+   "text": "Alp\u00f6ge's proof of the Riemann hypothesis",
+   "source": "wikipedia",
+   "weight": 25560,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Russian corvette Merkury",
+   "source": "wikipedia",
+   "weight": 25517,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Trev Alberts",
+   "source": "wikipedia",
+   "weight": 25501,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Billy Ray Cyrus",
+   "source": "wikipedia",
+   "weight": 25481,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "The Further Mis-Adventures of Cliff Booth",
+   "source": "wikipedia",
+   "weight": 25127,
+   "prior_weight": 31776,
+   "entity": true
+  },
+  {
+   "text": "List of James Bond films",
+   "source": "wikipedia",
+   "weight": 24891,
+   "prior_weight": 120511,
+   "entity": true
+  },
+  {
+   "text": "Blade Runner 2099",
+   "source": "wikipedia",
+   "weight": 24411,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "The Witch Farm",
+   "source": "wikipedia",
+   "weight": 24354,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Yellowjackets (TV series)",
+   "source": "wikipedia",
+   "weight": 24247,
+   "prior_weight": 9663,
+   "entity": true
+  },
+  {
+   "text": "D.C. sniper attacks",
+   "source": "wikipedia",
+   "weight": 24088,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Thanksgiving",
+   "source": "wikipedia",
+   "weight": 24079,
+   "prior_weight": 8914,
+   "entity": true
+  },
+  {
+   "text": "Guarding Stars",
+   "source": "wikipedia",
+   "weight": 23975,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Freddie Mercury",
+   "source": "wikipedia",
+   "weight": 23832,
+   "prior_weight": 8031,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto: Vice City",
+   "source": "wikipedia",
+   "weight": 23665,
+   "prior_weight": 12832,
+   "entity": true
+  },
+  {
+   "text": "Duke lacrosse rape hoax",
+   "source": "wikipedia",
+   "weight": 23619,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Dylan Larkin",
+   "source": "wikipedia",
+   "weight": 23541,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "I Play Rocky",
+   "source": "wikipedia",
+   "weight": 23447,
+   "prior_weight": 23069,
+   "entity": true
+  },
+  {
+   "text": "Victoria Broderick",
+   "source": "wikipedia",
+   "weight": 23387,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Jailer 2",
+   "source": "wikipedia",
+   "weight": 23376,
+   "prior_weight": 46095,
+   "entity": true
+  },
+  {
+   "text": "Russell Brand",
+   "source": "wikipedia",
+   "weight": 23345,
+   "prior_weight": 86201,
+   "entity": true
+  },
+  {
+   "text": "The Ballad of Songbirds and Snakes",
+   "source": "wikipedia",
+   "weight": 23252,
+   "prior_weight": 14471,
+   "entity": true
+  },
+  {
+   "text": "Amanda Seyfried",
+   "source": "wikipedia",
+   "weight": 23218,
+   "prior_weight": 15656,
+   "entity": true
+  },
+  {
+   "text": "Wikipedia",
+   "source": "wikipedia",
+   "weight": 23163,
+   "prior_weight": 40034,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto: San Andreas",
+   "source": "wikipedia",
+   "weight": 23015,
+   "prior_weight": 12553,
+   "entity": true
+  },
+  {
+   "text": "Black Doves",
+   "source": "wikipedia",
+   "weight": 22939,
+   "prior_weight": 35822,
+   "entity": true
+  },
+  {
+   "text": "Tom Hardy",
+   "source": "wikipedia",
+   "weight": 22843,
+   "prior_weight": 20789,
+   "entity": true
+  },
+  {
+   "text": "World Chess Championship 2026",
+   "source": "wikipedia",
+   "weight": 22815,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Africa Cup of Nations",
+   "source": "wikipedia",
+   "weight": 22784,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Spider-Man: Brand New Day",
+   "source": "wikipedia",
+   "weight": 22657,
+   "prior_weight": 26775,
+   "entity": true
+  },
+  {
+   "text": "List of The Hunger Games characters",
+   "source": "wikipedia",
+   "weight": 22611,
+   "prior_weight": 13330,
+   "entity": true
+  },
+  {
+   "text": "Age of Aquarius",
+   "source": "wikipedia",
+   "weight": 22414,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "2026 FIFA U-17 World Cup",
+   "source": "wikipedia",
+   "weight": 22289,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Macaulay Culkin",
+   "source": "wikipedia",
+   "weight": 22211,
+   "prior_weight": 14809,
+   "entity": true
+  },
+  {
+   "text": "P versus NP problem",
+   "source": "wikipedia",
+   "weight": 22158,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Dylan Rourke",
+   "source": "wikipedia",
+   "weight": 22005,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Obsession (2025 film)",
+   "source": "wikipedia",
+   "weight": 21943,
+   "prior_weight": 24175,
+   "entity": true
+  },
+  {
+   "text": "MF Doom",
+   "source": "wikipedia",
+   "weight": 21853,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Thanksgiving (United States)",
+   "source": "wikipedia",
+   "weight": 21680,
+   "prior_weight": 8859,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto III",
+   "source": "wikipedia",
+   "weight": 21646,
+   "prior_weight": 11993,
+   "entity": true
+  },
+  {
+   "text": "Lisa Su",
+   "source": "wikipedia",
+   "weight": 21143,
+   "prior_weight": 16349,
+   "entity": true
+  },
+  {
+   "text": "Virginia Foxx",
+   "source": "wikipedia",
+   "weight": 21129,
+   "prior_weight": 29808,
+   "entity": true
+  },
+  {
+   "text": "Claire Sweeney",
+   "source": "wikipedia",
+   "weight": 21128,
+   "prior_weight": 29781,
+   "entity": true
+  },
+  {
+   "text": "Doctor Doom",
+   "source": "wikipedia",
+   "weight": 21113,
+   "prior_weight": 8575,
+   "entity": true
+  },
+  {
+   "text": "The Hunger Games: Catching Fire",
+   "source": "wikipedia",
+   "weight": 20943,
+   "prior_weight": 11378,
+   "entity": true
+  },
+  {
+   "text": "Elon Musk",
+   "source": "wikipedia",
+   "weight": 20877,
+   "prior_weight": 23699,
+   "entity": true
+  },
+  {
+   "text": "Public holidays in Japan",
+   "source": "wikipedia",
+   "weight": 20813,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Clashing Through the Snow",
+   "source": "wikipedia",
+   "weight": 20806,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "List of Hindi films of 2026",
+   "source": "wikipedia",
+   "weight": 20663,
+   "prior_weight": 24990,
+   "entity": true
+  },
+  {
+   "text": "GitHub",
+   "source": "wikipedia",
+   "weight": 20481,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "BepiColombo",
+   "source": "wikipedia",
+   "weight": 20333,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Julia Garner",
+   "source": "wikipedia",
+   "weight": 20303,
+   "prior_weight": 8127,
+   "entity": true
+  },
+  {
+   "text": "Pitcairn Islands",
+   "source": "wikipedia",
+   "weight": 20271,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Theranos",
+   "source": "wikipedia",
+   "weight": 20204,
+   "prior_weight": 15439,
+   "entity": true
+  },
+  {
+   "text": "Zohran Mamdani",
+   "source": "wikipedia",
+   "weight": 20187,
+   "prior_weight": 19248,
+   "entity": true
+  },
+  {
+   "text": "Cleopatra",
+   "source": "wikipedia",
+   "weight": 20130,
+   "prior_weight": 19007,
+   "entity": true
+  },
+  {
+   "text": "Anthony Bourdain",
+   "source": "wikipedia",
+   "weight": 20117,
+   "prior_weight": 9243,
+   "entity": true
+  },
+  {
+   "text": "The Gilded Age (TV series)",
+   "source": "wikipedia",
+   "weight": 20102,
+   "prior_weight": 20315,
+   "entity": true
+  },
+  {
+   "text": "Pope Francis",
+   "source": "wikipedia",
+   "weight": 19849,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Guru Nanak",
+   "source": "wikipedia",
+   "weight": 19789,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Geena Meszaros",
+   "source": "wikipedia",
+   "weight": 19692,
+   "prior_weight": 29318,
+   "entity": true
+  },
+  {
+   "text": "Cristiano Ronaldo",
+   "source": "wikipedia",
+   "weight": 19677,
+   "prior_weight": 22960,
+   "entity": true
+  },
+  {
+   "text": "Madden (film)",
+   "source": "wikipedia",
+   "weight": 19674,
+   "prior_weight": 8955,
+   "entity": true
+  },
+  {
+   "text": "Chris Malachowsky",
+   "source": "wikipedia",
+   "weight": 19607,
+   "prior_weight": 13195,
+   "entity": true
+  },
+  {
+   "text": "Josh Holloway",
+   "source": "wikipedia",
+   "weight": 19597,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Nikhil Chaudhary (cricketer)",
+   "source": "wikipedia",
+   "weight": 19581,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "November 24",
+   "source": "wikipedia",
+   "weight": 19563,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Dan Houser",
+   "source": "wikipedia",
+   "weight": 19535,
+   "prior_weight": 8667,
+   "entity": true
+  },
+  {
+   "text": "Abdul El-Sayed",
+   "source": "wikipedia",
+   "weight": 19524,
+   "prior_weight": 26083,
+   "entity": true
+  },
+  {
+   "text": "Natasha Richardson",
+   "source": "wikipedia",
+   "weight": 19402,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Kieran Culkin",
+   "source": "wikipedia",
+   "weight": 19328,
+   "prior_weight": 10636,
+   "entity": true
+  },
+  {
+   "text": "Philip Seymour Hoffman",
+   "source": "wikipedia",
+   "weight": 19255,
+   "prior_weight": 11370,
+   "entity": true
+  },
+  {
+   "text": "Dancing with the Stars (American TV series) season 35",
+   "source": "wikipedia",
+   "weight": 19216,
+   "prior_weight": 16338,
+   "entity": true
+  },
+  {
+   "text": "The Hunger Games: Mockingjay \u2013 Part 2",
+   "source": "wikipedia",
+   "weight": 19212,
+   "prior_weight": 10425,
+   "entity": true
+  },
+  {
+   "text": "Jim Bakker",
+   "source": "wikipedia",
+   "weight": 19110,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Palmer Luckey",
+   "source": "wikipedia",
+   "weight": 19097,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Stefon Diggs",
+   "source": "wikipedia",
+   "weight": 18996,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "VisionQuest",
+   "source": "wikipedia",
+   "weight": 18982,
+   "prior_weight": 33574,
+   "entity": true
+  },
+  {
+   "text": "Wildwood (film)",
+   "source": "wikipedia",
+   "weight": 18954,
+   "prior_weight": 25501,
+   "entity": true
+  },
+  {
+   "text": "Grand Theft Auto (video game)",
+   "source": "wikipedia",
+   "weight": 18913,
+   "prior_weight": 12627,
+   "entity": true
+  },
+  {
+   "text": "Jared Padalecki",
+   "source": "wikipedia",
+   "weight": 18793,
+   "prior_weight": 0,
+   "entity": true
+  },
+  {
+   "text": "Google",
+   "source": "wikipedia",
+   "weight": 18650,
+   "prior_weight": 18849,
+   "entity": true
+  },
+  {
+   "text": "Michael Jackson",
+   "source": "wikipedia",
+   "weight": 18633,
+   "prior_weight": 17508,
+   "entity": true
+  },
+  {
+   "text": "The matrix multiplication exponent is nine fourths [pdf]",
+   "source": "hackernews",
+   "weight": 1003
+  },
+  {
+   "text": "1Password Security Incident",
+   "source": "hackernews",
+   "weight": 915
+  },
+  {
+   "text": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
+   "source": "hackernews",
+   "weight": 819
+  },
+  {
+   "text": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+   "source": "hackernews",
+   "weight": 680
+  },
+  {
+   "text": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
+   "source": "hackernews",
+   "weight": 440
+  },
+  {
+   "text": "Rumors swirling that labs might have cracked Factoring in P",
+   "source": "hackernews",
+   "weight": 433
+  },
+  {
+   "text": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+   "source": "hackernews",
+   "weight": 416
+  },
+  {
+   "text": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+   "source": "hackernews",
+   "weight": 413
+  },
+  {
+   "text": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+   "source": "hackernews",
+   "weight": 298
+  },
+  {
+   "text": "Smart people who give a shit use tools",
+   "source": "hackernews",
+   "weight": 236
+  },
+  {
+   "text": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs",
+   "source": "hackernews",
+   "weight": 193
+  },
+  {
+   "text": "I checked Clojure's core with Lean and found unreported bugs",
+   "source": "hackernews",
+   "weight": 160
+  },
+  {
+   "text": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+   "source": "hackernews",
+   "weight": 133
+  },
+  {
+   "text": "Predicting LoRA size for any dataset",
+   "source": "hackernews",
+   "weight": 100
+  },
+  {
+   "text": "SSH is a GUI framework",
+   "source": "hackernews",
+   "weight": 94
+  },
+  {
+   "text": "The polynomial Hirsch conjecture is false [pdf]",
+   "source": "hackernews",
+   "weight": 93
+  },
+  {
+   "text": "In C++, = default and {} are not the same constructor",
+   "source": "hackernews",
+   "weight": 92
+  },
+  {
+   "text": "Britain's ghost stations",
+   "source": "hackernews",
+   "weight": 72
+  },
+  {
+   "text": "Pinocchio at 200: a tale of hunger, greed and Italy's culinary history",
+   "source": "hackernews",
+   "weight": 66
+  },
+  {
+   "text": "The industrialization of noise: Automated proof-solving is the same old dead end [pdf]",
+   "source": "hackernews",
+   "weight": 63
+  },
+  {
+   "text": "Much shorter version of GRH Lean verification from Anthropic",
+   "source": "hackernews",
+   "weight": 58
+  },
+  {
+   "text": "Show HN: An agent skill that optimizes code with falsifiable hypotheses",
+   "source": "hackernews",
+   "weight": 49
+  },
+  {
+   "text": "Slow Ubuntu security response times",
+   "source": "hackernews",
+   "weight": 35
+  },
+  {
+   "text": "The New York Times tells photographers not to use the latest Photoshop",
+   "source": "hackernews",
+   "weight": 32
+  },
+  {
+   "text": "Nfs2root: A 12-year-old pre-auth remote root in the Linux kernel's NFS server",
+   "source": "hackernews",
+   "weight": 32
+  },
+  {
+   "text": "Defang Security Incident",
+   "source": "hackernews",
+   "weight": 26
+  },
+  {
+   "text": "72-Hour Fasting Can Reset Your Immune System, USC Study Shows",
+   "source": "hackernews",
+   "weight": 26
+  },
+  {
+   "text": "The undocumented 249-file limit for Googlebot rendering",
+   "source": "hackernews",
+   "weight": 20
+  },
+  {
+   "text": "Show HN: Rchive \u2013 Every drive I've owned since the 90s, searchable in one window",
+   "source": "hackernews",
+   "weight": 15
+  },
+  {
+   "text": "A Beer Brewer's Noise Estimation",
+   "source": "hackernews",
+   "weight": 9
+  },
+  {
+   "text": "Hazel (YC W24) Is Hiring a Product Designer",
+   "source": "hackernews",
+   "weight": 1
+  },
+  {
+   "text": "New balloons will fly for the now-postponed 100th Macy's Thanksgiving Day Parade",
+   "source": "google_news",
+   "weight": 100
+  },
+  {
+   "text": "Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume",
+   "source": "google_news",
+   "weight": 99
+  },
+  {
+   "text": "Trump proposing new tariffs on 14 partners including China and EU",
+   "source": "google_news",
+   "weight": 98
+  },
+  {
+   "text": "California\u2019s Tides Are in \u2018Uncharted Territory\u2019 as Water Surges Higher",
+   "source": "google_news",
+   "weight": 97
+  },
+  {
+   "text": "Two children among six dead after plane crash off Mississippi coast",
+   "source": "google_news",
+   "weight": 96
+  },
+  {
+   "text": "Kilmar Abrego Garc\u00eda arrives in Spain to start a new life",
+   "source": "google_news",
+   "weight": 95
+  },
+  {
+   "text": "Oregon man and dog narrowly escape being swept away by high tides as officials urge caution at beaches",
+   "source": "google_news",
+   "weight": 94
+  },
+  {
+   "text": "Mamdani Wins Against Landlords in Rent Freeze Lawsuit",
+   "source": "google_news",
+   "weight": 93
+  },
+  {
+   "text": "'This isn\u2019t about fairness or who\u2019s right or wrong': Jared Kushner on the US role in peace talks",
+   "source": "google_news",
+   "weight": 92
+  },
+  {
+   "text": "Trump says he will meet El-Sayed to discuss \u2018TrumpCare\u2019",
+   "source": "google_news",
+   "weight": 91
+  },
+  {
+   "text": "One Killed in Samara Region as Ukraine Strikes Oil Refinery",
+   "source": "google_news",
+   "weight": 90
+  },
+  {
+   "text": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+   "source": "google_news",
+   "weight": 89
+  },
+  {
+   "text": "Suspected \"narco sub\" intercepted in Atlantic Ocean but no drugs found on board",
+   "source": "google_news",
+   "weight": 88
+  },
+  {
+   "text": "How American Thanksgiving took root \u2014 and evolved \u2014 in Liberia",
+   "source": "google_news",
+   "weight": 87
+  },
+  {
+   "text": "Jensen Huang broke Nvidia\u2019s code of conduct, and his employees may not forget it",
+   "source": "google_news",
+   "weight": 86
+  },
+  {
+   "text": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
+   "source": "google_news",
+   "weight": 85
+  },
+  {
+   "text": "How the Trump administration determined Jensen Huang is not a national security threat",
+   "source": "google_news",
+   "weight": 84
+  },
+  {
+   "text": "What to know before using AI agents for Black Friday shopping",
+   "source": "google_news",
+   "weight": 83
+  },
+  {
+   "text": "Samsung promises One UI 9.5 will fix rapidly declining battery health on Galaxy phones",
+   "source": "google_news",
+   "weight": 82
+  },
+  {
+   "text": "Acer Predator Atlas 8 Review: Potent Performance At A Slightly Better Price",
+   "source": "google_news",
+   "weight": 81
+  },
+  {
+   "text": "Google search alternative Kagi launches Gmail rival",
+   "source": "google_news",
+   "weight": 80
+  },
+  {
+   "text": "Anthropic is trying to kill traditional desktop apps with Claude-generated desktop apps",
+   "source": "google_news",
+   "weight": 79
+  },
+  {
+   "text": "Ezra Frech on his 'Dancing with the Stars' finale mishap: 'I kind of blacked out'",
+   "source": "google_news",
+   "weight": 78
+  },
+  {
+   "text": "Blade Runner 2099 not just about AI, say star Hunter Schafer and series creator",
+   "source": "google_news",
+   "weight": 77
+  },
+  {
+   "text": "Box Office: 'Hunger Games: Sunrise on Reaping' Has Record Tuesday",
+   "source": "google_news",
+   "weight": 76
+  },
+  {
+   "text": "Official: Gordon Ramsay will host the new series of Top Gear TV in 2028!",
+   "source": "google_news",
+   "weight": 75
+  },
+  {
+   "text": "Aaron Rodgers blasts Steelers coach Mike McCarthy after being benched: \u2018You\u2019re unhealthy\u2019",
+   "source": "google_news",
+   "weight": 74
+  },
+  {
+   "text": "NFL Playoff Simulator: Stakes are huge for Packers-Rams, with loser likely to miss postseason",
+   "source": "google_news",
+   "weight": 73
+  },
+  {
+   "text": "Ahead of Micah Parsons' return for Packers-Rams, Aaron Donald jokes: 'Micah, if you want to take one more week \u2026'",
+   "source": "google_news",
+   "weight": 72
+  },
+  {
+   "text": "Tennessee rises, Alabama and Indiana fall in the fourth College Football Playoff rankings of 2026",
+   "source": "google_news",
+   "weight": 71
+  },
+  {
+   "text": "Hera spacecraft gets 1st up-close look at stadium-sized hole punched in asteroid by NASA DART mission",
+   "source": "google_news",
+   "weight": 70
+  },
+  {
+   "text": "Bizarre Material May Herald the Future of Computer Chips",
+   "source": "google_news",
+   "weight": 69
+  },
+  {
+   "text": "See photos of the Beaver Supermoon shining bright in the night sky",
+   "source": "google_news",
+   "weight": 68
+  },
+  {
+   "text": "Voyager 1 Stops Sending Data, Reaches One Light-Day From Earth",
+   "source": "google_news",
+   "weight": 67
+  },
+  {
+   "text": "WA measles situation \u2018much worse,\u2019 with five outbreaks so far",
+   "source": "google_news",
+   "weight": 66
+  },
+  {
+   "text": "Unvaccinated Pennsylvania resident dies of measles in state's ninth fatal case this year",
+   "source": "google_news",
+   "weight": 65
+  },
+  {
+   "text": "Flu Cases Are Surging Ahead Of Thanksgiving. CDC\u2019s Flu Guidance Isn\u2019t.",
+   "source": "google_news",
+   "weight": 64
+  },
+  {
+   "text": "Single-cell variant-to-enhancer-to-gene map for coronary artery disease",
+   "source": "google_news",
+   "weight": 63
+  },
+  {
+   "text": "Duran Duran's Andy Taylor dies",
+   "source": "bluesky",
+   "weight": 50
+  },
+  {
+   "text": "Hakeem Jeffries outlines House agenda",
+   "source": "bluesky",
+   "weight": 49
+  },
+  {
+   "text": "New Avengers: Doomsday poster",
+   "source": "bluesky",
+   "weight": 48
+  },
+  {
+   "text": "Aaron Rodgers reportedly out",
+   "source": "bluesky",
+   "weight": 47
+  },
+  {
+   "text": "Macy's parade turns 100",
+   "source": "bluesky",
+   "weight": 46
+  },
+  {
+   "text": "Aaron Rodgers criticizes Mike McCarthy",
+   "source": "bluesky",
+   "weight": 45
+  },
+  {
+   "text": "FEMA hotline unanswered in Iowa",
+   "source": "bluesky",
+   "weight": 44
+  },
+  {
+   "text": "Huang reinstated as Nvidia CEO",
+   "source": "bluesky",
+   "weight": 43
+  },
+  {
+   "text": "Steven Universe actor comes out",
+   "source": "bluesky",
+   "weight": 42
+  },
+  {
+   "text": "Mike McCarthy's ice cream sandwich assistant",
+   "source": "bluesky",
+   "weight": 41
+  },
+  {
+   "text": "Canned cranberry sauce",
+   "source": "bluesky",
+   "weight": 40
+  },
+  {
+   "text": "Kilmar Abrego Garcia case",
+   "source": "bluesky",
+   "weight": 39
+  },
+  {
+   "text": "FCC approves SpaceX Starmind satellites",
+   "source": "bluesky",
+   "weight": 38
+  },
+  {
+   "text": "Vance blames Obama for detonation",
+   "source": "bluesky",
+   "weight": 37
+  },
+  {
+   "text": "Pentagon weighs loan to Trump Jr.-tied startup",
+   "source": "bluesky",
+   "weight": 36
+  },
+  {
+   "text": "Grand Theft Auto VI",
+   "source": "bluesky",
+   "weight": 35
+  },
+  {
+   "text": "Trump calls Putin his friend",
+   "source": "bluesky",
+   "weight": 34
+  },
+  {
+   "text": "King tides threaten Bay Area flooding",
+   "source": "bluesky",
+   "weight": 33
+  },
+  {
+   "text": "Showing up to Thanksgiving dinner",
+   "source": "bluesky",
+   "weight": 32
+  },
+  {
+   "text": "Van Hollen challenges Schumer",
+   "source": "bluesky",
+   "weight": 31
+  },
+  {
+   "text": "Todd Blanche's Justice Department",
+   "source": "bluesky",
+   "weight": 30
+  },
+  {
+   "text": "Danielle Smith's UCP government controversies",
+   "source": "bluesky",
+   "weight": 29
+  },
+  {
+   "text": "Trump administration Intel stake filings",
+   "source": "bluesky",
+   "weight": 28
+  },
+  {
+   "text": "Day to end violence against women",
+   "source": "bluesky",
+   "weight": 27
+  },
+  {
+   "text": "UK energy price cap to rise",
+   "source": "bluesky",
+   "weight": 26
+  },
+  {
+   "text": "He just got fixed, and you can tell he is still high on the painkiller. \ud83d\ude39\ud83d\ude39\ud83d\ude39",
+   "source": "reddit/popular",
+   "weight": 48783
+  },
+  {
+   "text": "Wally outgrew his favorite pizza bed",
+   "source": "reddit/popular",
+   "weight": 38349
+  },
+  {
+   "text": "Full supermoon zoomed in through a Dobsonian telescope",
+   "source": "reddit/popular",
+   "weight": 32219
+  },
+  {
+   "text": "Army detonates lead explosives in Iowa, sending debris into the air",
+   "source": "reddit/popular",
+   "weight": 30880
+  },
+  {
+   "text": "GTA 6 is already running in PC at 10fps",
+   "source": "reddit/popular",
+   "weight": 27957
+  },
+  {
+   "text": "Burn in eternal torment ( no offence.)",
+   "source": "reddit/popular",
+   "weight": 27177
+  },
+  {
+   "text": "Donald Trump blames Pete Hegseth for the Iran War: \"Pete, I think you were the 1st one to speak up. You said, 'Let's do it.'\"",
+   "source": "reddit/popular",
+   "weight": 26197
+  },
+  {
+   "text": "A player counted every building in GTA VI. Out of 5588 buildings, 1563 are enterable",
+   "source": "reddit/popular",
+   "weight": 25518
+  },
+  {
+   "text": "Blake Griffin \"sports teams at large have received over $30 billion in subsidies for their stadiums and arenas. billions in local subsidies, ticket prices are shooting to the moon, and we still can't watch the games we want on TV for a price that most people can afford.\"",
+   "source": "reddit/popular",
+   "weight": 24927
+  },
+  {
+   "text": "Matched rotation rate of the video and turntable spins",
+   "source": "reddit/popular",
+   "weight": 24408
+  },
+  {
+   "text": "A small act of kindness between turtles",
+   "source": "reddit/popular",
+   "weight": 24801
+  },
+  {
+   "text": "I MADE GENERATIONAL MONEY. $1 million in 2 weeks.",
+   "source": "reddit/popular",
+   "weight": 22860
+  },
+  {
+   "text": "A player releases a tiger they brought in a minibus into Vice Beach:",
+   "source": "reddit/popular",
+   "weight": 22863
+  },
+  {
+   "text": "Profound quotes with undermining comment",
+   "source": "reddit/popular",
+   "weight": 22401
+  },
+  {
+   "text": "Ouch",
+   "source": "reddit/popular",
+   "weight": 23055
+  },
+  {
+   "text": "Pakistani guy outside stadium takes a bare handed catch while riding a motorcycle",
+   "source": "reddit/popular",
+   "weight": 21763
+  },
+  {
+   "text": "Systemic racism from top to bottom",
+   "source": "reddit/popular",
+   "weight": 21704
+  },
+  {
+   "text": "Made love, worked all day, came home to dinner",
+   "source": "reddit/popular",
+   "weight": 20788
+  },
+  {
+   "text": "I love that dogs just go with whatever stupid thing we involve them in",
+   "source": "reddit/popular",
+   "weight": 20647
+  },
+  {
+   "text": "Getting destroyed by an Adobe ad.",
+   "source": "reddit/popular",
+   "weight": 20306
+  },
+  {
+   "text": "Unsubscribe",
+   "source": "reddit/popular",
+   "weight": 19439
+  },
+  {
+   "text": "GTA VI - 10/10 Immersion",
+   "source": "reddit/popular",
+   "weight": 19338
+  },
+  {
+   "text": "Here we go again",
+   "source": "reddit/popular",
+   "weight": 18815
+  },
+  {
+   "text": "They dove down a big hole and never returned!",
+   "source": "reddit/popular",
+   "weight": 18619
+  },
+  {
+   "text": "Pig farmer sells \u00a3200,000 greenbelt land to travellers in 'revenge' against wealthy neighbours after four-year feud; more than a dozen caravans arrive at Hampshire village",
+   "source": "reddit/popular",
+   "weight": 17998
+  },
+  {
+   "text": "I blame Amazon",
+   "source": "reddit/popular",
+   "weight": 17619
+  },
+  {
+   "text": "Wait what",
+   "source": "reddit/popular",
+   "weight": 17636
+  },
+  {
+   "text": "Wisdom Tooth Surgery Bruising",
+   "source": "reddit/popular",
+   "weight": 17996
+  },
+  {
+   "text": "Take-Two takes down over 3,000 GTA VI PC repositories, but it may be too late: unofficial builds already render textures and ray-traced lighting",
+   "source": "reddit/popular",
+   "weight": 16922
+  },
+  {
+   "text": "MAGA Congresswoman Who Scolded 10-Year-Old Over Essay Loses Election",
+   "source": "reddit/popular",
+   "weight": 16844
+  },
+  {
+   "text": "How to Shop Online",
+   "source": "reddit/popular",
+   "weight": 16526
+  },
+  {
+   "text": "GTA VI PC port - Latest update",
+   "source": "reddit/popular",
+   "weight": 16053
+  },
+  {
+   "text": "Scottish twitter cannae be real",
+   "source": "reddit/popular",
+   "weight": 16264
+  },
+  {
+   "text": "Sips tea",
+   "source": "reddit/popular",
+   "weight": 16339
+  },
+  {
+   "text": "\ud83d\udc4f",
+   "source": "reddit/popular",
+   "weight": 18122
+  },
+  {
+   "text": "This is what growing your hair for 19 years looks like.",
+   "source": "reddit/popular",
+   "weight": 15442
+  },
+  {
+   "text": "Testicular cancer and can't stop crying",
+   "source": "reddit/popular",
+   "weight": 15156
+  },
+  {
+   "text": "the dev that put that in is probably clapping like a seal watching all these videos come out",
+   "source": "reddit/popular",
+   "weight": 15015
+  },
+  {
+   "text": "Cat plays a trick",
+   "source": "reddit/popular",
+   "weight": 15130
+  },
+  {
+   "text": "meirl",
+   "source": "reddit/popular",
+   "weight": 14595
+  },
+  {
+   "text": "Roomate meeting",
+   "source": "reddit/popular",
+   "weight": 14389
+  },
+  {
+   "text": "Little dude stress relieving under the sun",
+   "source": "reddit/popular",
+   "weight": 14412
+  },
+  {
+   "text": "Kiteboarding Save",
+   "source": "reddit/popular",
+   "weight": 14276
+  },
+  {
+   "text": "me_irl",
+   "source": "reddit/popular",
+   "weight": 13618
+  },
+  {
+   "text": "You can tell the age of a tree by counting its rings. You can tell the age of an artificial xmas tree by counting the layers of duct tape holding the box together.",
+   "source": "reddit/popular",
+   "weight": 13440
+  },
+  {
+   "text": "Giant squid emerging from the darkness of the Gulf of Mexico, mistaking the scientists\u2019 underwater equipment for prey.",
+   "source": "reddit/popular",
+   "weight": 13334
+  },
+  {
+   "text": "In Prometheus (2012), this scene perfectly encapsulates the feeling of drinking sparkling water for the first time",
+   "source": "reddit/popular",
+   "weight": 13323
+  },
+  {
+   "text": "meirl",
+   "source": "reddit/popular",
+   "weight": 13442
+  },
+  {
+   "text": "Cat Distribution System found me outside my sons school lol",
+   "source": "reddit/popular",
+   "weight": 13333
+  },
+  {
+   "text": "She went on a date and realised he's perfect for her sister",
+   "source": "reddit/popular",
+   "weight": 13292
+  },
+  {
+   "text": "TIL Tomoth\u00e9e Chalamet wore contact lenses with the opposite prescription to the real prescription glasses he wore for Marty Supreme, so the glasses lenses had the correct light distortion in the movie.",
+   "source": "reddit/popular",
+   "weight": 13030
+  },
+  {
+   "text": "Time for Christmas DIY",
+   "source": "reddit/popular",
+   "weight": 13040
+  },
+  {
+   "text": "The hunt didn't go as planned.",
+   "source": "reddit/popular",
+   "weight": 12863
+  },
+  {
+   "text": "they really are not hiding it anymore",
+   "source": "reddit/popular",
+   "weight": 12937
+  },
+  {
+   "text": "The happiest bath time ever",
+   "source": "reddit/popular",
+   "weight": 12637
+  },
+  {
+   "text": "me_irl",
+   "source": "reddit/popular",
+   "weight": 12961
+  },
+  {
+   "text": "Steven's voice actress just came out as trans!",
+   "source": "reddit/popular",
+   "weight": 13606
+  },
+  {
+   "text": "A few days outside the EU and I already miss the attached bottle cap",
+   "source": "reddit/popular",
+   "weight": 12514
+  },
+  {
+   "text": "\ud83d\udd25 frog on a leaf",
+   "source": "reddit/popular",
+   "weight": 12562
+  },
+  {
+   "text": "Poland Asks NATO to Shoot Down Russian Missiles Over Ukraine",
+   "source": "reddit/popular",
+   "weight": 12451
+  },
+  {
+   "text": "A while ago I posted on my husband's behalf to ask if he should do the thing. He did the thing!",
+   "source": "reddit/popular",
+   "weight": 13018
+  },
+  {
+   "text": "Dog put in the shelter because of age finds the family that appreciates him.",
+   "source": "reddit/popular",
+   "weight": 13109
+  },
+  {
+   "text": "Filming UFOs",
+   "source": "reddit/popular",
+   "weight": 12395
+  },
+  {
+   "text": "watching a guy with a $400 ralph lauren bear sweater and his girlfriend with a vintage chanel purse hopping the turnstiles at 28th st is radicalizing me",
+   "source": "reddit/popular",
+   "weight": 12217
+  },
+  {
+   "text": "Sigh... No good deed goes unpunished. I saw your tales(posts) for years, I never believed them to be true. The CDS found me and I should have ran.",
+   "source": "reddit/popular",
+   "weight": 12015
+  },
+  {
+   "text": "Reddit be like",
+   "source": "reddit/popular",
+   "weight": 12631
+  },
+  {
+   "text": "2 Cats Grooming A Younger Cat",
+   "source": "reddit/popular",
+   "weight": 11922
+  },
+  {
+   "text": "He though everyone would tolerate his behaviour until he picked on the wrong person",
+   "source": "reddit/popular",
+   "weight": 13172
+  },
+  {
+   "text": "Trump vows to meet with Abdul El-Sayed on golden 'Trumpcare, tells The Post he and Dems could do 'great things'",
+   "source": "reddit/popular",
+   "weight": 11530
+  },
+  {
+   "text": "Convoy transporting nuclear warheads moves through the town.",
+   "source": "reddit/popular",
+   "weight": 12192
+  },
+  {
+   "text": "New York bans talking AI stuffed animals and dolls for five years",
+   "source": "reddit/popular",
+   "weight": 11547
+  },
+  {
+   "text": "Bosses who pushed AI at work are now drowning in \u201cworkslop\u201d",
+   "source": "reddit/popular",
+   "weight": 11346
+  },
+  {
+   "text": "DRACULA",
+   "source": "reddit/popular",
+   "weight": 11085
+  },
+  {
+   "text": "Just crazy how far this is going",
+   "source": "reddit/popular",
+   "weight": 11093
+  },
+  {
+   "text": "big stretch equals big smiles for me",
+   "source": "reddit/popular",
+   "weight": 11781
+  },
+  {
+   "text": "Trying to kick a girl",
+   "source": "reddit/popular",
+   "weight": 11884
+  },
+  {
+   "text": "Kilmar Abrego Garcia leaving the US, self-deporting to Spain",
+   "source": "reddit/popular",
+   "weight": 10874
+  },
+  {
+   "text": "I hand-wrote every word from the movie Obsession. It's 9500 words and took me 35 hours.",
+   "source": "reddit/popular",
+   "weight": 10959
+  },
+  {
+   "text": "A bridge in Pakistan...",
+   "source": "reddit/popular",
+   "weight": 10897
+  },
+  {
+   "text": "Husband of Jensen Huang\u2019s mistress has much more significant Chinese intelligence connections than her, report claims",
+   "source": "reddit/popular",
+   "weight": 11016
+  },
+  {
+   "text": "Wrong Address",
+   "source": "reddit/popular",
+   "weight": 10973
+  },
+  {
+   "text": "Brilliant and way too easy",
+   "source": "reddit/popular",
+   "weight": 11005
+  },
+  {
+   "text": "When even the machine is rooting against you",
+   "source": "reddit/popular",
+   "weight": 10685
+  },
+  {
+   "text": "MAGA Americans Who Moved to Texas From California Consider Relocating Again After 2026 Election, WSJ Says",
+   "source": "reddit/popular",
+   "weight": 10648
+  },
+  {
+   "text": "Players think that Trevor Phillips is a better person than Lucia",
+   "source": "reddit/popular",
+   "weight": 10559
+  },
+  {
+   "text": "As long as they\u2019re happy, I\u2019m happy",
+   "source": "reddit/popular",
+   "weight": 10295
+  },
+  {
+   "text": "title",
+   "source": "reddit/popular",
+   "weight": 9952
+  },
+  {
+   "text": "GTA6 - Gameplay tips I wish I knew from the start",
+   "source": "reddit/popular",
+   "weight": 9981
+  },
+  {
+   "text": "Biggest progress yet for 'Graphical Testing Archive' on PC",
+   "source": "reddit/popular",
+   "weight": 9775
+  },
+  {
+   "text": "Poll: Democrats Prefer Chris Van Hollen over Chuck Schumer for Senate Majority Leader by 21 Points",
+   "source": "reddit/popular",
+   "weight": 9943
+  },
+  {
+   "text": "TIL that when the ballpoint pen debuted in 1945, it cost the equivalent of $234. Thousands were sold the first week that it became available at Gimbels department store in New York City.",
+   "source": "reddit/popular",
+   "weight": 9836
+  },
+  {
+   "text": "Ukrainian foreign minister advises Putin to stop complaining about strikes on oil refineries and end war instead",
+   "source": "reddit/popular",
+   "weight": 9616
+  },
+  {
+   "text": "I've never stepped into a restaurant's kitchen but this sub makes my day",
+   "source": "reddit/popular",
+   "weight": 9613
+  },
+  {
+   "text": "It does matter. A lot.",
+   "source": "reddit/popular",
+   "weight": 9587
+  },
+  {
+   "text": "Imagine having nostalgia for WWI of all things",
+   "source": "reddit/popular",
+   "weight": 10062
+  },
+  {
+   "text": "HE'S ONE OF US",
+   "source": "reddit/popular",
+   "weight": 9524
+  },
+  {
+   "text": "Instead of looking for someone to blame, look for a solution",
+   "source": "reddit/popular",
+   "weight": 9471
+  },
+  {
+   "text": "Lead Azide explosion in Iowa",
+   "source": "reddit/popular",
+   "weight": 9656
+  },
+  {
+   "text": "Peak Adolescence",
+   "source": "reddit/popular",
+   "weight": 9380
+  },
+  {
+   "text": "Humanity is at its end.",
+   "source": "reddit/popular",
+   "weight": 9447
+  }
+ ]
+}
