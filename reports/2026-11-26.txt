@@ -1,0 +1,12 @@
+ 1. wartimelaw.com           available?   new to tracker risk=medium wartime law
+ 2. kingtides.ai             available?   steady         risk=medium king tides
+ 3. wartimelaw.ai            available?   new to tracker risk=medium wartime law
+ 4. unionvote.ai             available?   new to tracker risk=medium union vote
+ 5. birdphotography.ai       available?   steady         risk=low    bird photography
+ 6. kingtides.com            taken        steady         risk=medium king tides
+ 7. unionvote.com            taken        new to tracker risk=medium union vote
+ 8. kingtides.co             unknown (no RDAP for .co) steady         risk=medium king tides
+ 9. wartimelaw.co            unknown (no RDAP for .co) new to tracker risk=medium wartime law
+10. unionvote.co             unknown (no RDAP for .co) new to tracker risk=medium union vote
+11. birdphotography.com      taken        steady         risk=low    bird photography
+12. birdphotography.co       unknown (no RDAP for .co) steady         risk=low    bird photography

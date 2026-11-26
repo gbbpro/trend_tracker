@@ -1,1 +1,13 @@
 rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
+1,wartimelaw.com,available?,0.91,wartime law,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"google_news,reddit/popular","Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO"
+2,kingtides.ai,available?,0.77,king tides,steady,0.97,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,google_news",King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding
+3,wartimelaw.ai,available?,0.73,wartime law,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"google_news,reddit/popular","Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO"
+4,unionvote.ai,available?,0.71,union vote,new to tracker,1.0,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,reddit/popular",Rockstar UK union vote
+5,birdphotography.ai,available?,0.28,bird photography,steady,0.95,low,generic phrase,82.7,82.7,bluesky,Bird photography
+6,kingtides.com,taken,0.96,king tides,steady,0.97,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,google_news",King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding
+7,unionvote.com,taken,0.89,union vote,new to tracker,1.0,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,reddit/popular",Rockstar UK union vote
+8,kingtides.co,unknown (no RDAP for .co),0.62,king tides,steady,0.97,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,google_news",King tides and strong waves destroy part of Pacifica pier as officials warn of coastal flooding
+9,wartimelaw.co,unknown (no RDAP for .co),0.59,wartime law,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"google_news,reddit/popular","Hegseth, Pentagon officials floated using wartime law to reappoint Nvidia CEO"
+10,unionvote.co,unknown (no RDAP for .co),0.58,union vote,new to tracker,1.0,medium,sometimes appears as a proper noun,15.76,31.2,"bluesky,reddit/popular",Rockstar UK union vote
+11,birdphotography.com,taken,0.35,bird photography,steady,0.95,low,generic phrase,11.81,11.81,bluesky,Bird photography
+12,birdphotography.co,unknown (no RDAP for .co),0.23,bird photography,steady,0.95,low,generic phrase,15.76,31.2,bluesky,Bird photography
