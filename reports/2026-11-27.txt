@@ -1,0 +1,6 @@
+ 1. leadazide.ai             available?   breaking out   risk=medium lead azide
+ 2. avengersdoomsday.ai      available?   rising         risk=medium avengers doomsday
+ 3. leadazide.com            taken        breaking out   risk=medium lead azide
+ 4. leadazide.co             unknown (no RDAP for .co) breaking out   risk=medium lead azide
+ 5. avengersdoomsday.com     taken        rising         risk=medium avengers doomsday
+ 6. avengersdoomsday.co      unknown (no RDAP for .co) rising         risk=medium avengers doomsday

@@ -1,0 +1,7 @@
+rank,domain,status,score,phrase,stage,velocity,risk,risk_why,register_usd,renew_usd,sources,example
+1,leadazide.ai,available?,1.65,lead azide,breaking out,19.1,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,wikipedia",Iowa lead azide detonation
+2,avengersdoomsday.ai,available?,0.51,avengers doomsday,rising,2.05,medium,sometimes appears as a proper noun,82.7,82.7,"bluesky,wikipedia",Avengers: Doomsday
+3,leadazide.com,taken,2.06,lead azide,breaking out,19.1,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,wikipedia",Iowa lead azide detonation
+4,leadazide.co,unknown (no RDAP for .co),1.34,lead azide,breaking out,19.1,medium,sometimes appears as a proper noun,2.37,31.2,"bluesky,wikipedia",Iowa lead azide detonation
+5,avengersdoomsday.com,taken,0.63,avengers doomsday,rising,2.05,medium,sometimes appears as a proper noun,11.81,11.81,"bluesky,wikipedia",Avengers: Doomsday
+6,avengersdoomsday.co,unknown (no RDAP for .co),0.41,avengers doomsday,rising,2.05,medium,sometimes appears as a proper noun,2.37,31.2,"bluesky,wikipedia",Avengers: Doomsday
